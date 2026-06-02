@@ -13,6 +13,7 @@ import multer from 'multer';
 import { procesarBases } from './locate_capitulos.mjs';
 import { analizar, backendDisponible } from './analizar.mjs';
 import { generarInforme } from './generar_tex.mjs';
+import { generarInformeDocx } from './generar_docx.mjs';
 
 const DIR = import.meta.dirname;
 const UPLOADS = path.join(DIR, 'uploads');
@@ -106,6 +107,30 @@ app.get('/api/download/:id', (req, res) => {
   const j = jobs.get(req.params.id);
   if (!j || !j.pdf || !fs.existsSync(j.pdf)) return res.status(404).send('PDF no disponible');
   res.download(j.pdf, path.basename(j.pdf));
+});
+
+// Genera el informe en Word (.docx) con la plantilla SUSALUD.
+app.post('/api/generate-docx', async (req, res) => {
+  const { jobId, items, meta } = req.body || {};
+  const j = jobs.get(jobId);
+  if (!j) return res.status(404).json({ error: 'job no encontrado' });
+  try {
+    const r = await generarInformeDocx({
+      items: items || [], meta: meta || {}, outDir: OUT,
+      nombre: 'consultas_observaciones_' + (j.nombre || jobId),
+    });
+    if (!r.ok) return res.status(500).json({ error: 'no se pudo generar el .docx' });
+    setJob(jobId, { docx: r.docxPath, items });
+    res.json({ ok: true, downloadUrl: `/api/download-docx/${jobId}` });
+  } catch (e) {
+    res.status(500).json({ error: String(e.message || e) });
+  }
+});
+
+app.get('/api/download-docx/:id', (req, res) => {
+  const j = jobs.get(req.params.id);
+  if (!j || !j.docx || !fs.existsSync(j.docx)) return res.status(404).send('Word no disponible');
+  res.download(j.docx, path.basename(j.docx));
 });
 
 const PORT = process.env.PORT || 3000;

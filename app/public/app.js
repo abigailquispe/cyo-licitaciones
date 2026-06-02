@@ -104,26 +104,33 @@ const esc = (s) => (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replac
 
 $('#btn-add').onclick = () => agregarFila({ tipo: 'consulta' });
 
-// ---------- Generar PDF ----------
-$('#btn-pdf').onclick = async () => {
+// ---------- Generar PDF / Word ----------
+function recolectar() {
   const items = [...$('#filas').querySelectorAll('tr')].map(tr => {
     const o = {};
     tr.querySelectorAll('[data-k]').forEach(el => o[el.dataset.k] = el.value.trim());
     return o;
   }).filter(o => o.texto_motivado);
-  if (!items.length) return alert('No hay filas con texto para generar.');
   const meta = {
     nomenclatura: $('#m-nom').value, objeto: $('#m-obj').value,
     entidad: $('#m-ent').value, participante: $('#m-part').value,
   };
-  $('#btn-pdf').disabled = true; $('#btn-pdf').textContent = 'Generando…';
-  const r = await fetch('/api/generate', {
+  return { items, meta };
+}
+
+async function generar(endpoint, btn, link, etiqueta) {
+  const { items, meta } = recolectar();
+  if (!items.length) return alert('No hay filas con texto para generar.');
+  const prev = btn.textContent;
+  btn.disabled = true; btn.textContent = 'Generando…';
+  const r = await fetch(endpoint, {
     method: 'POST', headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ jobId, items, meta }),
-  }).then(x => x.json());
-  $('#btn-pdf').disabled = false; $('#btn-pdf').textContent = 'Generar PDF';
-  if (r.error) return alert('Error al generar: ' + r.error + (r.log ? '\n\n' + r.log : ''));
-  const a = $('#link-descarga');
-  a.href = r.downloadUrl; a.classList.remove('hidden');
-  a.click();
-};
+  }).then(x => x.json()).catch(e => ({ error: String(e) }));
+  btn.disabled = false; btn.textContent = prev;
+  if (r.error) return alert('Error al generar ' + etiqueta + ': ' + r.error + (r.log ? '\n\n' + r.log : ''));
+  link.href = r.downloadUrl; link.classList.remove('hidden'); link.click();
+}
+
+$('#btn-pdf').onclick = () => generar('/api/generate', $('#btn-pdf'), $('#link-descarga'), 'PDF');
+$('#btn-docx').onclick = () => generar('/api/generate-docx', $('#btn-docx'), $('#link-descarga-docx'), 'Word');
