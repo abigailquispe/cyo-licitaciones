@@ -9,7 +9,7 @@
  */
 import fs from 'fs';
 import path from 'path';
-import { spawn } from 'child_process';
+import { spawn, execSync } from 'child_process';
 
 const SYSTEM = fs.readFileSync(path.join(import.meta.dirname, 'prompts', 'system_analisis.md'), 'utf8');
 const MODEL = process.env.ANALYSIS_MODEL || 'claude-sonnet-4-6';
@@ -45,25 +45,29 @@ function extraerJSON(text) {
   throw new Error('No se pudo extraer JSON de la respuesta del análisis.');
 }
 
-// Localiza el ejecutable de la CLI de Claude (Windows / npm global).
-function claudeExe() {
-  if (process.env.CLAUDE_EXE && fs.existsSync(process.env.CLAUDE_EXE)) return process.env.CLAUDE_EXE;
-  const cands = [
-    path.join(process.env.APPDATA || '', 'npm', 'node_modules', '@anthropic-ai', 'claude-code', 'bin', 'claude.exe'),
-    path.join(process.env.LOCALAPPDATA || '', 'npm', 'node_modules', '@anthropic-ai', 'claude-code', 'bin', 'claude.exe'),
-  ];
-  return cands.find(p => p && fs.existsSync(p)) || null;
+// ¿Está disponible la CLI de Claude? (multiplataforma)
+function claudeDisponible() {
+  if (process.env.CLAUDE_EXE) return fs.existsSync(process.env.CLAUDE_EXE);
+  try {
+    execSync(process.platform === 'win32' ? 'where claude' : 'command -v claude', { stdio: 'ignore' });
+    return true;
+  } catch { return false; }
 }
 
 // --- Motor CLI (suscripción, sin API key) ---
 function analizarCLI(capText, onProgress) {
   return new Promise((resolve, reject) => {
-    const exe = claudeExe();
-    if (!exe) return reject(new Error('No se encontró la CLI claude.exe. Define CLAUDE_EXE o usa ANTHROPIC_API_KEY.'));
+    if (!claudeDisponible()) return reject(new Error('No se encontró la CLI de Claude. Instala/loguéate en Claude Code, define CLAUDE_EXE, o usa ANTHROPIC_API_KEY.'));
     onProgress({ step: 'analizar', message: 'Analizando con Claude Code (suscripción)…' });
     const prompt = `${SYSTEM}\n\n${EJEMPLOS}\n\n${INSTRUCCION_JSON}\n\n` +
       `===== TEXTO DE LAS BASES (CAP. III y IV) =====\n${capText}`;
-    const child = spawn(exe, ['-p', '--output-format', 'json'], { stdio: ['pipe', 'pipe', 'pipe'] });
+    // Si hay CLAUDE_EXE se ejecuta directo; si no, se invoca "claude" vía shell
+    // (resuelve el .cmd/.ps1 en Windows y el script en Mac/Linux).
+    const exe = process.env.CLAUDE_EXE;
+    const args = ['-p', '--output-format', 'json'];
+    const child = exe
+      ? spawn(exe, args, { stdio: ['pipe', 'pipe', 'pipe'] })
+      : spawn('claude', args, { stdio: ['pipe', 'pipe', 'pipe'], shell: true });
     let out = '', err = '';
     child.stdout.on('data', d => { out += d; });
     child.stderr.on('data', d => { err += d; });
@@ -120,9 +124,9 @@ async function analizarAPI(capText, onProgress) {
 
 export function backendDisponible() {
   if (process.env.ANALYSIS_BACKEND === 'api') return process.env.ANTHROPIC_API_KEY ? 'api' : null;
-  if (process.env.ANALYSIS_BACKEND === 'cli') return claudeExe() ? 'cli' : null;
+  if (process.env.ANALYSIS_BACKEND === 'cli') return claudeDisponible() ? 'cli' : null;
   if (process.env.ANTHROPIC_API_KEY) return 'api';
-  if (claudeExe()) return 'cli';
+  if (claudeDisponible()) return 'cli';
   return null;
 }
 

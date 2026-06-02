@@ -1,0 +1,13 @@
+# Dependencias de Python para el OCR local (PaddleOCR).
+#
+# Instalación CPU (por defecto, funciona en cualquier equipo):
+#     pip install -r requirements.txt
+#
+# Para acelerar con GPU NVIDIA (opcional, ~40x más rápido):
+#     pip uninstall paddlepaddle -y
+#     pip install paddlepaddle-gpu==3.3.1 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/
+#   (requiere driver NVIDIA reciente; elige el índice cuXXX según tu CUDA)
+
+paddleocr==3.6.0
+paddlepaddle==3.3.1
+pymupdf==1.27.2.3

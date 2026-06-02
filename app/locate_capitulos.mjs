@@ -13,7 +13,10 @@ import { spawn } from 'child_process';
 import { getDocument } from 'pdfjs-dist/legacy/build/pdf.mjs';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
-const PY = path.join(ROOT, '.venv', 'Scripts', 'python.exe');
+// Ruta del Python del venv según el SO (Windows vs Mac/Linux); overridable.
+const PY = process.env.PYTHON_BIN || (process.platform === 'win32'
+  ? path.join(ROOT, '.venv', 'Scripts', 'python.exe')
+  : path.join(ROOT, '.venv', 'bin', 'python'));
 const PADDLE = path.join(ROOT, 'paddle_ocr.py');
 const MIN_REAL_CHARS = 60; // igual que procesar_concurso.mjs
 
