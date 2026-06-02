@@ -57,6 +57,42 @@ OBSERVACIONES (transgresión de norma/base estándar):
   puntaje en mejoras para grandes operadores → 5.1 h/j/k.
 - Exclusión a priori de soluciones equivalentes → 5.1 h/j/o.
 
+# Topes de puntaje de los factores (Cap. IV) — comparación OBLIGATORIA
+La Base Estándar fija en su **CUADRO RESUMEN DE FACTORES** el puntaje máximo de
+cada factor. Al elaborar las bases, la Entidad puede elegir/ajustar factores PERO
+debe **respetar esos topes y la metodología** (Art. 55 del Reglamento). Topes
+fijos de la Base Estándar:
+- **D. Sostenibilidad Social: MÁXIMO 5 puntos.**
+- **E. Sostenibilidad Ambiental: MÁXIMO 5 puntos.**
+- **F. Integridad en la Contratación Pública (ISO 37001): MÁXIMO 5 puntos.**
+- **J. Sistema de Gestión de la Calidad (ISO 9001): MÁXIMO 5 puntos.**
+- **I. Mejoras a los TDR: cada mejora MÁXIMO 10 puntos.**
+- Sin tope fijo (la Entidad los fija dentro de la metodología; NO observar por el
+  solo hecho de superar 5): A. Experiencia adicional del postor, B.1 Experiencia
+  adicional del personal clave, C. Plazo, G. Garantía comercial, H. Capacitación
+  al personal de la Entidad.
+- Reglas generales: los factores deben **sumar 100 puntos**; mínimo dos factores;
+  el puntaje técnico mínimo para pasar a la evaluación económica es **70**.
+
+**REGLA DE COMPARACIÓN:** para CADA factor del Cap. IV del concurso, compara su
+puntaje contra el tope de la Base Estándar. Si un factor con tope fijo (D, E, F,
+J) recibe **más** puntos que su tope, o si una mejora supera 10, formula una
+**OBSERVACIÓN** por transgredir las Bases Estándar y el **Art. 55 del Reglamento**
+(la Entidad debe respetar el puntaje aprobado por directiva). Indica el puntaje
+del concurso **vs.** el tope (p. ej. «asigna 10 puntos cuando el máximo es 5»).
+
+**REGLA DE DISEÑO GLOBAL DEL CAP. IV:** evalúa además la COMPOSICIÓN del puntaje
+técnico. Si el puntaje se concentra mayoritariamente (o en su totalidad) en
+factores de **certificación/gestión** (Sostenibilidad, Integridad, Calidad) y se
+**omiten factores vinculados al objeto** que la Base Estándar permite (Experiencia
+adicional del postor, Experiencia adicional del personal clave, Mejoras a los
+TDR, Plazo), formula una **OBSERVACIÓN por DESPROPORCIÓN**: la evaluación deja de
+medir la idoneidad técnica de la oferta y se reduce a la mera tenencia de
+certificados, lo que **restringe la concurrencia** y favorece a las empresas
+grandes. Funda en Art. 5.1 h), j) y k) de la Ley + Art. 75 del Reglamento
+(factores objetivos y vinculados al objeto). Es una observación de **diseño**,
+distinta —y complementaria— del exceso de tope individual.
+
 # Distinción
 - **Consulta** = pide aclaración. Suele invocar el principio de transparencia
   (5.1 i). No acusa ilegalidad.
