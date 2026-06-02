@@ -189,7 +189,37 @@ export function ubicarCapitulos(pageTexts) {
  * Procesa el PDF y devuelve el texto de Cap III+IV listo para análisis.
  * onProgress({step, message})
  */
-const esCapV = (t) => tieneEncabezado(t, /^capitulo\s+v\b/, /proforma del contrato/);
+// Detecta el bloque REAL de Términos de Referencia: un encabezado "Términos de
+// Referencia" seguido de contenido propio del TDR. Puede estar inline en el
+// Cap. III o como ANEXO al final del PDF. NO confunde con la mera referencia
+// ("los TDR se encuentran adjuntos a las bases").
+function esTDRReal(pageText) {
+  const lines = (pageText || '').split('\n').map(l => norm(l).trim()).filter(Boolean);
+  for (let i = 0; i < lines.length; i++) {
+    const l = lines[i];
+    if (/^(anexo[^a-z0-9]*\d*[^a-z0-9]*)?terminos de referencia/.test(l) && l.length <= 45 &&
+        !/adjunt|se encuentr|forman parte|formato del|conforme/.test(l)) {
+      const ventana = lines.slice(i + 1, i + 14).join(' ');
+      if (/finalidad publica|objetivo de la contratacion|objetivo general|alcance del|especificaciones tecnicas|descripcion del servicio|requerimientos? tecnicos? minimos?/.test(ventana)) {
+        return true;
+      }
+    }
+  }
+  return false;
+}
+export function findTDRReal(pageTexts) {
+  for (let i = 0; i < pageTexts.length; i++) if (esTDRReal(pageTexts[i])) return i;
+  return -1;
+}
+// Página del "Cuadro Resumen de Factores" (marca el fin del bloque de factores).
+// Busca la LÍNEA-encabezado "Cuadro Resumen…", no una mención en el texto corrido.
+export function findCuadroResumen(pageTexts, desde) {
+  for (let i = Math.max(0, desde); i < pageTexts.length; i++) {
+    const lines = (pageTexts[i] || '').split('\n').map(l => norm(l).trim());
+    if (lines.some(l => /^cuadro resumen/.test(l) && l.length <= 60)) return i;
+  }
+  return -1;
+}
 
 export async function procesarBases(pdfPath, { onProgress = () => {}, ocrEnabled = true, startHint = 0 } = {}) {
   onProgress({ step: 'extraer', message: 'Extrayendo texto del PDF…' });
@@ -199,47 +229,56 @@ export async function procesarBases(pdfPath, { onProgress = () => {}, ocrEnabled
   const imagePages = detectarImagenes(pages, numPages);
   onProgress({ step: 'detectar', message: `${numPages} páginas | ${imagePages.length} son imagen` });
 
-  let modoOCR = 'ninguno';
+  // OCR de las páginas-imagen (todas, desde startHint si se indicó). Se procesan
+  // TODAS para no perder el TDR cuando viene como ANEXO al final del PDF.
+  let modoOCR = 'sin OCR';
   if (ocrEnabled && imagePages.length) {
-    // Camino 1: si los encabezados ya se leen con pdfjs (PDF mixto), OCR solo
-    // las páginas-imagen DENTRO del rango Cap III–(V|fin).
-    let loc = ubicarCapitulos(pageTexts);
-    if (loc.startIII >= 0 && loc.startIV >= 0) {
-      const hasta = loc.startV >= 0 ? loc.startV : numPages;
-      const objetivo = imagePages.filter(n => n - 1 >= loc.startIII && n - 1 < hasta);
-      modoOCR = `rango Cap III–IV (${objetivo.length} págs-imagen)`;
-      if (objetivo.length) {
-        onProgress({ step: 'ocr', message: `OCR de ${objetivo.length} páginas-imagen del rango Cap III–IV…` });
-        const map = await ocrPaddle(pdfPath, toRange(objetivo), (m) => onProgress({ step: 'ocr', message: m }));
-        for (const [n, t] of Object.entries(map)) pageTexts[+n - 1] = t;
-      }
-    } else {
-      // Camino 2: PDF 100% escaneado -> OCR progresivo con corte al llegar al Cap V.
-      const start = startHint > 0 ? Math.min(startHint, numPages) : 1;
-      modoOCR = `progresivo desde pág ${start}, corte en Cap. V`;
-      onProgress({ step: 'ocr', message: `OCR progresivo desde la página ${start} (se detiene al llegar al Cap. V)…` });
-      const map = await ocrProgresivo(pdfPath, start, numPages,
-        (m) => onProgress({ step: 'ocr', message: m }),
-        (n, txt) => { pageTexts[n - 1] = txt; return esCapV(txt); });
-      for (const [n, t] of Object.entries(map)) if (!pageTexts[+n - 1]) pageTexts[+n - 1] = t;
+    const desdePag = startHint > 0 ? Math.min(startHint, numPages) : 1;
+    const objetivo = imagePages.filter(n => n >= desdePag);
+    modoOCR = `OCR de ${objetivo.length} páginas-imagen (desde ${desdePag})`;
+    if (objetivo.length) {
+      onProgress({ step: 'ocr', message: `OCR de ${objetivo.length} páginas-imagen…` });
+      const map = await ocrPaddle(pdfPath, toRange(objetivo), (m) => onProgress({ step: 'ocr', message: m }));
+      for (const [n, t] of Object.entries(map)) pageTexts[+n - 1] = t;
     }
   }
 
-  // Ubicar capítulos sobre el texto final (pdfjs + OCR)
-  onProgress({ step: 'ubicar', message: 'Ubicando Capítulos III y IV…' });
+  // Ubicar capítulos y el TDR real
+  onProgress({ step: 'ubicar', message: 'Ubicando Cap. III, Cap. IV y el TDR…' });
   const { startIII, startIV, startV } = ubicarCapitulos(pageTexts);
+  const tdrStart = findTDRReal(pageTexts);
 
+  // Núcleo: Cap. III (requerimiento/requisitos) + Cap. IV (factores + cuadro).
   const desde = startIII >= 0 ? startIII : (startHint > 0 ? startHint - 1 : 0);
-  const hasta = startV >= 0 ? startV : pageTexts.length; // exclusivo
-  const slice = [];
-  for (let i = desde; i < hasta; i++) slice.push(`\n\n===== PÁGINA PDF ${i + 1} =====\n${pageTexts[i] || ''}`);
-  const capText = slice.join('');
+  const baseIV = startIV >= 0 ? startIV : desde;
+  const cuadro = findCuadroResumen(pageTexts, baseIV);
+  let coreEnd;
+  if (cuadro >= 0) coreEnd = cuadro + 1;
+  else if (startV >= 0) coreEnd = startV;
+  else coreEnd = Math.min(baseIV + 15, pageTexts.length);
+  coreEnd = Math.min(Math.max(coreEnd, desde + 1), pageTexts.length);
+
+  const incluir = new Set();
+  for (let i = desde; i < coreEnd; i++) incluir.add(i);
+
+  // Si el TDR real está FUERA del núcleo (viene como anexo), incluirlo hasta el final.
+  let tdrAnexo = false;
+  if (tdrStart >= 0 && (tdrStart < desde || tdrStart >= coreEnd)) {
+    tdrAnexo = true;
+    for (let i = tdrStart; i < pageTexts.length; i++) incluir.add(i);
+  }
+
+  const idx = [...incluir].sort((a, b) => a - b);
+  const capText = idx.map(i => `\n\n===== PÁGINA PDF ${i + 1} =====\n${pageTexts[i] || ''}`).join('');
   const fullText = pageTexts.map((t, i) => `\n\n===== PÁGINA PDF ${i + 1} =====\n${t || ''}`).join('');
 
   return {
     numPages, imagePages, modoOCR,
-    encontrado: { capIII: startIII >= 0, capIV: startIV >= 0 },
-    indices: { startIII: startIII + 1, startIV: startIV + 1, startV: startV >= 0 ? startV + 1 : null },
+    encontrado: { capIII: startIII >= 0, capIV: startIV >= 0, tdr: tdrStart >= 0, tdrAnexo },
+    indices: {
+      startIII: startIII + 1, startIV: startIV + 1, startV: startV >= 0 ? startV + 1 : null,
+      tdr: tdrStart >= 0 ? tdrStart + 1 : null, coreEnd,
+    },
     capText, fullText,
   };
 }
