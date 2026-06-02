@@ -1,0 +1,338 @@
+% ============================================================================
+%  Tutorial: De PDFs escaneados a informes legales con IA
+%  Presentación en Beamer — Universidad del Pacífico
+%  Compilar:  pdflatex tutorial_ocr_ia.tex   (x2)
+% ============================================================================
+\documentclass[10pt,aspectratio=169]{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{lmodern}
+\usepackage{textcomp}
+\usepackage{pifont}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning}
+
+\usetheme{Madrid}
+\usecolortheme{whale}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{caption}[numbered]
+
+\definecolor{ok}{RGB}{26,122,58}
+\definecolor{mal}{RGB}{179,51,51}
+\newcommand{\si}{\textcolor{ok}{\ding{51}}}
+\newcommand{\no}{\textcolor{mal}{\ding{55}}}
+
+\title[OCR + IA para legaltech]{De PDFs escaneados a informes legales con IA}
+\subtitle{OCR open-source, GPU y agentes de IA: un caso real de \emph{legaltech}}
+\author[Expositor]{[Nombre del expositor]}
+\institute[UP]{Universidad del Pacífico}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}\titlepage\end{frame}
+
+\begin{frame}{¿Qué vamos a ver hoy?}
+  \begin{itemize}
+    \item Un \textbf{problema real}: analizar bases de licitaciones que vienen como PDF escaneado.
+    \item Cómo elegir entre \textbf{API de pago} y \textbf{open-source}.
+    \item Por qué \textbf{conocer tu hardware} (CPU, RAM, GPU) decide qué puedes correr.
+    \item Un \textbf{fracaso instructivo}: un modelo de IA que no entró en la GPU.
+    \item La solución: \textbf{PaddleOCR} + \textbf{GPU} + un \textbf{agente de IA} para el análisis.
+    \item Cómo lo convertimos en una \textbf{app} y las \textbf{lecciones transferibles}.
+  \end{itemize}
+  \vfill
+  \footnotesize\emph{Objetivo: no es memorizar comandos, sino entender cómo se toman las decisiones técnicas.}
+\end{frame}
+
+\section{El problema}
+
+\begin{frame}{El problema de partida}
+  \begin{columns}
+    \begin{column}{0.58\textwidth}
+      \begin{itemize}
+        \item Somos un estudio que formula \textbf{Consultas y Observaciones} a bases de concursos públicos.
+        \item Las bases (sobre todo el TDR) llegan como \textbf{imágenes escaneadas} dentro del PDF: \emph{no se puede copiar el texto}.
+        \item Estábamos usando la \textbf{API de Anthropic} para leerlas $\rightarrow$ \textcolor{mal}{caro} al hacerlo a gran escala.
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \begin{block}{La pregunta}
+        ¿Existe una alternativa \textbf{open-source y gratuita} para hacer este OCR en mi propia computadora?
+      \end{block}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+\begin{frame}{Concepto clave: dos tipos de PDF}
+  \begin{columns}
+    \begin{column}{0.5\textwidth}
+      \begin{block}{PDF con capa de texto}
+        \begin{itemize}
+          \item El texto es \textbf{seleccionable}.
+          \item Se extrae \textbf{gratis e instantáneo} (p. ej. con \texttt{pdfjs}).
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.5\textwidth}
+      \begin{block}{PDF escaneado (imagen)}
+        \begin{itemize}
+          \item Es una \textbf{foto}: no hay texto.
+          \item Requiere \textbf{OCR} (reconocimiento óptico de caracteres).
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+  \vfill
+  \centering\footnotesize
+  \emph{Regla de oro: usa OCR \textbf{solo} en las páginas que son imagen; el resto, extracción directa.}
+\end{frame}
+
+\section{Eligiendo herramienta}
+
+\begin{frame}{El menú de opciones open-source}
+  \centering
+  \begin{tabular}{@{}lll@{}}
+    \toprule
+    \textbf{Herramienta} & \textbf{Tipo} & \textbf{Nota} \\
+    \midrule
+    Tesseract / Tesseract.js & OCR clásico & Liviano; sufre con tablas/escaneos malos \\
+    \textbf{PaddleOCR} & OCR moderno (CNN) & Rápido, multilenguaje, buen español \\
+    Surya / docTR & OCR \emph{deep learning} & Muy preciso \\
+    Marker / MinerU & PDF $\rightarrow$ Markdown & Conserva estructura/tablas \\
+    Qwen2.5-VL, MiniCPM-V & \emph{LLM de visión} & Calidad tipo Claude, pero \textbf{pesados} \\
+    \bottomrule
+  \end{tabular}
+  \vfill
+  \begin{block}{Criterio}
+    No existe ``la mejor''. Depende de: calidad de los documentos, idioma, y \textbf{el hardware que tienes}.
+  \end{block}
+\end{frame}
+
+\begin{frame}{Antes de elegir: conoce tu hardware}
+  \begin{columns}
+    \begin{column}{0.5\textwidth}
+      La máquina del caso:
+      \begin{itemize}
+        \item CPU Intel i7 (6 núcleos)
+        \item 32 GB de RAM
+        \item GPU \textbf{NVIDIA GTX 1660 Ti — 6 GB VRAM}
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.5\textwidth}
+      \begin{alertblock}{El dato que lo decide todo}
+        La \textbf{VRAM} (memoria de la GPU) determina qué modelos de IA puedes cargar.\\[4pt]
+        6 GB es modesto: alcanza para modelos pequeños, no para los grandes.
+      \end{alertblock}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+\section{Un fracaso instructivo}
+
+\begin{frame}{Intento 1: un LLM de visión local (Ollama + Qwen2.5-VL)}
+  \begin{itemize}
+    \item Idea: correr un modelo ``tipo Claude'' en local con \textbf{Ollama}, gratis.
+    \item Instalamos todo, descargamos el modelo (3B)\ldots y al correrlo: \textbf{lentísimo}.
+    \item Diagnóstico \textbf{leyendo los logs} del servidor:
+  \end{itemize}
+  \begin{exampleblock}{Lo que decía el log}
+    \texttt{offloaded 0/37 layers to GPU}\\
+    \texttt{compute graph ... size="6.7 GiB"}\\
+    \texttt{total memory ... size="10.1 GiB"}
+  \end{exampleblock}
+  \centering
+  El modelo necesitaba \textbf{$\sim$10 GiB} pero la GPU solo tiene \textbf{6 GB} $\rightarrow$ cayó a CPU $\rightarrow$ \textcolor{mal}{una página densa tardaba +10 min}.
+\end{frame}
+
+\begin{frame}{Lección: ``modelo de visión'' $\neq$ ``OCR dedicado''}
+  \begin{columns}
+    \begin{column}{0.5\textwidth}
+      \begin{block}{LLM de visión (Qwen 3B)}
+        \begin{itemize}
+          \item Razona sobre la imagen.
+          \item \textbf{Enorme} en memoria ($\sim$10 GiB con la imagen).
+          \item \no\ No entra en 6 GB.
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.5\textwidth}
+      \begin{block}{OCR dedicado (PaddleOCR)}
+        \begin{itemize}
+          \item Solo reconoce caracteres.
+          \item Modelos \textbf{diminutos} (cientos de MB).
+          \item \si\ Entra de sobra en 6 GB.
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+  \vfill
+  \centering\textbf{Moraleja:} usa la herramienta del tamaño del problema. No traigas un cañón para matar una mosca.
+\end{frame}
+
+\section{La solución}
+
+\begin{frame}{Pivote: PaddleOCR}
+  \begin{itemize}
+    \item Cambiamos al OCR dedicado. Resultado: transcripción \textbf{fiel, con tildes}, en CPU y \textbf{gratis}.
+    \item Detalles que aprendimos en el camino:
+    \begin{itemize}
+      \item Un \emph{bug} conocido en CPU se resuelve con un parámetro (\texttt{enable\_mkldnn=False}).
+      \item Las \textbf{tablas apaisadas} (giradas 90°) salían como basura $\rightarrow$ se activa la \textbf{corrección de orientación}.
+    \end{itemize}
+  \end{itemize}
+  \begin{exampleblock}{Antes vs. después (página girada)}
+    \footnotesize
+    \textbf{Antes:} \texttt{SOSORAOOS CS OORSOD\ldots} (ilegible)\\
+    \textbf{Después:} \texttt{N° CONTRATO | OBJETO | CLIENTE | MONTO\ldots} (tabla legible)
+  \end{exampleblock}
+\end{frame}
+
+\begin{frame}{CPU vs. GPU: el momento ``wow''}
+  Instalamos la versión GPU de PaddleOCR (\texttt{paddlepaddle-gpu}). Mismo modelo, misma página:
+  \vfill
+  \centering
+  \begin{tabular}{@{}lcc@{}}
+    \toprule
+    & \textbf{CPU} & \textbf{GPU (1660 Ti)} \\
+    \midrule
+    Una página densa & $\sim$45 s & \textbf{$\sim$1 s} \\
+    Rango de $\sim$42 páginas & $\sim$32 min & \textbf{$\sim$1 min} \\
+    \bottomrule
+  \end{tabular}
+  \vfill
+  \begin{block}{¿Por qué ahora SÍ ayudó la GPU?}
+    Porque los modelos de PaddleOCR \textbf{sí entran} en 6 GB. La GPU acelera lo que cabe; no hace milagros con lo que no cabe (como el LLM de visión).
+  \end{block}
+\end{frame}
+
+\section{De script a aplicación}
+
+\begin{frame}{Arquitectura de la app (todo local)}
+  \centering
+  \begin{tikzpicture}[
+    node distance=8mm and 10mm,
+    box/.style={draw, rounded corners, align=center, font=\scriptsize, minimum height=8mm, fill=blue!8},
+    arr/.style={-{Stealth[length=2mm]}, thick}]
+    \node[box] (up) {Navegador\\(sube PDF)};
+    \node[box, right=of up] (ex) {Extracción\\texto (pdfjs)};
+    \node[box, right=of ex] (ocr) {OCR imágenes\\(PaddleOCR/GPU)};
+    \node[box, right=of ocr] (cap) {Ubica\\Cap. III y IV};
+    \node[box, below=of cap] (ia) {Análisis legal\\(Claude)};
+    \node[box, left=of ia] (tex) {Informe\\LaTeX $\rightarrow$ PDF};
+    \node[box, left=of tex] (dl) {Descarga\\PDF};
+    \draw[arr] (up)--(ex); \draw[arr] (ex)--(ocr); \draw[arr] (ocr)--(cap);
+    \draw[arr] (cap)--(ia); \draw[arr] (ia)--(tex); \draw[arr] (tex)--(dl);
+  \end{tikzpicture}
+  \vfill
+  \footnotesize Servidor local (Node/Express) que orquesta: Python (OCR), un agente de IA (análisis) y LaTeX (PDF).
+\end{frame}
+
+\begin{frame}{Decisión de diseño clave: ¿qué hace cada parte?}
+  \begin{columns}
+    \begin{column}{0.5\textwidth}
+      \begin{block}{OCR \textbf{local} (PaddleOCR)}
+        \begin{itemize}
+          \item Tarea \textbf{repetitiva y de volumen}.
+          \item Gratis, en tu GPU. \si
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.5\textwidth}
+      \begin{block}{Análisis \textbf{con IA} (Claude)}
+        \begin{itemize}
+          \item Tarea de \textbf{razonamiento jurídico} de alto valor.
+          \item Pocos tokens, gran impacto. \si
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+  \vfill
+  \centering
+  \textbf{Principio:} pon el trabajo barato y masivo en local; reserva el modelo caro para lo que de verdad agrega valor.
+\end{frame}
+
+\begin{frame}[fragile]{Truco: usar Claude sin clave de API}
+  \begin{itemize}
+    \item El \textbf{análisis} se puede hacer con la \textbf{suscripción} de Claude Code, sin pagar API aparte.
+    \item Se invoca en modo ``headless'' (sin interfaz) desde el servidor:
+  \end{itemize}
+  \begin{exampleblock}{Llamada en modo headless}
+\begin{verbatim}
+claude -p "Analiza el TDR y devuelve JSON" --output-format json
+\end{verbatim}
+  \end{exampleblock}
+  \begin{itemize}
+    \item Devuelve la respuesta lista para que el programa la procese (JSON estructurado).
+    \item \footnotesize\emph{(Trade-offs: depende del cupo de la suscripción y de tener Claude Code instalado.)}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Optimizar: hacer OCR solo de lo necesario}
+  \begin{itemize}
+    \item Solo analizamos los \textbf{Capítulos III y IV} ($\sim$42 págs), no las 110.
+    \item Estrategia: \textbf{OCR progresivo} que \textbf{se detiene} al detectar el inicio del Cap.~V.
+    \item \textcolor{mal}{Bug encontrado:} Python ``guarda en buffer'' su salida cuando otro programa la captura $\rightarrow$ nuestro detector de ``ya llegamos'' no se enteraba.
+    \item \textcolor{ok}{Solución:} leer el \textbf{archivo} que el OCR va escribiendo, en vez de su consola.
+  \end{itemize}
+  \vfill
+  \centering\footnotesize\emph{Lección: los detalles ``tontos'' (buffering, formatos) son la mitad del trabajo real de programar.}
+\end{frame}
+
+\begin{frame}{Responsabilidad profesional: humano en el centro}
+  \begin{itemize}
+    \item La IA genera un \textbf{borrador}, no la versión final.
+    \item La app verifica que cada \textbf{cita} exista \textbf{literal} en el texto (marca lo ``sin verificar'').
+    \item El abogado \textbf{revisa y edita} antes de generar el PDF.
+  \end{itemize}
+  \begin{alertblock}{Por qué importa}
+    En documentos legales (y en general), la IA es un \textbf{copiloto}, no un piloto automático. La responsabilidad sigue siendo humana.
+  \end{alertblock}
+\end{frame}
+
+\begin{frame}{Buenas prácticas de ingeniería que aplicamos}
+  \begin{itemize}
+    \item \textbf{No subir al repositorio} lo que no debe: dependencias gigantes (\texttt{node\_modules}, \texttt{.venv} de 3.9 GB) ni \textbf{secretos} (\texttt{.env}). $\rightarrow$ \texttt{.gitignore}.
+    \item GitHub \textbf{rechaza archivos $>$100 MB}: las dependencias se \textbf{reinstalan}, no se versionan.
+    \item Guardado \textbf{incremental} y \textbf{reanudable}: si un proceso largo se corta, no se pierde el avance.
+    \item \textbf{Diagnosticar por logs} antes de adivinar.
+  \end{itemize}
+\end{frame}
+
+\section{Cierre}
+
+\begin{frame}{El resultado}
+  \begin{block}{De principio a fin}
+    PDF escaneado de 110 páginas \;$\rightarrow$\; informe de \textbf{Consultas y Observaciones} en PDF, en \textbf{$\sim$4 minutos}, \textbf{sin costo de API} y en la propia computadora.
+  \end{block}
+  \vfill
+  \begin{itemize}
+    \item OCR local gratis (PaddleOCR), \textbf{acelerado 40$\times$} con la GPU.
+    \item Análisis jurídico con un agente de IA usando la suscripción.
+    \item Una app que un colega puede usar subiendo un PDF.
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Lecciones transferibles (lo que de verdad importa)}
+  \begin{enumerate}
+    \item \textbf{Define el problema} antes de elegir la herramienta.
+    \item \textbf{Conoce tus límites} (hardware/VRAM): deciden qué es posible.
+    \item \textbf{La herramienta del tamaño del problema} (OCR dedicado vs LLM gigante).
+    \item \textbf{Híbrido}: lo barato/masivo en local; el modelo caro solo donde agrega valor.
+    \item \textbf{Itera y diagnostica}: los fracasos enseñan (Qwen $\rightarrow$ PaddleOCR).
+    \item \textbf{Humano en el centro}: la IA propone, la persona decide.
+  \end{enumerate}
+\end{frame}
+
+\begin{frame}{¿Preguntas?}
+  \vfill
+  \centering
+  {\Huge ¡Gracias!}\\[12pt]
+  {\large Construyamos algo en clase.}
+  \vfill
+\end{frame}
+
+\end{document}
