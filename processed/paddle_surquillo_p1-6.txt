@@ -1,0 +1,148 @@
+===== OCR LOCAL de input\76143429basesestandarconcursopublicoabreviadodeservicios+2_20260528_191110_777.pdf (paginas 1-6) - PaddleOCR (es) =====
+
+
+----- PAGINA PDF 1 -----
+REPOBO
+PERÚ
+Ministerio
+de Economía y Finanzas
+DIRECCIÓN GENERAL DE ABASTECIMIENTO
+BASES ESTÁNDAR
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+
+----- PAGINA PDF 2 -----
+SIMBOLOGÍA UTILIZADA:
+N° Símbolo Descripción
+Es una indicación que debe ser completada o eliminada por
+1[ [ABC] la entidad contratante durante la elaboración de las bases
+conforme a las instrucciones brindadas.
+Es una indicación o información que debe ser completada
+por la entidad contratante con posterioridad al otorgamiento
+[ABC] de la buena pro para el caso específico de la elaboración de
+la PROFORMA DEL CONTRATO; o por los proveedores, al
+completar los ANEXOS de la oferta.
+Se refiere a advertencias a tener en cuenta por los
+Advertencia
+3 evaluadores y los proveedores. No deben ser eliminadas una
+Abc
+vez culminada la elaboración de las bases.
+Importante para la
+Se refiere a consideraciones importantes a tener en cuenta
+entidad contratante
+4 por los evaluadores y deben ser eliminadas una vez
+Xyz
+culminada la elaboración de las bases.
+INSTRUCCIÓN DE USO:
+Una vez registrada la información solicitada dentro de los corchetes, el texto debe quedar en letra
+Arial tamaño 10, con estilo normal, sin formato de negrita y sin sombrear.
+CARACTERÍSTICAS DE LAS BASES A ELABORAR:
+Las bases deben ser elaboradas en formato WoRD y deben tener las características del presente
+documento. De existir algún cambio en el formato como márgenes, fuente, tamaño de letra, entre
+otros, no acarrea su nulidad, salvo que por el tipo o tamaño de letra impida la lectura por parte de
+los proveedores.
+
+----- PAGINA PDF 3 -----
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+@
+Surquillo
+el cambio es ahora
+CONCURSO PÚBLICO ABREVIADO DE
+SERVICIOS N° 02-2026-MDS
+SOSRROSROOS
+CONTRATACION DEL SERVICIO PARA INTERNET
+DEDICADO, TRANSMISION DE DATOS, TELEFONIA IP,
+CORREO Y ALMACENAMIENTO CLOUD
+
+----- PAGINA PDF 4 -----
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+SECCIÓN GENERAL
+DISPOSICIONES COMUNES DEL CONCURSO PÚBLICO
+ABREVIADO DE SERVICIOS
+SOSTOROROSROGO
+(ESTA SECCIÓN NO DEBE SER MODIFICADA EN NINGÚN EXTREMO, BAJO SANCIÓN DE NULIDAD)
+2
+
+----- PAGINA PDF 5 -----
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+CAPÍTULO I
+ASPECTOS GENERALES
+1.1.  REFERENCIAS
+Cuando en el presente documento se mencione la palabra “Ley”, se entiende que se está
+haciendo referencia a la Ley N° 32069, Ley General de Contrataciones Públicas, y cuando se
+mencione la palabra “Reglamento”, se entiende que se está haciendo referencia al Reglamento
+de la Ley N° 32069, Ley General de Contrataciones Públicas, aprobado por Decreto Supremo
+N° 009-2025-EF. Las referidas normas incluyen sus respectivas modificaciones, de ser el caso.
+1.2. ALCANCE1
+La presente base estándar es utilizada por la entidad contratante para la contratación de: i)
+servicios según la cuantía establecida en la Ley de Presupuesto del Sector Público para el Año
+Fiscal correspondiente; ii)servicios homologados;ii)servicios de rehabilitación y
+reconstrucción posterior a emergencias y desastres; iv) la segunda convocatoria del concurso
+público para servicios en general y AsisTE; o v) insumos directamente utilizados en los
+procesos productivos por las empresas del Estado conforme la Séptima Disposición
+Complementaria Final de la Ley.
+SROIS
+TRROROOO
+1 De acuerdo con el numeral 260.4 del artículo 260 del Reglamento, si el requerimiento cuenta con ficha de homologación y dicha
+homologación es parcial, se utiliza la base que aplica al procedimiento de selección que corresponde según a la cuantía de la
+contratación.
+
+----- PAGINA PDF 6 -----
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+CAPÍTULO II
+DESARROLLO DEL PROCEDIMIENTO DE SELECCIÓN
+2.1 ETAPAS DEL CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+Las etapas del presente procedimiento de selección son las siguientes²:
+ETAPA CARACTERÍSTICAS BASE LEGAL
+a) Convocatoria Se realiza a través del SEACE de la Pladicop en la Artículos 63 y 64 del
+fecha señalada en el cronograma. Reglamento.
+b) Registro de Aplica lista abierta, por lo que cualquier proveedor I Artículos 65 y 94 del
+participantes puede registrarse como participante en el Reglamento.
+procedimiento de selección.
+1. La presentación de consultas y/u Artículos 62, 66 y 94
+c) Cuestionamientos a observaciones se realiza en un plazo no menor del Reglamento.
+las bases a tres días hábiles contabilizados desde el día
+(consultas, siguiente de la convocatoria.
+observaciones e
+integración) 2. La absolución de los referidos
+cuestionamientos y la publicación de las bases
+integradas se realiza en la fecha prevista en el
+cronograma del procedimiento de selección.
+d) Evaluación de 1. La presentación de ofertas se realiza a través Artículos 68, 70, 71,
+ofertas técnicas y del SEACE de la Pladicop desde las 00:01 72, 73, 74, 75, 78 y
+económicas hasta las 23:59 horas (hora peruana) de la 132 del Reglamento.
+fecha prevista en el cronograma del
+procedimiento de selección. Dicha fecha no
+puede ser fijada en menos de tres días hábiles
+desde la publicación de la integración de bases.
+2. La presentación de ofertas se realiza
+adjuntando el archivo digitalizado que contenga
+los documentos que la conforman, según lo SIOS
+requerido en las bases³.
+3. La evaluación de ofertas es SIN
+PRECALIFICACIÓN y consiste en:
+a. Admisión de las ofertas: Los evaluadores L
+revisan que la oferta contenga los D
+documentos señalados en el Capítulo Il de
+la Sección Específica de las bases, caso
+contrario la oferta se considera no admitida.
+OEO
+b. Revisión de los requisitos de calificación:
+Los evaluadores califican a los postores
+verificando que cumplan con los requisitos
+de calificación detallados en el Capítulo III
+de la Sección Específica de las bases. Caso
+contrario oferta se considera
+descalificada.
+o
+CONNNSS
+2 De conformidad con el numeral 27.1 del artículo 27 de la Ley, la facultad para actuar discrecionalmente se fundamenta en el
+rigor técnico empleado por los funcionarios y servidores, dependencias y unidades de organización encargadas de las
+contrataciones públicas para optar por la mejor decisión debidamente sustentada que permita el cumplimiento oportuno de los
+fines públicos.
+3 Los formularios electrónicos del SEACE de la Pladicop que los participantes deben registrar para presentar sus ofertas, tienen
+carácter de declaración jurada.
+4

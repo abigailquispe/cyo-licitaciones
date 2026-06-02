@@ -1,0 +1,24 @@
+# Dependencias (regenerables — NO se versionan; GitHub rechaza archivos >100 MB)
+node_modules/
+.venv/
+
+# Secretos
+.env
+.env.*
+
+# Artefactos de ejecución de la app (regenerables)
+app/uploads/
+app/salidas/
+
+# Intermedios de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+
+# Scripts de prueba temporales
+**/_test_*.mjs
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,214 @@
+% ============================================================================
+%  CONSULTAS Y OBSERVACIONES A LAS BASES
+%  Concurso Público Abreviado de Servicios N° 02-2026-MDS
+%  Municipalidad Distrital de Surquillo
+%  Objeto: Internet Dedicado, Transmisión de Datos, Telefonía IP, Correo y
+%          Almacenamiento en la Nube
+%  Alcance: SOLO Capítulo III (Requerimiento/TDR + Requisitos de Calificación)
+%           y Capítulo IV (Factores de Evaluación).
+%  Citas textuales tomadas del TDR (OCR verbatim, processed/...COMPLETO.txt).
+%  Compilar con:  pdflatex consultas_observaciones_CPA_02-2026-MDS.tex  (x2)
+% ============================================================================
+\documentclass[10pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage[landscape,a4paper,margin=1.5cm]{geometry}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+\definecolor{encab}{RGB}{31,73,125}
+\definecolor{filagris}{RGB}{238,242,248}
+
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{J}[1]{>{\justifying\arraybackslash}p{#1}}
+
+\setlength{\extrarowheight}{2pt}
+\renewcommand{\arraystretch}{1.15}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\footnotesize Consultas y Observaciones — CPA N.\textsuperscript{o} 02-2026-MDS}
+\rhead{\footnotesize Municipalidad Distrital de Surquillo}
+\cfoot{\footnotesize Página \thepage\ de \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\newcommand{\thd}[1]{\textcolor{white}{\bfseries #1}}
+% cita textual del TDR
+\newcommand{\cita}[1]{\textit{«#1»}}
+
+\begin{document}
+
+% ============================ PORTADA / DATOS ===============================
+\begin{center}
+  {\Large\bfseries CONSULTAS Y OBSERVACIONES A LAS BASES}\\[2pt]
+  {\large (Capítulo III — Términos de Referencia y Requisitos de Calificación; y Capítulo IV — Factores de Evaluación)}\\[10pt]
+\end{center}
+
+\noindent\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{|>{\bfseries}p{6.0cm}|p{18.5cm}|}
+\hline
+\rowcolor{filagris}\multicolumn{2}{|l|}{\bfseries Formato para Formular Consultas y Observaciones}\\\hline
+Nomenclatura del procedimiento de selección & Concurso Público Abreviado de Servicios N.\textsuperscript{o} 02-2026-MDS \\\hline
+Objeto de la contratación & Contratación del servicio de Internet Dedicado, Transmisión de Datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube \\\hline
+Entidad contratante & Municipalidad Distrital de Surquillo \\\hline
+Participante & \textbf{[CONSIGNAR LA RAZÓN SOCIAL DEL PARTICIPANTE]} \\\hline
+Marco normativo aplicable & Ley N.\textsuperscript{o} 32069, Ley General de Contrataciones Públicas, y su Reglamento aprobado por D.S. N.\textsuperscript{o} 009-2025-EF \\\hline
+\end{tabular}
+
+\vspace{6pt}
+\noindent\footnotesize\textit{Nota: las citas entre comillas («\ldots») son textuales del Capítulo III — Requerimiento (TDR). La referencia de página corresponde a la paginación oficial de las Bases (recuadro inferior derecho).}
+\normalsize
+
+% ============================== 1. CONSULTAS ================================
+\section*{1. CONSULTAS}
+
+\renewcommand{\arraystretch}{1.2}
+\begin{longtable}{|C{0.6cm}|C{2.0cm}|C{2.3cm}|C{1.0cm}|J{14.3cm}|J{4.0cm}|}
+\hline
+\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Consulta (debidamente motivada)} & \thd{Norma / referencia} \\
+\hline
+\endfirsthead
+\hline
+\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Consulta (debidamente motivada)} & \thd{Norma / referencia} \\
+\hline
+\endhead
+\hline
+\multicolumn{6}{r}{\footnotesize\textit{continúa en la página siguiente\ldots}}\\
+\endfoot
+\hline
+\endlastfoot
+
+1 & Capítulo III — TDR & 5.1, ítem 18 & 24--25 &
+El TDR establece que \cita{El POSTOR deberá proveer acceso a una herramienta de monitoreo Web (http o https) para la visualización del tráfico de todos los enlaces a ser contratados}, con una extensa lista de funcionalidades. Sin embargo, no precisa: (i) si dicha herramienta puede ser una \textbf{plataforma unificada} que consolide en un solo acceso todos los enlaces y servicios; ni (ii) el \textbf{número de usuarios concurrentes} que la Entidad requiere. Solicitamos precisar ambos extremos. &
+Art. 5.1 i) (transparencia y facilidad de uso) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+2 & Capítulo III — TDR & 5.1, ítem 18 & 24--25 &
+El mismo numeral exige: \cita{Soporte IP. Tipos de Flow disponibles: NetFlow (version 5, 7 y 9), NetStream, IPFIX, jFlow, sFlow, cFlow}. Dado que varios de estos protocolos son propios de fabricantes distintos (NetFlow–Cisco, NetStream–Huawei, jFlow–Juniper), solicitamos precisar si la exigencia es de soporte \textbf{simultáneo de todos} o si basta soportar al menos uno de los protocolos estándar (p. ej. IPFIX o NetFlow v9), a fin de no orientar la contratación hacia una marca de equipamiento. &
+Art. 5.1 h) y j) Ley N.\textsuperscript{o} 32069; Art. 44.6 del Reglamento. \\
+\hline
+
+3 & Capítulo III — TDR & 7. Capacitaciones & 36 &
+El TDR señala: \cita{El personal de la ENTIDAD será capacitado por el CONTRATISTA a través de instructores, en un curso práctico de veinticuatro (24) horas como mínimo en Lima para el personal que designe la Entidad}. No se precisa el \textbf{número máximo de participantes}, lo que impide dimensionar costo, aforo y logística. Solicitamos precisar el número máximo de personas a capacitar. &
+Art. 5.1 b) e i) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+4 & Capítulo III — TDR & 7. Capacitaciones & 36 &
+El TDR indica que \cita{Será una capacitación no oficial} y \cita{en función a los equipos propuestos (Routers, seguridad virtual, Servicio AntiDDoS, WAF y telefonía)}. Solicitamos precisar: (i) la \textbf{oportunidad} en que se brindará (¿durante la implementación, por única vez o periódica?); (ii) si las 24 horas se computan por curso o por participante; y (iii) si se admite modalidad virtual además de la presencial en Lima. &
+Art. 5.1 i) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+5 & Capítulo III — TDR & 6 (lit. c, f, g) y 17 & 35--41 &
+Coexisten plazos de atención distintos: \cita{tiempo de respuesta máximo \ldots no mayor a 30 minutos} (6.f); \cita{tiempo máximo de la solución de averías \ldots 03 horas de manera remota y 12 horas con desplazamiento presencial} (6.g); \cita{el tiempo de solución de la avería no debe ser mayor a 48 horas} (6.c); y \cita{El tiempo de atención de una avería no deberá ser mayor a dos (02) horas} (17). Solicitamos \textbf{armonizar} y definir ``tiempo de respuesta'', ``de atención'' y ``de solución'', con el momento de inicio del cómputo (desde la generación del ticket, conforme al lit. i). &
+Art. 5.1 i) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+6 & Capítulo III — TDR & 17. Otras penalidades / SLA & 41 &
+La disponibilidad mensual mínima es 99.50\%, con la fórmula Disponibilidad $=\frac{TT-TE}{TT}\times 100$. Solicitamos precisar el \textbf{instrumento técnico objetivo y trazable} con que se medirá el ``total de minutos sin servicio'' (TE), quién valida la medición, y si se excluyen las ventanas de mantenimiento programado notificadas con diez (10) días de anticipación, a fin de un cálculo objetivo de la penalidad. &
+Art. 5.1 i) y l) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+7 & Capítulo III — TDR & 5.1, ítem 19, lit. b) & 25 &
+El TDR exige: \cita{Deberá incluir cinco (08) interfaces 10/100/1000 Ethernet ports como mínimo, un (01) puerto SFP+}. Existe \textbf{contradicción} entre el número en letras (``cinco'') y en dígitos (``08''). Solicitamos precisar el número mínimo de interfaces Ethernet requeridas para los routers de Internet. &
+Art. 5.1 i) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+8 & Capítulo III — TDR & 5.11 / 5.10.x & 34--35 &
+El acápite del servicio Wi-Fi para parques se rotula ``5.11'', pero sus subnumerales aparecen como ``5.10.1'', ``5.10.2'', ``5.10.3'', ``5.10.4'' y ``5.10.5''. Solicitamos corregir y uniformizar la numeración para evitar confusión en la referencia de las especificaciones. &
+Art. 5.1 i) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+9 & Capítulo III — TDR & 5.3, lit. h) & 27--28 &
+El TDR exige: \cita{La solución ofertada deberá incluir una plataforma cloud del mismo fabricante del firewall, para la administración centralizada de logs, analítica, monitoreo, correlación de eventos y generación de reportes \ldots integrada nativamente con el equipo ofertado}. Solicitamos confirmar si se admiten plataformas de gestión de \textbf{fabricante distinto} al del firewall, siempre que cumplan la integración y funcionalidades requeridas, para no restringir la concurrencia a un único fabricante. &
+Art. 5.1 h) y o) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+10 & Capítulo III — TDR & 5.7, lit. d) y portab. & 32--33 &
+Respecto de la telefonía IP, el TDR fija bolsas de minutos por sede y la \cita{portabilidad numérica de las principales líneas telefónicas} (Palacio Municipal 241-0413; Central de Serenazgo 510-2222). Solicitamos precisar si los minutos móviles aplican a llamadas a \textbf{cualquier operador} móvil del país (off-net) o solo on-net, y confirmar el plazo y las gestiones a cargo del contratista para la portabilidad. &
+Art. 5.1 i) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+11 & Capítulo III — TDR & 5.9 (correo) & 35 &
+El TDR exige un servicio de correo en la nube de 2 TB con \cita{cuentas ilimitadas} y \cita{deberá migrar las cuentas de correo existentes en la entidad}. Solicitamos precisar el \textbf{número aproximado de cuentas}, el \textbf{volumen de datos} a migrar y la \textbf{plataforma de origen}, para dimensionar la migración y evitar costos indeterminados. &
+Art. 5.1 b) e i) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+12 & Capítulo III — TDR & 5.10.2 (Wi-Fi parques) & 36 &
+Las EETT del Access Point exterior exigen \textbf{de forma acumulativa}: \cita{Wi-Fi 6 (802.11ax)}; \cita{mínimo de 512 dispositivos cliente \ldots simultáneos}; \cita{hasta 6 Gbps}; \cita{MU-MIMO 4x4:4 de doble banda con \ldots OFDMA}; \cita{un (01) puerto Ethernet de 2,5 Gigabit \ldots PoE/PoE+ y un (01) puerto SFP de 2,5 Gigabit}; e \cita{IP68}. Solicitamos a la Entidad confirmar que se admiten \textbf{soluciones equivalentes} de cualquier fabricante que cumplan el desempeño requerido, a fin de que la conjunción de características no oriente la contratación hacia un equipo o marca específicos. &
+Art. 5.1 h) y o) Ley N.\textsuperscript{o} 32069; Art. 44.6 del Reglamento. \\
+\hline
+
+\multicolumn{6}{|r|}{\textbf{Total de consultas: 12}}\\
+\hline
+\end{longtable}
+
+% ============================ 2. OBSERVACIONES =============================
+\section*{2. OBSERVACIONES}
+
+\renewcommand{\arraystretch}{1.2}
+\begin{longtable}{|C{0.6cm}|C{2.0cm}|C{2.3cm}|C{1.0cm}|J{14.3cm}|J{4.0cm}|}
+\hline
+\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Observación (debidamente motivada)} & \thd{Artículo y norma que se vulnera} \\
+\hline
+\endfirsthead
+\hline
+\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Observación (debidamente motivada)} & \thd{Artículo y norma que se vulnera} \\
+\hline
+\endhead
+\hline
+\multicolumn{6}{r}{\footnotesize\textit{continúa en la página siguiente\ldots}}\\
+\endfoot
+\hline
+\endlastfoot
+
+1 & Capítulo III — TDR y Requisitos de Calificación & Núm. 8 lit. a) y 5.1 ítem 15; Req. Calif. C.4 & 24, 36, 46 &
+El TDR exige (núm. 8.a) que el proveedor cuente con \cita{un Centro de Operaciones de Red (NOC) y un Centro de Operaciones de Seguridad (SOC) propios de la empresa (no tercerizados ni rentados)} y (ítem 15) \cita{NOC \ldots y \ldots SOC propio no rentado a tercero}; lo mismo se reitera como requisito de calificación C.4 (pág. 46). La prohibición de tercerización/alquiler constituye una \textbf{barrera desproporcionada e innecesaria} que limita la concurrencia y favorece a operadores de gran tamaño, sin que la \textbf{propiedad} de dicha infraestructura sea condición necesaria para garantizar el servicio (asegurable vía SLA y penalidades). Solicitamos admitir la \textbf{disponibilidad acreditada} del NOC y SOC bajo cualquier título legal. &
+Art. 5.1 h), j) y l) Ley N.\textsuperscript{o} 32069; Art. 44.6 del Reglamento (D.S. N.\textsuperscript{o} 009-2025-EF). \\
+\hline
+
+2 & Capítulo III — TDR vs. Requisitos de Calificación & Núm. 8 lit. b) vs. Req. Calif. C.2.1 & 36, 46 &
+El núm. 8.b del TDR exige que el líder del proyecto sea \cita{PMP, profesional titulado e Ingeniero Colegiado y Habilitado}, en tanto el requisito de calificación C.2.1 (pág. 46) solo exige el título de Ingeniero. Además, la \textit{Advertencia} de la Base Estándar dispone que como requisito de formación académica \cita{solo puede consignarse ``grado de bachiller'' o ``título profesional''}. Exigir la certificación privada \textbf{PMP} y la \textbf{colegiatura habilitada}: (i) transgrede la Base Estándar; (ii) es desproporcionada; y (iii) restringe la concurrencia. Solicitamos eliminar dichas exigencias y uniformizar el perfil con el requisito de calificación. &
+Transgrede la Base Estándar y los Arts. 5.1 h), k) y l) Ley N.\textsuperscript{o} 32069; Arts. 44.6 y 72 del Reglamento. \\
+\hline
+
+3 & Capítulo III — TDR & 5.1, ítems 11 y 12 & 24 &
+El TDR exige (ítem 11) \cita{una conexión activa, propia y directa de como mínimo 100Gbps al NAP Perú} y (ítem 12) \cita{un gran ancho de banda hacia Internet Internacional (100Gbps como mínimo) \ldots mediante operadores TIER1}, para un requerimiento efectivo de \textbf{dos (02) enlaces de 1 Gbps}. La exigencia es \textbf{manifiestamente desproporcionada} respecto del objeto y limita la concurrencia a grandes operadores, sin sustento de su necesidad. Solicitamos reducir dichas capacidades a las necesidades reales del servicio o eliminarlas como condición. &
+Art. 5.1 h) y l) Ley N.\textsuperscript{o} 32069; Art. 44.6 del Reglamento. \\
+\hline
+
+4 & Capítulo IV — Evaluación de Ofertas & 4.1 (Factores de Evaluación) y 4.1.2 & 48--50 &
+La evaluación técnica (100 puntos) se compone \textbf{únicamente} de tres certificaciones ISO ``facultativas'': Sostenibilidad Ambiental ISO 14001 (20 pts), Integridad/Antisoborno ISO 37001 (40 pts) y Sistema de Gestión de la Calidad ISO 9001 (40 pts); y se exige un \textbf{puntaje técnico mínimo de 70 puntos} para pasar a la evaluación económica. En la práctica, no se alcanzan 70 puntos sin al menos las dos certificaciones de 40 puntos, por lo que factores ``facultativos'' operan como \textbf{requisitos de admisión de facto}, restringiendo la competencia y afectando a las MYPE (cuya experiencia se reduce a S/ 33,000). Solicitamos reformular los factores y/o reducir el puntaje técnico mínimo. &
+Art. 5.1 h), j) y k) Ley N.\textsuperscript{o} 32069; Art. 131 del Reglamento (trato a las MYPE en modalidad abreviada). \\
+\hline
+
+5 & Capítulo IV — Evaluación de Ofertas & Cuadro Resumen de Factores & 50 &
+El detalle de los factores los identifica como ``B. Sostenibilidad Ambiental'', ``C. Integridad'' y ``D. Sistema de Gestión de la Calidad''; pero el ``Cuadro Resumen de Factores de Evaluación'' los identifica como ``E. Sostenibilidad Ambiental (20)'', ``F. Integridad (40)'' y ``J. Sistema de Gestión de la Calidad (40)''. La \textbf{discordancia} en la denominación/literal genera incertidumbre sobre los factores y puntajes aplicables. Solicitamos corregir y uniformizar la identificación de los factores. &
+Art. 5.1 i) y k) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+6 & Capítulo III — TDR & 5.4 Servicio Anti DDoS & 28--29 &
+El TDR dispone: \cita{No se aceptarán soluciones en las que la protección DDoS sea una funcionalidad adicional de equipos firewall, NGFW, ADC y/o Routers}, exigiendo un entorno en nube \cita{perteneciente a su propia red e infraestructura}. Esta exclusión \textit{a priori} de soluciones técnicamente equivalentes (p. ej. plataformas de \textit{scrubbing} de terceros o protecciones integradas) restringe la concurrencia sin sustento, pese a exigirse solo una capacidad de mitigación de \cita{al menos 5 Gbps}. Solicitamos admitir soluciones equivalentes que cumplan los parámetros técnicos exigidos. &
+Art. 5.1 h), j) y o) Ley N.\textsuperscript{o} 32069; Art. 44.6 del Reglamento. \\
+\hline
+
+\multicolumn{6}{|r|}{\textbf{Total de observaciones: 6}}\\
+\hline
+\multicolumn{6}{|r|}{\textbf{Total de consultas y/u observaciones: 18}}\\
+\hline
+\end{longtable}
+
+\end{document}

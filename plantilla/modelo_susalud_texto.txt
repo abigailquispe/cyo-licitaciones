@@ -1,0 +1,82 @@
+﻿
+CONSULTAS Y OBSERVACIONES A LOS TÉRMINOS DE REFERENCIA
+
+Formato para Formular Consultas y Observaciones
+Nomenclatura del procedimiento de selección
+CPS N° 002-2026-SUSALUD
+Objeto de la contratación
+Contratación de Servicios de Interconexión de Línea Dedicada
+Participante
+NEXTNET
+N° de orden
+Acápite de las Bases
+Consulta y/u Observación (debidamente motivada)
+Artículo y norma que se vulnera (en el caso de observaciones)
+Sección
+Numeral y Literal
+Pág.
+1
+Capítulo II
+2.5
+23
+La cláusula establece que el plazo de pago es de 10 días hábiles 'prorrogable previa justificación de la demora, por cinco días hábiles', sin precisar quién califica la justificación ni el procedimiento para solicitarla. Esto genera incertidumbre para el contratista sobre el ejercicio de este mecanismo. ¿En qué supuestos específicos procede la prórroga de 5 días hábiles del plazo de pago, y quién es el responsable de determinar si la justificación es válida?
+Art. 67 Ley N° 32069 (Ley General de Contrataciones del Estado); Art. 162 del Reglamento aprobado por D.S. N° 008-2024-EF.
+2
+Capítulo III
+TDR 3.c)
+25
+El plazo se fija a partir del 14 de octubre de 2026, pero se señala 'o de ser fecha posterior la que se indique en el Acta de Inicio'. La imprecisión en la determinación de la fecha de inicio puede generar controversias sobre el cómputo de penalidades por mora y la vigencia del contrato. ¿Cuál es la fecha de inicio del plazo de ejecución de 1,096 días calendario si el contrato aún no ha sido suscrito? ¿Se ha previsto que el inicio sea posterior al 14 de octubre de 2026 en caso de retrasos en el proceso?
+Art. 40 Ley N° 32069; Art. 148 del Reglamento (D.S. N° 008-2024-EF).
+3
+Capítulo III
+TDR 3.f) Otras Penalidades
+25
+¿Cómo se acredita el 'tiempo de caída de servicio' para efectos del cálculo de la penalidad? ¿Quién es el responsable de la medición y cuál es el instrumento técnico validado para ello?. La tabla de otras penalidades establece que la verificación la realiza el 'Informe del Área Usuaria', sin precisar el procedimiento técnico para medir los tiempos de caída. Esta indefinición puede afectar el derecho de defensa del contratista al momento de impugnar la aplicación de penalidades. Se recomienda establecer un procedimiento técnico objetivo y trazable.
+4
+Capítulo III 
+3.f)
+26
+Agradeceremos precisar que durante el plazo de instalación, configuración y puesta en marcha del servicio se considerarán, entre otros, como hechos generadores de atraso no imputables al contratista y no corresponderá aplicar penalidades en los siguientes casos:
+- Cualquier demora por no poder contactar con el responsable de la entidad en el sitio.
+- Cualquier error en la información brindada por la entidad que pueda afectar el rápido despliegue del recurso humano o material del contratista.
+- Cualquier error en las coordenadas referentes a un lugar en donde se requiere el despliegue de la implementación.
+- La falta de respuesta en las coordinaciones necesarias para culminar con los trabajos de implementación.
+5
+Capítulo III 
+3.f)
+27
+Las bases establecen un plazo de 03 días para notificar la penalidad 'a partir de la presentación de la conformidad de la prestación del servicio', lo cual resulta contradictorio: si ya se otorgó la conformidad, no debería aplicarse penalidad por incumplimiento. Se recomienda precisar el momento de inicio del cómputo para notificación de penalidades. ¿El plazo de tres (03) días para notificar al contratista el supuesto de penalidad se computa desde la conformidad o desde que el Área Usuaria detecta la caída? ¿Qué sucede si la notificación se realiza fuera del plazo indicado?
+
+6
+Capítulo III
+4.2.1
+35
+Las bases exigen que el equipo de LOGs esté integrado con IA generativa y aprendizaje automático del mismo fabricante con licenciamiento de tokens mensuales (Característica N° 13), lo cual coincide con características propias y exclusivas de soluciones en específico, sin que las bases admitan expresamente soluciones equivalentes. En esa línea, se está vulnerando el principio de libre concurrencia establecido en el artículo 5° de la Ley N° 32069. Por lo que, solicitamos a la entidad reformular las especificaciones técnicas sin exigir características que solo puedan ser ofrecidas por equipos de marcas específicas.
+Art. 5 h) Ley N° 32060
+7
+Capítulo III
+4.2.1
+41
+Respecto a la herramienta web de visualización gráfica de estadísticas del enlace, solicitamos a la entidad precisar si la herramienta para cada tipo de enlace puede ser una plataforma unificada que consolide en un solo acceso. Asimismo, indicar el número de usuarios concurrentes que podrán acceder a la herramienta de monitoreo. 
+
+8
+Capítulo III
+4.2.2
+42
+Solicitamos a la entidad precisar los tiempos máximos permitidos para la reparación o reemplazo de equipos o componentes ante fallas del servicio, a fin de establecer adecuadamente los compromisos operativos del contratista. 
+
+9
+Capítulo III
+4.2.3
+45
+Solicitamos a la entidad precisar el tiempo máximo de resolución por tipo de avería y por enlace, si bien las bases establecen que el contratista debe responder en 30 minutos ante una caída del servicio, se entiende que este es el tiempo que se toma desde reportar el incidente hasta que el contratista responda y asigna un ticket.
+
+10
+Capítulo III
+4.2.5
+46
+Solicitamos a la entidad precisar que asume como parte de las facilidades que brinda al contratista, durante la implementación del servicio, se encuentran el garantizar los accesos a los inmuebles, independientemente que estos sean administrados y/o sean de propiedad de empresas privadas y/u otras entidades públicas, garantizar la efectiva coordinación para los trabajos de implementación y brindar la información técnica y administrativa correcta (ubicaciones, coordenadas y cualquier otro dato relevante para la correcta implementación del servicio).
+
+Total de consultas y/u observaciones: 10
+
+

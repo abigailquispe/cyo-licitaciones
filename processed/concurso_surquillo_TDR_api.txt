@@ -1,0 +1,955 @@
+===== OCR de input/76143429basesestandarconcursopublicoabreviadodeservicios+2_20260528_191110_777.pdf (páginas 24-45,63) — modelo claude-sonnet-4-6 =====
+
+
+----- PÁGINAS PDF 24-33 -----
+# TRANSCRIPCIÓN FIEL DEL DOCUMENTO
+
+---
+
+[PÁGINA 1 — CARÁTULA DE CAPÍTULO]
+
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+22
+
+---
+
+**CAPÍTULO III
+REQUERIMIENTO**
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+MUNICIPALIDAD DE SURQUILLO
+
+---
+
+**TERMINOS DE REFERENCIA PARA LA CONTRATACIÓN DE SERVICIO DE INTERNET DEDICADO, TRANSMISIÓN DE DATOS, TELEFONÍA IP, CORREO ELECTRÓNICO Y ALMACENAMIENTO EN LA NUBE**
+
+Órgano y/o Unidad Orgánica: | OFICINA GENERAL DE GOBIERNO ELECTRÓNICO Y DIGITAL
+
+Denominación de la Contratación: | SERVICIO DE INTERNET DEDICADO, TRANSMISIÓN DE DATOS, TELEFONÍA IP, CORREO ELECTRÓNICO Y ALMACENAMIENTO EN NUBE
+
+---
+
+**1. ÁREA USUARIA SOLICITANTE**
+Oficina General de Gobierno Electrónico y Digital de la Municipalidad Distrital de Surquillo.
+
+**2. DENOMINACION DE LA CONTRATACIÓN**
+Servicio de Internet Dedicado, transmisión de datos, telefonía IP, servicio de correo electrónico y servicio de archivos en la nube para las sedes de la Municipalidad Distrital de Surquillo.
+
+**3. FINALIDAD PÚBLICA**
+Contratación del servicio de Internet Dedicado, transmisión de datos, telefonía IP, servicio de correo electrónico y servicio de archivos en la nube para la Municipalidad Distrital de Surquillo por un periodo de 365 días, cubiertos por un mismo proveedor.
+
+En la tabla 1 se detalla las direcciones donde se brindará el servicio:
+
+Nº --- Dirección --- Longitud --- Latitud
+
+1 --- Jr. Manuel Iribarren (Ex San Miguel) Nº 155 - **Palacio Municipal.** --- -12.118507 --- -77.02152
+
+2 --- Av. Tomas Marsano S/N – **Gerencia de Seguridad Ciudadana** --- -12.115191 --- -77.010225
+
+3 --- Es Calle Pino Silvestre Cdra 2 S/n – **Casa de Adulto Mayor II – Pino Silvestre** --- -12.12375 --- -77.00136
+
+4 --- Av. República de Panamá 5300 - **Casa de la Juventud** --- -12.117152 --- -77.018354
+
+5 --- Av. Tomas Marsano Nº S/N Cdra. 11 - **Cementerio** --- -12.113609 --- 77.0011232
+
+6 --- Jr. Portocarrero S/N – **Complejo deportivo Morococha** --- -12.107889 --- -77.019939
+
+7 --- Av. Paseo de la Republica Nro. S/N (Alt. Cdra. 48) - **Puesto de Auxilio Rápido** --- -12.113572 --- -77.025411
+
+8 --- Gerencia de Seguridad Ciudadana – **Deposito y Policía – Municipal.** --- -12.115191 --- -77.010225
+
+9 --- Jr. El Carmen Nro. 497 - **Casa del Adulto Mayor I** --- -12.11499 --- -77.02209
+
+10 --- Parque Héroes de la Paz - **Puesto de Auxilio Rápido** --- -12.11598 --- -77.001158
+
+---
+
+[PÁGINA 2]
+
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+23
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+MUNICIPALIDAD DE SURQUILLO
+
+---
+
+11 --- Av. Domingo Orue S/N Cdra. 12 - **Puesto de Auxilio Rápido** --- -12.107239 --- -77.022691
+
+12 --- Av. Angamos y Tomas Marsano - **Central de video vigilancia** --- -12.112798 --- -77.011494
+
+13 --- Av. Angamos Nº 1820 – **Gerencia de Medio Ambiente** --- -12.112575 --- -77.010876
+
+14 --- Av. Tomas Marzano Nº 1199 - **Estadio Municipal** --- -12.114318 --- -77.009869
+
+15 --- Av. República de Panamá 4299 – **Cuna Municipal** --- -12.107931 --- -77.018464
+
+16 --- Av. Angamos y Tomas Marzano - Sede Nueva (Frente a Open Plaza) --- -12.112615 --- -77.011294
+
+*Tabla 1*
+
+---
+
+**4. OBJETIVOS DE LA CONTRATACIÓN DEL SERVICIO**
+Contar con el servicio de Internet Dedicado, transmisión de datos, telefonía IP, servicio de correo electrónico y servicio de archivos en la nube para la Municipalidad Distrital de Surquillo.
+
+**5. DESCRIPCIÓN DEL SERVICIO**
+
+Tipo de Servicio --- Cantidad --- Unidad --- Características
+
+Servicio de Internet Dedicado, transmisión de datos y telefonía IP, correo en la nube y almacenamiento de archivos en la nube --- 01 --- Servicio --- El servicio deberá abastecer la sede Principal (Palacio Municipal) y otras sedes de la Municipalidad Distrital de Surquillo con las características descritas en los siguientes puntos:
+
+---
+
+**5.1. Descripción de las características técnicas del servicio de Internet (Palacio Municipal).**
+
+**CUADRO N°1**
+
+Ubicación --- Dirección --- Distrito --- Ancho de Banda --- Overbooking en la Red Local
+
+Palacio Municipal --- Jr. Manuel Iribarren Nº 155 --- Surquillo --- 1Gbps Mbps --- 1:1
+
+---
+
+1. Dos (02) enlaces dedicados (uno principal y uno de contingencia) de Internet simétrico con un ancho de banda de 1Gbps cada uno, con un Overbooking 1:1 nacional e internacional para todo el enlace solicitado.
+
+2. Los dos (02) enlaces serán configurados en modo activo/standby y deberán estar en diferentes router, dichos router deberán ser del mismo modelo y marca (uno para el enlace primario y otro para el enlace de contingencia)
+
+3. Registro del DNS y asignación de las direcciones IP públicas (mínimo 16), así como el respectivo acceso a internet. Brindar un pool de 16 IPs publicas IPv4 (se considera la IP de Red, Broadcast y puerta de enlace).
+
+4. El POSTOR también deberá instalar Access Point de WIFI en todos los locales de la municipalidad, de acuerdo con la tabla del Item 5.2, el proveedore podrá realizar una visita asistida para evaluar el dimensionamiento del cableado respectivo.
+
+5. El POSTOR deberá utilizar en el backbone tecnología MPLS para la prestación del servicio.
+
+6. Disponibilidad del servicio mensual de 99.5%. El porcentaje de disponibilidad del servicio se regula según la normatividad de telecomunicaciones vigentes.
+
+---
+
+2
+
+---
+
+[PÁGINA 3]
+
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+24
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+MUNICIPALIDAD DE SURQUILLO
+
+---
+
+7. Los equipos router propuestos deberán funcionar en óptimas condiciones asegurando el buen funcionamiento sin degradar el servicio.
+
+8. El POSTOR deberá ofrecer un servicio a todo costo y considerar los equipos y/o accesorios de comunicaciones, así como el mantenimiento de los mismos durante el periodo de contrato.
+
+9. El enlace de Internet servirá para que la ENTIDAD pueda brindar los servicios de Internet (https, FTP, etc.) desde la sede principal hacia sus sedes remotas.
+
+10. El backbone de la red local del postor deberá ser propio y redundante.
+
+11. El postor ganador deberá tener como mínimo una conexión activa, propia y directa de como mínimo 100Gbps al NAP Perú, lo que se acreditará con la constancia o certificado emitida por el NAP el cual se presentará en la etapa de perfeccionamiento de contrato.
+
+12. El POSTOR deberá de poseer un gran ancho de banda hacia Internet Internacional (100Gbps como mínimo) y deberá contar con sistemas de redundancia en la salida internacional mediante operadores TIER1 internacional los que deberá tener conexión directa a través de enlaces de Fibra Óptica. Con ello se busca garantizar la velocidad, seguridad(confidencialidad) disponibilidad mensual del acceso a Internet requerido, se indicará el nombre de los proveedores internaciones (TIER 1) en el diagrama de la solución el cual se presentará en la etapa de perfeccionamiento de contrato.
+
+13. La Fibra óptica deberá ser aérea y/o subterránea del tramo de la última milla, garantizando su operación y seguridad.
+
+14. EL POSTOR será responsable de efectuar los estudios de ingeniería respectivos que le permitan cumplir con el servicio, en esa medida, si fuera necesario realizar obras civiles dentro o fuera del local, para la instalación de los servicios propuestos, estos deberán ser realizados por el POSTOR, quién asumirá los costos que puedan involucrar.
+
+15. El POSTOR deberá tener un Centro de Control de la Red (NOC) y un Centro de Operaciones de Seguridad (SOC) propio no rentado a tercero, donde se encuentren monitoreando (24x7x365) la gestión del enlace de Internet.
+
+16. El POSTOR debe encargarse de la administración y gestión de los equipos Router y/o Switch que hubiere instalado en la ENTIDAD.
+
+17. La ENTIDAD será responsable de su red LAN, así como de proveer lo siguiente:
+
+Toma corriente, energía eléctrica. Así mismo, la Entidad deberá coordinar con el proveedor para brindar las facilidades para la instalación.
+
+18. El POSTOR deberá proveer acceso a una herramienta de monitoreo Web (http o https) para la visualización del tráfico de todos los enlaces a ser contratados, el cual deberá de cumplir con las características técnicas siguientes:
+
+✓ Debe permitir la administración y monitoreo del desempeño de la red (monitoreo de los routers y sus enlaces). Para el router se debe mostrar gráficamente en una sola pantalla la salud del equipo: alarmas recientes, disponibilidad, tiempo de respuesta, pérdida de paquetes, utilización de CPU. Asimismo, en una sola pantalla debe mostrar todas las interfaces con lo siguiente: el estado, nombre de la interface, tráfico de recepción (Kbps y porcentaje), tráfico de transmisión (Kbps y porcentaje), cantidad de errores.
+✓ Capacidad para seleccionar las interfaces físicas o virtuales a monitorear.
+✓ Debe contener herramientas de diagnóstico y análisis en tiempo real, a través de gráficos en tiempo real, mapeo de puertos, análisis de MIBs.
+✓ Capacidad de monitorear VoIP.
+✓ Debe mostrar las alarmas, hasta de los últimos 90 días, con la siguiente información: origen,
+
+---
+
+3
+
+---
+
+[PÁGINA 4]
+
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+25
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+MUNICIPALIDAD DE SURQUILLO
+
+---
+
+mensaje de la alarma, estado, categoría, hora y día.
+✓ Debe permitir Reportes de la salud de Routers. Reportes con intervalo de tiempo configurables del uso del CPU y otros de los dispositivos monitoreados. Gráficos interactivos en pie, barras, tabular.
+✓ Debe permitir Reportes de Tráfico (Entrada y Salida): en Kbps y Paquetes por segundo, Errores y Descartes (Entrada y Salida).
+✓ Soporte IP. Tipos de Flow disponibles: NetFlow (version 5, 7 y 9), NetStream, IPFIX, jFlow, sFlow, cFlow.
+✓ Para cada interface, debe permitir medición de utilización del ancho de banda en intervalos de tiempos configurables: 5min, 15 min, tanto Entrante como Saliente:
+✓ Tráfico: Presentación del volumen, velocidad, utilización y paquetes, en presentación gráfica de tiempo y permita la generación del Informe de Planificación de Capacidad. Las mediciones deben actualizarse a 5 o 10 minutos y las cuales deben ser configurables por el usuario.
+✓ Filtros configurables, personalización de reportes en archivos pdf, csv y creación de alarmas.
+✓ Reportes ejecutivos personalizados y gráficos interactivos.
+✓ Permite la configuración de reportes automáticos para ser generados mensualmente y a petición.
+✓ Monitorear jitter entre la sede principal y sedes remotas.
+✓ Permite la configuración de alertas basado en violaciones de los umbrales.
+✓ Envió de notificaciones vía correo electrónico.
+
+19. Especificaciones técnicas mínimas de los Router de Internet.
+
+Las siguientes son características mínimas técnicas que deben cumplir los Routers:
+- a) Los enrutadores deben soportar el ancho de banda solicitado en el cuadro propuesto.
+- b) Deberá incluir cinco (08) interfaces 10/100/1000 Ethernet ports como mínimo, un (01) puerto SFP+.
+- c) Soporte de protocolos de enrutamiento BGP, OSPF, RIP y rutas estáticas.
+- d) Protocolo IPv4 e IPv6.
+- e) Los routers deberán administrar configuraciones de Calidad de Servicio (QoS).
+- f) Memoria RAM o FLASH como mínimo de 01 GB.
+
+20. El uso negligente de los equipos serán responsabilidad de la entidad, estos daños deberán ser ocasionados dentro de ambientes institucionales previo informe detallado del daño. No se contemplarán daños externos generados por factores ambientales, vandalismo y/o problemas eléctricos.
+
+---
+
+**5.2. Descripción de las características técnicas del servicio de transmisión de datos.**
+
+Sede principal y sedes remotas --- Dirección --- Ancho de Banda (Garantizado) --- WIFI (CANTIDAD)
+
+Palacio Municipal (Cabecera principal) --- Jr. Manuel Iribarren N°155 --- 500 Mbps (1:1) --- 15
+
+Gerencia de Seguridad Ciudadana --- Av. Tomas Marzano S/N. --- 50 Mbps (1:1) --- 3
+
+Casa de Adulto Mayor II --- Es Calle Pino Silvestre Cdra 2 S/n --- 20 Mbps (1:1) --- 2
+
+Casa de la Juventud --- Av. República de Panamá 5300 --- 50 Mbps (1:1) --- 7
+
+---
+
+4
+
+---
+
+[PÁGINA 5]
+
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+26
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+MUNICIPALIDAD DE SURQUILLO
+
+---
+
+Cementerio --- Av. Tomas Marsano cdra. 11 --- 20 Mbps (1:1) --- 1
+
+Complejo deportivo Morococha --- Jr. Portocarrero S/N --- 50 Mbps (1:1) --- 3
+
+Puesto de Auxilio Rápido --- Av. Paseo de la Republica S/N --- 10 Mbps (1:1) --- 1
+
+Depósito --- Av. Tomas Marsano S/N --- 20 Mbps (1:1) --- 2
+
+Casa Adulto Mayor I --- Jr. El Carmen 497 --- 40 Mbps (1:1) --- 3
+
+Puesto de Auxilio Rápido --- Parque Héroes de la Paz --- 10 Mbps (1:1) --- 1
+
+Puesto de Auxilio Rápido --- Av. Domingo Orue S/N cdra.12 --- 10 Mbps (1:1) --- 1
+
+Central de video Vigilancia --- Av. Angamos y Tomas Marsano. --- 50 Mbps (1:1) --- 1
+
+Gerencia de Medio Ambiente --- Av. Angamos 1820 --- 50 Mbps (1:1) --- 4
+
+Estadio Municipal --- Av. Tomas Marsano N° 1199 --- 50 Mbps (1:1) --- 6
+
+Cuna Municipal --- Av. República de Panamá 4299 --- 20 Mbps (1:1) --- 3
+
+Av. Angamos y Tomas Marzano - Sede Nueva (Frente a Open Plaza) --- Av. Angamos y Tomas Marsano. --- 50 Mbps (1:1) --- 5
+
+---
+
+***NOTA:***
+*El proveedor deberá proporcionar Access Point para cada sede descrita en la tabla anterior, las características principales que deben tener los Access Point son las siguientes:*
+
+*Ambiente: Indoor*
+*- 2.4 GHz Speed: 300 Mbps*
+*- 5 GHz Speed: 1733 Mbps*
+*- Ports: 01 10/100/1000 Ethernet*
+
+1. Deberá estar basado en la implantación de líneas dedicadas, con anchos de banda requeridos de acuerdo con la necesidad de la entidad indicado en el cuadro anterior y con las condiciones requeridas de disponibilidad y confiabilidad.
+2. La dirección de la sede central de la Municipalidad Distrital de Surquillo es Jr. Manuel Irribarren N°155 – Surquillo. En esta sede se ubicará la sede la cabecera de comunicaciones donde llegarán los enlaces de las sedes remotas.
+3. El servicio de interconexión de datos deberá estar basado en tecnologías que permitan el adecuado manejo de la Calidad de Servicio (QoS) para todos los locales. Que permita manejar la diferenciación de tráfico.
+4. La topología física y lógica de la WAN propuesta deberá permitir la conectividad de "todos contra todos"; es decir, la comunicación de datos entre todos los locales, siendo el punto de interconexión la sede central de Palacio Municipal.
+5. Los enlaces de la sede central y sedes remotas deberán ser de fibra óptica subterránea canalizada y/o aérea
+
+---
+
+5
+
+---
+
+[PÁGINA 6]
+
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+27
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+MUNICIPALIDAD DE SURQUILLO
+
+---
+
+6. La disponibilidad del servicio deberá ser 99.50% y será medida mensualmente, en el caso que se produzca una avería como rotura de fibra o factor externo, este será evaluado entre la entidad y el contratista para comprobar la responsabilidad.
+7. El protocolo utilizado para el transporte de datos debe ser TCP/IP
+8. La WAN deberá soportar el transporte de tráfico de telefonía IP.
+9. El backbone de la red del contratista y los nodos de comunicaciones deberán ser propiedad del contratista e implementados con fibra óptica.
+
+10. Especificaciones técnicas mínimas de los Router de transmisión de datos.
+Las siguientes son características mínimas técnicas que deben cumplir los Routers:
+
+- a) Los enrutadores deben soportar el ancho de banda solicitado en el cuadro propuesto.
+- b) Deberá incluir cinco (05) interfaces 10/100/1000 Ethernet ports como mínimo, un (01) puerto SFP.
+- c) Soporte de protocolos de enrutamiento BGP, OSPF, RIP y rutas estáticas.
+- d) Protocolo IPv4 e IPv6.
+- e) Los routers deberán administrar configuraciones de Calidad de Servicio (QoS).
+- f) Memoria RAM o Flash como mínimo de 128 MB.
+
+---
+
+**5.3. Seguridad Gestionada para la sede del Palacio Municipal y Central de video vigilancia.**
+
+El servicio de Seguridad Gestionada on premise o virtual debe ser integral y comprende la gestión, monitoreo y remediación de los incidentes de seguridad interna o externa que tengan que ser mitigados mediante el presente servicio de seguridad gestionada y que comprometan la seguridad de la red de las sedes Palacio Municipal y Video vigilancia de la Municipalidad Distrital de Surquillo
+
+Las siguientes son características técnicas que debe cumplir este servicio para cumplir con los requerimientos técnicos mínimos y para asegurar el nivel de servicio requerido.
+
+a. Por disponibilidad de la Seguridad Gestionada, se deberá entender a la disponibilidad de los diferentes componentes que se encuentren involucrados, tales como: la gestión de la seguridad de los medios de comunicaciones del proveedor; así como, la gestión del servicio de seguridad gestionada que proporcione el proveedor.
+
+b. El servicio de Seguridad Gestionada deberá permitir la eficiencia operativa, los rendimientos predecibles y la simplificación en la gestión de la red.
+
+c. Los componentes del servicio de Seguridad Gestionada deberán de actuar integrados a los demás componentes del servicio de internet por fibra óptica.
+
+d. Deberá proporcionar una cobertura de 24x7x365, en respuesta a incidentes, actuando proactivamente en la gestión de los aspectos de seguridad de la red.
+
+e. Deberá monitorear y/o subsanar los incidentes producidos por ataques sofisticados, malware y/o vulnerabilidades propias.
+
+f. Deberá permitir a la Municipalidad Distrital de Surquillo mantener el control definitivo de su propia red y tener una completa visibilidad del estado de salud de su red, de los incidentes de seguridad.
+
+g. Deberá enviar mensajes de alerta temprana, de análisis de amenazas y vulnerabilidades, así como también soluciones probadas de mitigación, para ayudar a proteger la red de la Municipalidad Distrital de Surquillo
+
+---
+
+6
+
+---
+
+[PÁGINA 7]
+
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+28
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+MUNICIPALIDAD DE SURQUILLO
+
+---
+
+h. La solución ofertada deberá incluir una plataforma cloud del mismo fabricante del firewall, para la administración centralizada de logs, analítica, monitoreo, correlación de eventos y generación de reportes de seguridad con una antigüedad de 3 meses, integrada nativamente con el equipo ofertado y sin requerir infraestructura adicional en la Entidad.
+
+i. El contratista deberá remitir obligatoriamente a la Oficina General de Gobierno Electrónico y Digital un 'Informe Trimestral de Postura de Seguridad' consolidado. Este entregable no deberá limitarse a la presentación de métricas y estadísticas de tráfico de red, sino que deberá detallar de manera exhaustiva las vulnerabilidades detectadas, los incidentes de ciberseguridad identificados y las acciones concretas de mitigación o remediación ejecutadas durante el periodo. Este documento tiene carácter de evidencia técnica de cumplimiento normativo y servirá como sustento directo para las evaluaciones del Modelo de Integridad exigidas por la Secretaría de Integridad Pública (SIP).
+
+---
+
+● **Especificaciones de Firewall**
+
+El postor deberá considerar el servicio de seguridad gestionada que incluya las siguientes características como mínimo:
+
+- Contar con las siguientes funcionalidades activadas: firewall, IPS, antivirus, antispyware (o antibot) y control de aplicaciones. Se tomará en consideración solamente el throughput medido con transacciones| http y/o tráfico ideal o de tráfico real.
+
+- Soportar la cantidad de 300 usuarios aproximadamente de forma concurrente.
+
+Tener activos los módulos de Antivirus y Antibot o sus similares. Así mismo, realizar las funciones de concentrador SSL VPN.
+
+La plataforma debe ser optimizada para análisis de contenido de aplicaciones en Capa 7.
+
+- El software deberá ser ofrecido en su versión más estable y/o más avanzada.
+
+- Debe tener la opción de enviar logs para los sistemas de monitoreo externos vía protocolo TCP y/o SSL y/o UDP.
+
+Características de IPS y Antivirus:
+
+- El IPS debe soportar los siguientes mecanismos de detección: firmas contra exploits, anomalías de protocolo, controles para aplicaciones, detección basada en comportamiento
+
+- Los Módulos de IPS & Firewall deben ser integrados en una plataforma
+
+- El administrador debe ser capaz de configurar la inspección solamente para proteger dispositivos internos
+
+- El IPS debe tener opciones para crear perfiles de protecciones basadas en cliente o servidor, o la combinación de ambas
+
+- El IPS debe proveer al menos 2 perfiles pre-definidos de protección para ser usados de forma inmediata
+
+- Debe especificarse el modo de funcionamiento del IPS.
+
+- El IPS debe proveer un mecanismo automatizado para activar o administrar nuevas firmas desde las actualizaciones
+
+---
+
+7
+
+---
+
+[PÁGINA 8]
+
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+29
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+MUNICIPALIDAD DE SURQUILLO
+
+---
+
+- El IPS debe soportar excepciones de red basadas en origen, destino, servicio o una combinación de las tres
+
+- El IPS debe tener la característica de simplicidad en la administración y estabilidad en la solución.
+
+- El IPS debe ser capaz de detectar y prevenir las siguientes amenazas: Uso erróneo de protocolos, comunicaciones de malware, intentos de tunneling y ataques genéricos sin necesidad de firmas
+
+- El IPS debe ser capaz de almacenar captura de paquetes, para protecciones específicas
+
+- El IPS debe ser capaz de detectar y bloquear ataques en las capas de red y aplicación, al menos para los siguientes servicios: email services, DNS, FTP, SMB, SNMP.
+
+- El Control de Aplicaciones debe incluir la habilidad de detectar y bloquear tráfico P2P que usan técnicas de evasión.
+
+- El administrador debe poder generar exclusiones de redes y hosts para que no sean inspeccionados por el IPS
+
+- La solución debe proteger contra eventos de DNS Cache Poisoning, y prevenir a los usuarios de acceder a dominios bloqueados
+
+- La solución debe proveer protecciones para los protocolos de VoIP
+
+- El IPS y/o el Control de Aplicaciones, deben detectar y bloquear aplicaciones de administración remota, incluyendo aquellas que sean capaces de hacer túneles sobre tráfico HTTP
+
+- La solución debe aplicar controles sobre el uso del protocolo Citrix
+
+- La solución debe permitir de manera fácil al administrador, bloquear tráfico entrante o saliente basado en países, sin la necesidad de administrar de crear muni-surq-admmente rangos de direcciones IP, correspondientes a cada país
+
+- El fabricante debe tener una solución de Anti-Virus y Anti-Bot integrada en el mismo appliance de seguridad
+
+- La solución de Anti-bot debe ser capaz de detectar y bloquear comportamiento de red sospechoso
+
+- Para la detección de Bots informáticos, se debe tener un motor de detección de múltiples capas que incluya reputación de IPs, URLs, DNS y la detección de patrones de comunicación
+
+- La solución
+
+----- PÁGINAS PDF 34-43 -----
+A continuación la transcripción fiel del texto de las páginas proporcionadas:
+
+---
+
+[CARÁTULA - Página 32 superior]
+
+**MUNICIPALIDAD DISTRITAL DE SURQUILLO**
+**CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS**
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+---
+
+Para garantizar la fiabilidad del análisis, el postor deberá emplear una solución o plataforma de escaneo y gestión de vulnerabilidades de clase empresarial que cumpla, como mínimo, con las siguientes características técnicas y funcionales:
+
+- La plataforma utilizada debe tener la capacidad de priorizar las vulnerabilidades identificadas combinando el estándar de puntuación estática (como CVSS v3/v4) con inteligencia de amenazas activa. Debe evaluar la probabilidad real de que una vulnerabilidad sea explotada (presencia en kits de exploits, malware activo, etc.) para enfocar los esfuerzos de mitigación.
+- Capacidad para mapear, descubrir y catalogar automáticamente los servicios, puertos y tecnologías expuestas hacia Internet dentro del pool de IPs proporcionado.
+- El motor de escaneo debe ejecutar pruebas de seguridad que no interrumpan, bloqueen ni degraden la disponibilidad de los servicios en producción. Asimismo, debe incorporar mecanismos avanzados de verificación para garantizar una tasa de falsos positivos cercana a cero.
+- a plataforma debe contar con actualizaciones diarias y automáticas de sus firmas de seguridad para asegurar la detección de amenazas de día cero (Zero-Day) y vulnerabilidades recientemente publicadas.
+
+Entregables del servicio:
+
+Al finalizar cada análisis bimestral, el contratista deberá remitir a la Oficina General de Gobierno Electrónico y Digital un informe digital detallado que contenga:
+
+- Gráficas y métricas sobre el nivel de exposición al riesgo de la infraestructura evaluada.
+- Detalle de las vulnerabilidades encontradas categorizadas por su nivel real de criticidad (Crítica, Alta, Media, Baja).
+- Recomendaciones técnicas detalladas y accionables para la mitigación o parcheo de los hallazgos reportados, orientadas a guiar al equipo técnico de la Municipalidad.
+
+**5.7. Servicio de telefonía Fija virtual para las sedes Palacio Municipal y central de video vigilancia**
+
+a. Se deberá brindar el Servicio de Telefonía Fija a través de una central en la nube del operador para el Palacio Municipal. La central debe cumplir con las siguientes características mínimas:
+
+| Características mínimas del hardware | |
+|---|---|
+| Capacidad | - El sistema deberá de poder escalar como mínimo hasta 200 usuarios. - El sistema deberá soportar como mínimo 30 llamadas concurrentes. |
+| Tecnología | - Deberá ser de tecnología IP - El aplicativo de llamadas deberá basarse en software con su respectiva consola o plataforma de gestión. |
+| Gestión | - Debe incluir una plataforma de aprovisionamiento que permita automatizar el proceso para la implementación inicial, así como para los cambios, movimientos, adiciones y bajas para la etapa de mantenimiento. |
+| Operadora automática (IVR) | - El sistema deberá contar con una operadora automática que permita presentar un mensaje de bienvenida a nivel de audio y poder distribuir la llamada de acuerdo al número de extensión requerido. |
+| Funcionalidades | - Caller ID - Parqueo de llamada - Música de espera - Transferencia de llamada - desvío de llamada - Llamada en espera - Colas de llamadas - Conferencias |
+
+11
+
+---
+
+**MUNICIPALIDAD DISTRITAL DE SURQUILLO**
+**CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS**
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+---
+
+- - DND
+- - Conferencias múltiples
+- - Música en espera soportando formatos MP3
+- - Claves de acceso
+- - Callback
+- - DISA
+- - Manejo de horarios de atención
+- - Follow Me
+- - Buzon de voz
+- - IVR
+- - Edición de mensajes
+- - Listas negras
+- - Transferencias ciegas
+- - Registro de detalles de llamada
+- - Reenvió de llamada en ocupado
+- - Reenvió de llamada en No- Disponible
+- - reenvío de llamada variable
+- - Recuperación de llamada
+- - Identificación de llamada
+- - Bloqueo por identificación de llamada
+- - Multiconferencia
+- - Timbre personalizable
+- - No molestar
+- - Recepción y envió de fax
+- - Agentes de llamadas
+- - Autentificación
+- - Música en espera en transferencia
+- - Sistema MP3 configurable
+- - Control de volumen
+- - Privacidad
+- - Conversión de protocolo
+- - Captura de llamadas
+- - Fecha y hora
+- - Sistema de buzón de voz
+
+b. Comunicación ilimitada entre todas las líneas contratadas en el presente proceso, así como con todas las líneas telefónicas del mismo operador contratados por La Municipalidad Distrital de Surquillo en diferentes procesos y ubicaciones.
+c. Suministro del servicio de central telefónica IP entre las líneas telefónicas con funcionalidades de transferencia de llamadas, conferencia, call pick up, hunting de entrada, entre otras facilidades.
+d. La bolsa de minutos mensuales entre las líneas telefónicas contratadas, serán de comunicación a teléfonos fijos locales de acuerdo con la siguiente tabla.
+
+| Sedes ó Sucursales | N.º de Líneas | Bolsa de minutos locales - telefonía | Bolsa de minutos móviles - telefonía |
+|---|---|---|---|
+| Palacio Municipal | 2 | 402 min. | 1800 min |
+| Gerencia de Seguridad Ciudadana | 1 | 201 min. | 300 min. |
+| Veterinaria Municipal | 1 | 201 min. | 300 min. |
+| Casa de la Juventud | 2 | 201 min. | 1000 min. |
+| Cementerio | 1 | 201 min. | 200 min |
+
+12
+
+---
+
+**MUNICIPALIDAD DISTRITAL DE SURQUILLO**
+**CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS**
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+---
+
+| Minicomplejo deportivo Morocoha | 2 | 201 min. | 1000 min. |
+|---|---|---|---|
+| Puesto de Auxilio Rápido | 1 | 201 min. | 100 min. |
+| Deposito y Policía Municipal | 2 | 201 min. | 1000 min. |
+| Casa Adulto Mayor I | 2 | 201 min. | 250 min |
+| Puesto de Auxilio Rápido, Parque de los Héroes | 1 | 201 min. | 150 min. |
+| Puesto de Auxilio Rápido, Domingo Orué | 1 | 201 min. | 100 min. |
+| Central de vídeo Vigilancia | 5 | 201 min. | 1000 min |
+| Gerencia de Medio Ambiente | 1 | 201 min | 800 min. |
+| Cuna Municipal | 1 | 201 min | 200 min. |
+| Av. Angamos y Tomas Marzano - Sede Nueva (Frente a Open Plaza) | 1 | 201 min | 1800 min. |
+
+✓ El proveedor realizará las gestiones para la portabilidad numérica de las principales líneas telefónicas de la entidad
+Para Palacio Municipal: 241-0413
+Para Central de Serenazgo: 510-2222
+
+a. El contratista deberá ofertar en su propuesta económica lo concerniente al servicio de telefonía fija en bolsa más el servicio de Internet.
+b. El Contratista deberá estar en capacidad de brindar la información a la entidad **indicando los minutos y los teléfonos de destino** a solicitud de ésta, respecto de los minutos consumidos en el transcurso del mes por cada local, con el objetivo de que, si la entidad lo estima conveniente, disponga el bloqueo a ciertos destinos por cada oficina hasta el inicio del siguiente ciclo de facturación. Los bloqueos de los destinos solicitados no deberán originar gasto adicional para la entidad.
+c. **El plazo para atender una eventual solicitud de brindar información de los minutos consumidos en el mes por cada local será consensuado con el contratista durante la etapa de implementación del servicio.**
+d. Para control de la Municipalidad, después de finalizado el mes deben de incluir detalle de llamadas salientes vía web.
+e. Por defecto el servicio de telefonía fija deberá tener bloqueado la salida a los servicios 0808 XXXXX, así como a los servicios de valor agregado.
+f. Coordinación de parte del proveedor a fin de que todas las líneas telefónicas contratadas bajo esta modalidad sean publicadas en las páginas blancas y/o amarillas, así como en los servicios de información de ningún operador de telefonía fija y/o móvil en el Perú.
+g. La entidad asumirá el costo de minutos adicionales de fijo a fijo, fijo a móviles, fijo a LDN y fijo a LDI, el minuto adicional de fijo a fijo deberá tener el mismo costo de la bolsa contratada.
+
+**5.8. Servicio de Backup en la nube.**
+
+El Postor deberá proveer un servicio de Backup en la nube de 8TB, deberá proporcionar un Software que permita el respaldo de tareas asignadas: diaria, semanal, mensual o anualmente, o en un tiempo
+
+13
+
+---
+
+**MUNICIPALIDAD DISTRITAL DE SURQUILLO**
+**CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS**
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+---
+
+especificado.
+
+a. Hacer copias completas, incrementales y diferenciales.
+b. Soporta compresión WINRAR,7ZIP, ZIP, Zip64 ,etc.
+c. Ofrecer la opción de proteger todas las funciones del programa por contraseña.
+d. Ofrecer un cifrado de protección de datos
+e. Mantener un historial de los últimos 30 días
+f. durante el tiempo de contrato, para los usuarios de la Municipalidad Distrital de Surquillo.
+
+**5.9. Servicio de correo electrónico en la nube.**
+
+El Postor deberá proveer un servicio de correo en la nube de 2TB, con cuentas ilimitadas y deberá migrar las cuentas de correo existentes en la entidad
+
+a. protección antispam y antivirus
+b. conexión segura vía ssl/tls
+c. backup de buzones diarios.
+d. compatibilidad móvil.
+e. administración por consola web.
+f. Capacidad de cifrado y encriptación de datos
+g. La empresa proveedora estará encargada del control de la eficiencia del almacenamiento de información, así como de un mantenimiento continuo y progresivo que refleja siempre una disponibilidad
+h. Soporte especializado 24 x 7
+
+**5.10. Servicio de almacenamiento de archivos en la nube.**
+
+El Postor deberá proveer un servicio de almacenamiento en la nube de 4 TB
+
+1. Acceso en todos los dispositivos
+2. Seguridad y confidencialidad de los archivos
+3. copia de seguridad, recuperar versiones antiguas o eliminadas con hasta un mes de antigüedad
+4. Gestión de Archivos por entorno web, que permita tener busqueda, filtro y papelera
+5. Uso compartido de archivos que permita compartir carpetas y enlaces compartido
+6. sincronizacion, siempre podrá acceder a la última versión en la computadora, dispositivo móvil y a través de la aplicación web.
+7. Aplicación de escritorio
+
+**5.11. Servicio de internet Wi-fi para parques públicos**
+
+El postor deberá implementar, configurar y poner en funcionamiento el servicio de Internet inalámbrico (Wi-Fi) en los parques del distrito, garantizando una cobertura eficiente, alta disponibilidad y una gestión centralizada para la Municipalidad Distrital de Surquillo.
+Los parques deben contar con web filtering bloqueando contenido pornográfico e inapropiado.
+Deberá ser compatible con dispositivos móviles (Android, iOS), Windows.
+
+**5.10.1 Ubicación de los puntos de acceso**
+
+El servicio se brindará mediante la instalación de una (01) antena o punto de acceso (Access Point) exterior por cada uno de los siguientes parques:
+
+| Parque | Dirección | Latitud | Longitud |
+|---|---|---|---|
+| Parque Reducto N° 5 | Av. Angamos Este (Zona histórica) | -121,123 | -770,048 |
+| Parque Héroes de la Paz | Urb. La Calera de la Merced | -121,161 | -770,020 |
+
+14
+
+---
+
+**MUNICIPALIDAD DISTRITAL DE SURQUILLO**
+**CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS**
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+---
+
+| Parque Luis Felipe de las Casas | Urb. La Calera | -121,133 | -769,962 |
+|---|---|---|---|
+| Parque Jorge Chávez | Av. Villarán / Barrio Médico | -121,199 | -770,058 |
+| Parque La Amistad | Urb. La Calera | -121,180 | -770,030 |
+| Parque Virgen de la Merced | Cruce con Calle Diderot | -121,141 | -770,016 |
+| Parque Paul Harris | Zona residencial céntrica | -121,148 | -770,118 |
+| Parque Miranda | Límite con Miraflores | -121,118 | -770,189 |
+| Parque Ítalo Arbulú | Urb. La Calera | -121,155 | -770,055 |
+| Parque El Periodista | Urb. La Calera | -121,105 | -770,035 |
+
+**5.10.2 Características Técnicas Mínimas del Equipamiento (Access Point Exterior)**
+
+Para soportar entornos de alta densidad de usuarios al aire libre, cada punto de acceso instalado en los parques deberá cumplir obligatoriamente con las siguientes especificaciones técnicas:
+
+| Estándar y Tecnología | Soportar el estándar Wi-Fi 6 (802.11ax). |
+|---|---|
+| Capacidad de Concurrencia | Soportar un mínimo de 512 dispositivos cliente Wi-Fi simultáneos. |
+| Rendimiento (Throughput) | Ofrecer un rendimiento inalámbrico de hasta 6 Gbps. |
+| Arreglo de Antenas | Incorporar tecnología MU-MIMO 4x4:4 de doble banda con tecnología OFDMA. |
+| Rango de Cobertura | Brindar un rango de cobertura ampliado de hasta 300 metros. |
+| Interfaces Físicas | Contar como mínimo con un (01) puerto Ethernet de 2,5 Gigabit compatible con inyección de energía PoE/PoE+ y un (01) puerto SFP de 2,5 Gigabit. |
+| Resistencia Ambiental | El equipo debe ser apto para exteriores, con capacidad resistente a la intemperie de nivel IP68. |
+| Funcionalidades de Red | Soportar QoS avanzada, aplicaciones de baja latencia y redes en malla. |
+
+**5.10.3 Acceso mediante Portal Cautivo**
+
+El acceso a la red Wi-Fi por parte de los ciudadanos deberá realizarse de forma obligatoria a través de portales cautivos. El postor deberá diseñar y configurar este portal con la imagen institucional de la Municipalidad, permitiendo establecer términos de uso, tiempos máximos de conexión por sesión y límites de ancho de banda por usuario para garantizar un uso equitativo del servicio.
+
+**5.10.4 Plataforma de Administración y Monitoreo**
+
+El postor deberá proporcionar el acceso a una plataforma de administración de Wi-Fi, local o en la nube, que permita a la Oficina General de Gobierno Electrónico y Digital gestionar la red de manera centralizada. Esta plataforma deberá permitir:
+
+- Visualizar en tiempo real el estado operativo de los puntos de acceso en cada parque.
+- Visualizar y auditar los accesos de los usuarios conectados a través del portal cautivo.
+- Generar reportes estadísticos sobre la cantidad de conexiones, consumo de datos y tiempos de uso.
+- Contar con aislamiento de clientes (Client Isolation).
+
+**5.10.5 Ancho de banda del servicio**
+
+15
+
+---
+
+**MUNICIPALIDAD DISTRITAL DE SURQUILLO**
+**CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS**
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+---
+
+El postor deberá proporcionar un ancho de banda mínimo de 70mbps, este ancho de banda debe ser simétrico con un Overbooking 1:1
+
+**6. Atención de Averías**
+
+a. La Municipalidad Distrital de Surquillo, reportará averías al proveedor de lunes a domingo (inclusive feriados) las 24 horas del día, todo el año.
+b. El proveedor deberá contar con un centro de atención de llamadas gratuitas para reportar averías (0800).
+c. Durante la vigencia del contrato si algún equipo sufriera fallas técnicas o de configuración, el proveedor deberá subsanar dicho problema (reemplazar equipo, configurar equipo, etc.) en coordinación con el área de informática de la Municipalidad Distrital de Surquillo, se resalta que se exigirá que el tiempo de solución de la avería no debe ser mayor a 48 horas contabilizadas a partir de reportar el problema.
+d. El proveedor no deberá cobrar el tiempo que dure una avería que ocasione desconexión a Internet.
+e. Toda actividad o provisión de bienes que tenga que ejecutar el postor para subsanar la avería será sin costo alguno para la entidad. Salvo el caso en que la avería sea imputable.
+f. El tiempo de respuesta máximo ante averías o incidentes del servicio, así como las consultas técnicas y solicitudes de cambios y/o modificaciones deberán ser no mayor a 30 minutos (tiempo transcurrido desde que se reporta la avería hasta que el contratista del servicio responde o toma contacto para iniciar el diagnóstico).
+g. El tiempo máximo de la solución de averías o incidentes por enlace, desde la generación del ticket de atención, deberá ser de 03 horas de manera remota y de 12 horas con desplazamiento presencial hasta la sede de la entidad (esto es para circunstancias donde el software y/o hardware bajo servicio de soporte estén comprometidos por un periodo mayor a 3 horas, tales como averías de hardware o aquellas donde los tiempos de reparación dependen de terceros)
+h. Para las incidencias generadas que se encuentran fuera del control del proveedor (vandalismo, obras realizadas por terceros, etc) el tiempo de solución podría exceder a las 48 horas, siempre y cuando esto sea sustentado.
+i. El tiempo de atención de cualquier tipo de avería será computado a partir de la generación de un ticket de atención, luego de producido el incidente, para de este modo facilitar el seguimiento de la falla reportada.
+
+Tanto para el servicio de Internet y telefonía fija virtual se deberá observar lo siguiente:
+
+a. La forma de pago será de manera mensual y a mes vencido.
+b. El tiempo de entrega de la solución no deberá ser mayor a 30 días calendario de emitida la orden de servicio y/o suscripción de contrato.
+c. Respecto al plazo de prestación de servicio, el tiempo de implementación empezará desde la firma del contrato y el inicio de servicio se computará desde la firma del acta de activación y/o conformidad de instalación del servicio.
+d. Los permisos municipales para la implementación/instalación del servicio serán otorgados al día siguiente de que la empresa indique los trabajos que necesite realizar.
+e. LA ENTIDAD brindará el espacio necesario para los equipos propuestos por el postor
+f. El ciclo de facturación será el más cercano a la fecha de activación del servicio.
+g. En caso de que el inicio de la prestación del servicio no coincida con el ciclo de facturación del operador adjudicatario de la buena pro, se incluirá el prorrateo en la primera facturación
+h. Para la realización de cualquier trabajo de implementación/instalación que deba ser efectuado dentro de sus instalaciones de la Entidad, se dará todas las facilidades técnicas que sean necesarias, como todos los accesos que correspondan, para el normal desarrollo de los trabajos de implementación y/o instalación. Si cumpliéndose con todas las facilidades por parte de LA ENTIDAD para la implementación/instalación del servicio y EL CONTRATISTA no cumple con el plazo, se aplicará penalidad según lo estipulado en las Bases.
+i. Para la imputación de responsabilidades por la existencia de daños irreparables en los equipos, se evaluará previamente si esta deberá recaer sobre EL CONTRATISTA o sobre LA ENTIDAD, siendo que, de comprobarse que el referido daño fue originado por el uso negligente imputable al usuario, será la Entidad quien asuma los costos adicionales por la mencionada contingencia.
+j. Transcurridos los tres (03) meses sin que LA ENTIDAD haya cancelado la contraprestación EL
+
+16
+
+---
+
+**MUNICIPALIDAD DISTRITAL DE SURQUILLO**
+**CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS**
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+---
+
+CONTRATISTA podrá suspender el servicio sin implicancia de penalidades
+k. Culminado el plazo de contrato los equipos que fueron brindados en condición de alquiler serán devueltos al postor
+**l.** La conformidad la emitirá la Oficina General de Gobierno Electrónico y Digital.
+
+**7. CAPACITACIONES**
+
+- El personal de la ENTIDAD será capacitado por el CONTRATISTA a través de instructores, en un curso práctico de veinticuatro (24) horas como mínimo en Lima para el personal que designe la Entidad.
+
+- La capacitación ofertada por el postor será en función a los equipos propuestos (Routers, seguridad virtual, Servicio AntiDDoS, WAF y telefonía).
+
+- Será una capacitación no oficial, motivo por el cual, se podrán desarrollar en instalaciones adecuadas propias del postor o provistas por terceros con los recursos necesarios para brindar las capacitaciones de forma óptima.
+
+- Se brindará a cada participante una constancia de participación de la referida capacitación.
+
+**8. REQUISITOS DEL PROVEEDOR**
+
+a) El proveedor deberá contar con un Centro de Operaciones de Red (NOC) y un Centro de Operaciones de Seguridad (SOC) propios de la empresa (no tercerizados ni rentados), los cuales deberán contar con soporte local en el Perú (24x7x365). Se acreditará mediante declaración jurada y la descripción de la infraestructura en la propuesta técnica, además con un único número para reportar los servicios y averías.
+b) El postor deberá indicar en su propuesta la persona encargada de liderar el proyecto, este deberá ser PMP, profesional titulado e Ingeniero Colegiado y Habilitado en las carreras de Ingeniería de Sistemas, Ingeniería Informática, Ingeniería Electrónica, Ingeniería de Telecomunicaciones o carreras afines por la denominación universitaria.
+c) El proveedor deberá acreditar contar con la Concesión Única vigente para la prestación de Servicios Públicos de Telecomunicaciones, otorgada por el Ministerio de Transportes y Comunicaciones (MTC), adjuntando copia del contrato de concesión respectivo y su inscripción en el registro de servicios.
+d) La empresa postor deberá garantizar el profesionalismo, responsabilidad y conocimientos técnicos de su personal en los centros de llamadas de reportes de fallas, centros de gestión, y personal de reparación de averías. Así mismo, deberá contar con el equipamiento necesario para solucionar los problemas técnicos que se presenten.
+e) A la finalización del servicio, el proveedor tendrá un plazo máximo de treinta (30) días calendario para hacer entrega formal en soporte digital de la totalidad de los logs de seguridad, reportes de vulnerabilidades, históricos de tráfico y configuraciones generadas durante la vigencia del contrato. Asimismo, el contratista deberá emitir un Certificado de Destrucción Segura de Datos, garantizando que ninguna información, traza o dato de LA ENTIDAD permanezca en la infraestructura cloud o local del proveedor tres (03) meses después de concluido el vínculo contractual."
+
+**9. LUGAR Y PLAZO DE LA PRESTACIÓN DEL SERVICIO (De corresponder)**
+
+Los servicios materia de la presente convocatoria se prestarán en el plazo de trecientos sesenta (360) días calendarios en concordancia con lo establecido en el expediente de contratación**, se computará desde la firma del acta de activación y/o conformidad de instalación del servicio.**
+
+El proveedor deberá entregar un acta de instalación de cada uno de los puntos, indicando plazos y tiempos empleados. Esta acta deberá ser revisada y validada por la Oficina General de Gobierno Electrónico y Digital
+
+17
+
+---
+
+**MUNICIPALIDAD DISTRITAL DE SURQUILLO**
+**CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS**
+
+---
+
+**TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube
+
+---
+
+**El plazo para la implementación del servicio es de 30 días calendarios posteriores a la firma del contrato.**
+
+La ausencia de facilidades de acceso y/o facilidades técnicas requeridas en la oferta imputable a la Entidad, así como los trámites de permisos ante Municipios o Ministerios, determinarán la suspensión del plazo de implementación previsto en las Bases hasta que haya quedado subsanado el inconveniente, sin que ello genere la aplicación de ninguna penalidad en contra del contratista. Ello, sin perjuicio de la facultad del contratista de solicitar la ampliación de plazo que resulte necesaria. Para esto se deberá estipular fechas específicas para subsanar estas demoras. Previa notificación y aprobación por la Oficina General de Gobierno Electrónico y Digital de la Municipalidad Distrital de Surquillo.
+
+**10. SISTEMA DE CONTRATACIÓN**
+Suma alzada
+
+**11. CONFORMIDAD**
+
+La conformidad de la implementación será emitida por la Oficina General de Gobierno Electrónico y Digital de la Municipalidad distrital de Surquillo, quien verificará el cumplimiento del servicio y el entregable indicado líneas arriba.
+
+La conformidad mensual del servicio será emitida por la Oficina General de Gobierno Electrónico y Digital de la Municipalidad distrital de Surquillo, quien verificará el cumplimiento del servicio
+
+**12. FORMAS DE PAGO**
+
+Para efectos del pago mensual de las contraprestaciones ejecutadas por el contratista, la entidad debe contar con la siguiente documentación:
+
+- Informe de conformidad otorgada por la Oficina General de Gobierno Electrónico y Digital.
+- Comprobante de pago.
+- Presentación de Informe técnico digital mensual
+- Para los meses correspondientes al cierre de trimestre, se deberá adjuntar adicionalmente el Informe Trimestral de Postura de Seguridad debidamente aprobado por el área usuaria.
+
+**13. ACUERDO DE CONFIDENCIALIDAD**
+
+El Contratista se obliga a guardar reserva absoluta en el manejo de información y documentación a la que se tenga acceso relacionado con la prestación, quedando expresamente
+
+----- PÁGINAS PDF 44-63 -----
+# Transcripción fiel de las páginas
+
+---
+
+## PÁGINA 42
+
+**MUNICIPALIDAD DISTRITAL DE SURQUILLO**
+**CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS**
+
+---
+
+| [Logo Municipalidad de Surquillo] | **TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube |
+|---|---|---|
+
+El área técnica de la entidad aplicará al proveedor una penalidad cuando se produzcan cortes o suspensión del servicio por fallas o averías por más de 60 minutos consecutivos contados pasado el tiempo establecido o cuando la acumulación de las suspensiones del servicio sea de 60 minutos o más en un periodo de 24 horas contadas desde la primera interrupción reportada, cuyo calculo se efectuará conforme a las disposiciones establecidas por OSIPTEL.
+
+| N° | Tipo de subsanación | Penalidad | Informe |
+|---|---|---|---|
+| 1 | Mayor a 1 hora y menor a 3horas. | 1 % del monto del servicio facturado en el mes, a la entidad cuando presentó la avería y/o interrupción del servicio. | Según informe profesional de la Gerencia General de Gobierno Electrónico y digital. |
+| 2 | Mayor a 3 horas y menor a 6 horas. | 2 % del monto del servicio facturado en el mes, a la entidad cuando presentó la avería y/o interrupción del servicio. | Según informe profesional de la Gerencia General de Gobierno Electrónico y digital. |
+| 3 | Mayor a 6 horas y menos a 12 horas. | 3 % del monto del servicio facturado en el mes, a la entidad cuando presentó la avería y/o interrupción del servicio. | Según informe profesional de la Gerencia General de Gobierno Electrónico y digital. |
+| 4 | Mayor a 12 horas y menor a 24 horas. | 4 % del monto del servicio facturado en el mes, a la entidad cuando presentó la avería y/o interrupción del servicio. | Según informe profesional de la Gerencia General de Gobierno Electrónico y digital. |
+
+Siempre y cuando se sustente que la afectación del servicio sea únicamente por causales externos tales como accidentes, fenómenos naturales, se omitirá la aplicación de penalidades previo sustento dirigido a la Oficina General de Gobierno Electrónico y Digital anexando un informe técnico.
+
+**18. GARANTIA**
+
+NO APLICA
+
+**19. RESOLUCIÓN DEL CONTRATO POR INCLUMPLIMIENTO**
+
+La MDS puede resolver el contrato, en los siguientes casos:
+
+a) Por acumulación del monto máximo de la penalidad por mora o por el monto máximo para otras penalidades, en la ejecución de la prestación a su cargo.
+b) Caso fortuito o fuerza mayor que imposibilite la continuación del contrato
+c) Incumplimiento de obligaciones contractuales, por causa atribuible al contratista.
+d) Hecho sobreviniente al perfeccionamiento el contrato, de supuesto distinto al caso fortuito o fuerza mayor, no imputable a ninguna de las partes, que imposibilite la continuación del contrato.
+e) Por incumplimiento de la cláusula anticorrupción y antisoborno.
+f) Por la presentación de documentación falsa o inexacta durante la ejecución contractual.
+
+**20. OBLIGACIÓN ANTICORRUPCIÓN Y ANTISOBORNO**
+
+A la suscripción del contrato o de la formalización de la Orden, el Contratista declara y garantiza no haber ofrecido, negociado, prometido o efectuado ningún pago o entrega de cualquier beneficio o incentivo ilegal, de manera directa o indirecta, al (los) evaluador (es) del proceso de contratación o cualquier servidor de la MDS.
+
+21
+
+---
+
+## PÁGINA 43
+
+**MUNICIPALIDAD DISTRITAL DE SURQUILLO**
+**CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS**
+
+---
+
+| [Logo Municipalidad de Surquillo] | **TÉRMINOS DE REFERENCIA** | Servicio de Internet Dedicado, Transmisión de datos, Telefonía IP, Correo Electrónico y Almacenamiento en la Nube |
+|---|---|---|
+
+Asimismo, el Contratista se obliga a mantener una conducta proba e integra durante la vigencia el contrato, y después de culminado el mismo en caso existan controversias pendientes de resolver, lo que supone actuar con probidad, sin cometer actos ilícitos, directa o indirectamente. Aunado a ello, el contratista se obliga a abstenerse de ofrecer, negociar, prometer o dar regalos, cortesías, invitaciones, donativos o cualquier beneficio o incentivo ilegal, directa o indirectamente, a funcionarios públicos, servidores públicos, locadores de servicios o proveedores de servicios del área usuaria, de la dependencia encargada de la contratación, actores del proceso de contratación y/o cualquier servidor de la entidad contratante, con la finalidad de obtener alguna ventaja indebida o beneficio ilícito.
+
+En esa línea, se obliga a adoptar las medidas técnicas, organizativas y/o personal necesarias para asegurar que no se practiquen los actos previamente señalados.
+
+Adicionalmente, el contratista se compromete a denunciar oportunamente ante las autoridades competentes, los actos de corrupción o de inconducta funcional de los cuales tuviera conocimiento durante la ejecución del contrato con la MDS.
+
+Tratándose de una persona jurídica, lo anterior se extiende a sus accionistas, participacioncitas, integrantes de los órganos de administración, apoderados, representantes legales, funcionarios, asesores o cualquier persona vinculada a la persona jurídica que representa; comprometiéndose a informarles sobre los alcances de las obligaciones asumidas en virtud del presente contrato.
+
+Finalmente, el incumplimiento de las obligaciones establecidas en este acápite, durante la ejecución contractual otorga a la MDS el derecho de resolver total o parcialmente el contrato.
+
+**21. ACUERDO DE CONFIDENCIALIDAD**
+
+El contratista se compromete a mantener la reserva de toda información privilegiada la que tenga acceso en el ejercicio de sus funciones, tareas y demás actividades derivadas de la ejecución de la contratación. En tal sentido, no puede revelar por ningún medio, ya sea oral, escrito o de cualquier otra forma, hechos, datos, procedimientos, documentación o información de acceso restringido (confidencial), obtenidos a partir del inicio de la prestación de la contratación, debiendo preservar su carácter confidencial de manera permanente.
+
+En caso de incumplimiento de cualquiera de las obligaciones estipuladas en el presente acuerdo, la MDS queda facultado a iniciar las acciones judiciales o extrajudiciales que resulten necesarias a fin de resarcir los perjuicios ocasionados. La obligación de confidencialidad permanece vigente mientras la información conserve su carácter confidencial.
+
+**22. SOLUCIÓN DE CONTROVERSIAS**
+
+Las controversias que surjan entre las partes durante la ejecución del contrato se resuelven mediante conciliación, cuando se haya pactado, y arbitraje.
+
+Para el arbitraje, el postor ganador de la buena pro selecciona a uno de las siguientes Instituciones Arbitrales para administrar el arbitraje: Centro de Arbitraje y Resolución de Disputas de la Pontificia Universidad Católica del Perú (PUCP), Centro Internacional de Arbitraje – Cámara de Bélgica y Luxemburgo en el Perú (CIACBLP), Centro de Investigación de Arbitraje, Conciliación y Resolución de Conflictos de la Universidad de San Martín de Porres (CIAR-USMP) y la Asociación Nacional de Arbitraje - ANARB.
+
+**23. GESTIÓN DE RIESGOS**
+
+No aplica
+
+**24. REQUISITOS DE CALIFICACIÓN**
+
+23.1. REQUISITOS DE CALIFICACION OBLIGATORIO
+
+22
+
+---
+
+## PÁGINA 61
+
+[Página de separación de sección. Contiene únicamente el título centrado:]
+
+**ANEXOS**

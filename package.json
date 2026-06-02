@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "app": "node app/server.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.100.1",
+    "@napi-rs/canvas": "^1.0.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "multer": "^2.1.1",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^4.2.67",
+    "undici": "^8.3.0"
+  }
+}

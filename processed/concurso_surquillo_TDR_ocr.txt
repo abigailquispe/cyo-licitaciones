@@ -1,0 +1,316 @@
+============================================================================
+TRANSCRIPCIÓN (OCR/visión) DEL TÉRMINO DE REFERENCIA — CAPÍTULO III
+Concurso Público Abreviado de Servicios N° 02-2026-MDS
+Municipalidad Distrital de Surquillo
+Objeto: Internet Dedicado, Transmisión de Datos, Telefonía IP, Correo
+        Electrónico y Almacenamiento en la Nube
+----------------------------------------------------------------------------
+NOTA: Estas páginas (PDF 25-45 / págs. oficiales 23-43) vienen como IMAGEN en
+las bases y NO tienen capa de texto. Este archivo es una transcripción fiel
+hecha por lectura visual, para persistir el contenido y poder reutilizarlo.
+La referencia "pág." es la paginación oficial de las bases (recuadro inferior).
+============================================================================
+
+[Tabla 1 — Sedes y coordenadas] (pág. 23)
+Lista de sedes de la Municipalidad con dirección y coordenadas (lat/long), p. ej.:
+11. Av. Domingo Orue S/N Cdra. 12 - Puesto de Auxilio Rápido
+12. Av. Angamos y Tomas Marsano - Central de video vigilancia
+13. Av. Angamos N° 1820 - Gerencia de Medio Ambiente
+14. Av. Tomas Marzano N° 1199 - Estadio Municipal
+15. Av. República de Panamá 4299 - Cuna Municipal
+16. Av. Angamos y Tomas Marzano - Sede Nueva (Frente a Open Plaza)
+
+4. OBJETIVOS DE LA CONTRATACIÓN DEL SERVICIO (pág. 23)
+Contar con el servicio de Internet Dedicado, transmisión de datos, telefonía IP,
+servicio de correo electrónico y servicio de archivos en la nube para la
+Municipalidad Distrital de Surquillo.
+
+5. DESCRIPCIÓN DEL SERVICIO (pág. 23)
+Servicio de Internet Dedicado, transmisión de datos y telefonía IP, correo en la
+nube y almacenamiento de archivos en la nube — Cantidad 01 Servicio. Deberá
+abastecer la sede Principal (Palacio Municipal) y otras sedes.
+
+5.1. Características técnicas del servicio de Internet (Palacio Municipal) (pág. 23-25)
+CUADRO N°1: Ubicación Palacio Municipal, Dirección Jr. Manuel Iribarren N° 155,
+Distrito Surquillo, Ancho de Banda 1Gbps, Overbooking en la Red Local 1:1.
+
+1.  Dos (02) enlaces dedicados (uno principal y uno de contingencia) de Internet
+    simétrico de 1Gbps cada uno, Overbooking 1:1 nacional e internacional.
+2.  Los dos (02) enlaces en modo activo/standby, en diferentes router; los router
+    deberán ser del mismo modelo y marca (uno primario y otro de contingencia).
+3.  Registro de DNS y asignación de IP públicas (mínimo 16). Pool de 16 IPs IPv4.
+4.  El POSTOR instalará Access Point WIFI en todos los locales (tabla 5.2);
+    podrá hacer visita asistida para evaluar el cableado.
+5.  El POSTOR deberá utilizar en el backbone tecnología MPLS.
+6.  Disponibilidad del servicio mensual de 99.5%.
+7.  Los router propuestos deberán funcionar en óptimas condiciones sin degradar.
+8.  Servicio a todo costo, incluyendo equipos/accesorios y su mantenimiento.
+9.  El enlace de Internet servirá para brindar servicios (https, FTP, etc.).
+10. El backbone de la red local del postor deberá ser propio y redundante.
+11. El postor ganador deberá tener como mínimo una conexión activa, propia y
+    directa de como mínimo 100Gbps al NAP Perú (constancia/certificado del NAP,
+    a presentar en el perfeccionamiento de contrato).
+12. El POSTOR deberá poseer un gran ancho de banda hacia Internet Internacional
+    (100Gbps como mínimo) con redundancia en la salida internacional mediante
+    operadores TIER1, con conexión directa por Fibra Óptica.
+13. La Fibra óptica deberá ser aérea y/o subterránea del tramo de última milla.
+14. El POSTOR responsable de los estudios de ingeniería y obras civiles
+    necesarias (asume costos).
+15. El POSTOR deberá tener un Centro de Control de la Red (NOC) y un Centro de
+    Operaciones de Seguridad (SOC) propio (no rentado a tercero), monitoreando
+    (24x7x365) la gestión del enlace de Internet.
+16. El POSTOR administra y gestiona los equipos Router y/o Switch instalados.
+17. La ENTIDAD responsable de su red LAN; provee toma corriente y energía.
+18. El POSTOR proveerá acceso a una herramienta de monitoreo Web (http/https)
+    para visualizar el tráfico de todos los enlaces, con estas características:
+    - Administración y monitoreo del desempeño de la red (routers y enlaces).
+    - Para el router, pantalla con alarmas recientes, disponibilidad, tiempo de
+      respuesta, pérdida de paquetes, utilización de CPU; vista de todas las
+      interfaces (estado, nombre, tráfico Rx/Tx Kbps y %, errores).
+    - Capacidad para seleccionar interfaces físicas o virtuales a monitorear.
+    - Herramientas de diagnóstico y análisis en tiempo real, mapeo de puertos,
+      análisis de MIBs. Capacidad de monitorear VoIP.
+    - Mostrar las alarmas de los últimos 90 días (origen, estado, categoría,
+      hora y día). Reportes de salud de routers (intervalos configurables).
+    - Reportes de tráfico (Entrada/Salida) en Kbps y paquetes/seg, errores y
+      descartes. Soporte IP. Tipos de Flow: NetFlow (versión 5, 7 y 9),
+      NetStream, IPFIX, jFlow, sFlow, cFlow.
+    - Medición de uso de ancho de banda por interface en intervalos
+      configurables (5, 15 min) entrante y saliente; generación del Informe de
+      Planificación de Capacidad (actualización 5-10 min, configurable).
+    - Filtros configurables; reportes en pdf/csv y creación de alarmas.
+    - Reportes ejecutivos personalizados y gráficos interactivos.
+    - Reportes automáticos mensuales y a petición. Monitorear jitter entre sede
+      principal y sedes remotas. Alertas por violación de umbrales. Notificación
+      por correo electrónico.
+19. Especificaciones técnicas mínimas de los Router de Internet:
+    a) Soportar el ancho de banda solicitado.
+    b) Incluir cinco (08) interfaces 10/100/1000 Ethernet ports como mínimo, un
+       (01) puerto SFP+.   [INCONSISTENCIA: "cinco" vs "(08)"]
+    c) Protocolos de enrutamiento BGP, OSPF, RIP y rutas estáticas.
+    d) Protocolo IPv4 e IPv6.
+    e) Administrar configuraciones de Calidad de Servicio (QoS).
+    f) Memoria RAM o FLASH como mínimo de 01 GB.
+20. El uso negligente de los equipos será responsabilidad de la entidad
+    (daños internos previo informe; no cubre daños externos/vandalismo/eléctricos).
+
+5.2. Características técnicas del servicio de transmisión de datos (pág. 25-26)
+Tabla de sedes con Ancho de Banda garantizado (1:1) y cantidad de WIFI, p. ej.:
+Palacio Municipal 500 Mbps (15 WIFI); Gerencia Seguridad Ciudadana 50 Mbps (3);
+Casa Adulto Mayor II 20 Mbps (2); Casa de la Juventud 50 Mbps (7); Cementerio
+20 Mbps (1); Complejo deportivo Morococha 50 Mbps (3); Puestos de Auxilio Rápido
+10 Mbps; Depósito 20 Mbps (2); Casa Adulto Mayor I 40 Mbps (3); Central de video
+Vigilancia 50 Mbps (1); Gerencia Medio Ambiente 50 Mbps (4); Estadio Municipal
+50 Mbps (6); Cuna Municipal 20 Mbps (3); Sede Nueva 50 Mbps (5).
+NOTA Access Point por sede: Indoor; 2.4 GHz 300 Mbps; 5 GHz 1733 Mbps; 01 puerto
+10/100/1000 Ethernet.
+1. Líneas dedicadas con anchos de banda requeridos, disponibilidad y confiabilidad.
+2. Sede central: Jr. Manuel Iribarren N°155 (cabecera de comunicaciones).
+3. Interconexión basada en tecnologías con manejo de QoS (diferenciación de tráfico).
+4. Topología WAN "todos contra todos"; punto de interconexión sede Palacio Municipal.
+5. Enlaces de fibra óptica subterránea canalizada y/o aérea.
+6. Disponibilidad del servicio 99.50% mensual.
+7. Protocolo de transporte de datos TCP/IP.
+8. La WAN deberá soportar tráfico de telefonía IP.
+9. El backbone y los nodos deberán ser propiedad del contratista, en fibra óptica.
+10. EETT mínimas de los Router de transmisión de datos:
+    a) Soportar el ancho de banda. b) cinco (05) interfaces 10/100/1000 Ethernet,
+    un (01) SFP. c) BGP, OSPF, RIP, rutas estáticas. d) IPv4 e IPv6. e) QoS.
+    f) Memoria RAM o Flash mínimo 128 MB.
+
+5.3. Seguridad Gestionada (Palacio Municipal y Central de video vigilancia) (pág. 27-28)
+Servicio on premise o virtual, integral: gestión, monitoreo y remediación de
+incidentes de seguridad. Características (a-i), entre ellas:
+d. Cobertura 24x7x365, gestión proactiva.
+e. Monitorear/subsanar incidentes por ataques sofisticados, malware, vulnerab.
+h. La solución deberá incluir una plataforma cloud DEL MISMO FABRICANTE DEL
+   FIREWALL para administración centralizada de logs, analítica, monitoreo,
+   correlación de eventos y reportes (antigüedad 3 meses), integrada nativamente.
+i. Remitir obligatoriamente a la Oficina General de Gobierno Electrónico y Digital
+   un "Informe Trimestral de Postura de Seguridad" consolidado (vulnerabilidades,
+   incidentes, mitigación). Evidencia para el Modelo de Integridad (SIP).
+Especificaciones de Firewall (mínimo): firewall, IPS, antivirus, antispyware (o
+antibot), control de aplicaciones; soportar ~300 usuarios concurrentes;
+concentrador SSL VPN; análisis de contenido en Capa 7; versión más estable/avanzada;
+envío de logs a sistemas de monitoreo externos vía TCP/SSL/UDP.
+Características IPS y Antivirus: detección por firmas, anomalías de protocolo,
+controles de aplicaciones, comportamiento; IPS y Firewall integrados; perfiles
+cliente/servidor; protecciones predefinidas; almacenamiento de captura de paquetes;
+detección/bloqueo email, DNS, FTP, SMB, SNMP; control P2P con técnicas de evasión;
+protección DNS Cache Poisoning; protección VoIP; bloqueo por país sin administrar
+rangos IP; Anti-Virus y Anti-Bot integrados en el mismo appliance; detección de
+bots multicapa (reputación IPs/URLs/DNS); anti spear phishing; DNS tunneling;
+consola única de correlación; inspección de tráfico cifrado SSL; escaneo de
+archivos comprimidos; políticas desde consola centralizada; (opcional) motores
+de antivirus en la nube.
+
+5.4. Servicio Anti DDoS (pág. 28-29)
+- Solución de protección contra ataques DDoS/DoS mediante entorno en nube
+  PERTENECIENTE A SU PROPIA RED E INFRAESTRUCTURA.
+- NO se aceptarán soluciones en las que la protección DDoS sea una funcionalidad
+  adicional de equipos firewall, NGFW, ADC y/o Routers.
+- Anti-DDoS en la nube bajo demanda, basado en "tráfico limpio".
+- Capacidad de mitigación e inspección de al menos 5 Gbps.
+- Protección capas 3, 4 y 7; protege FTP, HTTP, HTTPS, POP3, SMTP, SNMP, DNS, NTP.
+- Mitiga (lista no exhaustiva): Inundación SYN/ACK/UDP/ICMP, TCP nulo, HTTP/HTTPS,
+  consultas DNS, FIN/RST, conexión, mal uso de TCP, Fragmento TCP/UDP, amplificación
+  (DNS, SSDP, SNMP), Low-Slow (Slowloris, Slow Read), SYN+UDP/ICMP+UDP, DNS mal
+  formado, ICMP incorrecto, ataques de reflexión, etc.
+- Informe Técnico Ejecutivo y Detallado MENSUAL (origen/geolocalización, volumen
+  pico Gbps/Pps, duración del evento, tipo de mitigación capas 3/4/7).
+
+5.5. Servicio de Firewall para Aplicaciones Web (WAF) (pág. 31)
+- WAF desde la nube pública para mínimo diez (10) aplicaciones. Throughput 25 Mbps.
+- Protección OWASP Top 10, bots maliciosos, DDoS de aplicación (Layer 7).
+- Inspección HTTP/HTTPS, SQLi, XSS, fuerza bruta, scraping; consola de gestión y
+  monitoreo; mitigación desde la nube del operador sin equipos físicos en la Entidad.
+
+5.6. Servicio de análisis y gestión de vulnerabilidades (pág. 31-32)
+- Servicio BIMESTRAL sobre el pool de IPs públicas (IPv4). Plataforma de clase
+  empresarial: priorización CVSS v3/v4 + inteligencia de amenazas; mapeo de
+  servicios/puertos; pruebas no intrusivas; actualizaciones diarias (Zero-Day).
+- Entregable bimestral a la Oficina de Gobierno Electrónico (métricas de
+  exposición, vulnerabilidades por criticidad, recomendaciones de mitigación).
+
+5.7. Servicio de telefonía Fija virtual (Palacio Municipal y central video vigilancia) (pág. 32-33)
+- Central en la nube del operador. HW mín.: escalar hasta 200 usuarios; soportar
+  30 llamadas concurrentes; tecnología IP; plataforma de gestión; IVR/operadora
+  automática. Funcionalidades extensas (Caller ID, parqueo, música de espera,
+  transferencia, desvío, colas, conferencias, DND, Follow Me, buzón de voz, etc.).
+b. Comunicación ilimitada entre líneas del proceso y del mismo operador.
+c. Central telefónica IP con transferencia, conferencia, call pick up, hunting.
+d. Bolsa de minutos mensuales por sede (tabla): N° de líneas, bolsa local y bolsa
+   móvil (p. ej. Palacio Municipal 2 líneas, 402 min local, 1800 min móvil; otras
+   sedes 201 min local con bolsas móviles de 100 a 1800 min).
+- Portabilidad numérica de líneas principales (Palacio Municipal 241-0413;
+  Central de Serenazgo 510-2222).
+- Información de minutos consumidos y teléfonos de destino a solicitud; bloqueo de
+  0808 y servicios de valor agregado; números no publicados en páginas blancas.
+
+5.8. Servicio de Backup en la nube (pág. 34-35)
+- 8 TB. Software de respaldo (diaria/semanal/mensual/anual). Copias completas,
+  incrementales y diferenciales; compresión WINRAR/7ZIP/ZIP; cifrado por contraseña;
+  historial de últimos 30 días; durante el contrato para usuarios de la MDS.
+
+5.9. Servicio de correo electrónico en la nube (pág. 35)
+- 2 TB, cuentas ilimitadas, migrar las cuentas existentes. Antispam/antivirus,
+  conexión segura ssl/tls, backup diario de buzones, móvil, consola web, cifrado,
+  soporte 24x7.
+
+5.10. Servicio de almacenamiento de archivos en la nube (pág. 35)
+- 4 TB. Acceso multidispositivo, seguridad/confidencialidad, versiones (1 mes),
+  gestión web, compartición, sincronización, app de escritorio.
+
+5.11. Servicio de internet Wi-Fi para parques públicos (pág. 34-36)
+[OJO numeración: rotulado 5.11 pero subnumerales como 5.10.1, 5.10.2, etc.]
+- Wi-Fi inalámbrico en parques, cobertura eficiente, gestión centralizada, web
+  filtering (bloquea contenido pornográfico/inapropiado), compatible Android/iOS/Windows.
+- 5.10.1 Ubicación: 01 Access Point exterior por parque (lista de parques con
+  coordenadas: Reducto N°5, Héroes de la Paz, Luis Felipe de las Casas, Jorge
+  Chávez, La Amistad, Virgen de la Merced, Paul Harris, Miranda, Ítalo Arbulú,
+  El Periodista).
+- 5.10.2 EETT mínimas Access Point exterior:
+  Estándar Wi-Fi 6 (802.11ax); mín. 512 dispositivos cliente simultáneos;
+  throughput hasta 6 Gbps; MU-MIMO 4x4:4 doble banda con OFDMA; cobertura hasta
+  300 metros; 01 puerto Ethernet 2.5 Gigabit PoE/PoE+ y 01 puerto SFP 2.5 Gigabit;
+  IP68 (exteriores); QoS avanzada, baja latencia, redes en malla.
+- 5.10.3 Acceso mediante Portal Cautivo (imagen institucional, términos de uso,
+  tiempos máximos por sesión, límites de ancho de banda por usuario).
+- 5.10.4 Plataforma de Administración y Monitoreo (local o nube): estado de APs en
+  tiempo real, accesos por portal cautivo, reportes estadísticos, Client Isolation.
+- 5.10.5 Ancho de banda mínimo 70 Mbps simétrico, Overbooking 1:1.
+
+6. Atención de Averías (pág. 35-37)
+a. La MDS reporta averías de lunes a domingo (inclusive feriados) 24 horas.
+b. Centro de atención de llamadas gratuitas (0800) para reportar averías.
+c. Subsanación de fallas en coordinación con informática; tiempo de solución de
+   avería NO mayor a 48 horas desde reportar el problema.
+d. El proveedor no cobra el tiempo de avería que ocasione desconexión a Internet.
+e. Subsanación sin costo para la entidad (salvo avería imputable a la entidad).
+f. Tiempo de respuesta máximo ante averías/incidentes y consultas técnicas: NO
+   mayor a 30 minutos (desde que se reporta hasta que el contratista responde y
+   toma contacto para iniciar el diagnóstico).
+g. Tiempo máximo de solución de averías por enlace: 03 horas remota y 12 horas
+   con desplazamiento presencial (circunstancias con soporte >3h, averías de HW o
+   dependientes de terceros).
+h. Incidencias fuera de control del proveedor (vandalismo, obras de terceros):
+   el tiempo de solución podría exceder 48 horas, debidamente sustentado.
+i. El tiempo se computa desde la generación del ticket de atención.
+Disposiciones comunes Internet y telefonía fija virtual (a-l):
+a. Pago mensual a mes vencido. b. Entrega de la solución no mayor a 30 días
+calendario desde la orden/contrato. c. Plazo de implementación se computa desde el
+acta de activación/conformidad de instalación. d. Permisos municipales al día
+siguiente. e. La ENTIDAD brinda el espacio necesario. f. Ciclo de facturación más
+cercano a la activación. h. La ENTIDAD da facilidades (accesos); si por causa de
+la Entidad no se cumple el plazo, penalidad según bases. l. Conformidad por la
+Oficina General de Gobierno Electrónico y Digital.
+
+7. CAPACITACIONES (pág. 36)
+- El personal de la ENTIDAD será capacitado por el CONTRATISTA mediante
+  instructores, en un curso práctico de veinticuatro (24) horas como mínimo, en
+  Lima, para el personal que designe la Entidad.
+- Capacitación en función a los equipos propuestos (Routers, seguridad, Servicio
+  AntiDDoS, WAF y telefonía).
+- Será una capacitación NO oficial; podrá desarrollarse en instalaciones propias
+  del postor o provistas por terceros.
+- Se brindará a cada participante una constancia de participación.
+
+8. REQUISITOS DEL PROVEEDOR (pág. 36)
+a) NOC y SOC propios de la empresa (NO tercerizados ni rentados), con soporte
+   local en Perú (24x7x365). Se acredita mediante declaración jurada y descripción
+   de la infraestructura, además de un único número para reportar servicios/averías.
+b) La persona encargada de liderar el proyecto deberá ser PMP, profesional titulado
+   e Ingeniero Colegiado y Habilitado en Ingeniería de Sistemas, Informática,
+   Electrónica, Telecomunicaciones o afines.
+c) Concesión Única vigente del MTC (copia del contrato e inscripción).
+d) Garantizar profesionalismo y conocimientos técnicos del personal de los centros
+   de llamadas, gestión y reparación de averías; equipamiento necesario.
+e) Al finalizar el servicio: plazo máximo 30 días para entrega digital de la
+   totalidad de logs, reportes de vulnerabilidades, históricos y configuraciones;
+   Certificado de Destrucción Segura de Datos (ninguna información permanezca en
+   cloud o local del proveedor 3 meses después del vínculo).
+
+9. LUGAR Y PLAZO DE LA PRESTACIÓN (pág. 38-39)
+- Plazo de 360 (trescientos sesenta) días calendario; se computa desde la firma del
+  acta de activación y/o conformidad de instalación. Acta de instalación por punto.
+- Plazo de implementación 30 días calendario posteriores a la firma del contrato.
+
+10. SISTEMA DE CONTRATACIÓN (pág. 39): Suma alzada.
+11. CONFORMIDAD (pág. 39): Oficina General de Gobierno Electrónico y Digital.
+12. FORMAS DE PAGO (pág. 39): mensual; informe de conformidad + comprobante +
+    informe técnico digital mensual + (cierre de trimestre) Informe Trimestral de
+    Postura de Seguridad.
+13. ACUERDO DE CONFIDENCIALIDAD (pág. 39-40).
+14. RESPONSABILIDAD DEL PROVEEDOR (pág. 40): vicios ocultos, no menor de 1 año.
+15. RESPONSABILIDAD POR ASIGNACIÓN DE BIENES (pág. 40).
+
+16. PENALIDADES APLICABLES (pág. 40)
+- Penalidad por Mora (Art. 120° del Reglamento). Penalidad diaria = (0.10 x monto)
+  / (F x plazo en días), donde F = 0.40.
+  [VERIFICADO: F=0.40 es correcto para bienes y servicios — Art. 120 Reglamento.]
+
+17. OTRAS PENALIDADES / NIVEL DE SERVICIO (pág. 40-42)
+- Acuerdo de nivel de servicio: Calidad de Atención de Averías (exceso de tiempo en
+  la atención de una caída). Disponibilidad mensual mínima 99.50% por enlace:
+  Disponibilidad = (TT - TE)/TT x 100, TT = minutos del mes brindados, TE = total de
+  minutos sin servicio.
+- Tiempo de atención de una avería NO mayor a 2 horas (desde el reporte hasta que el
+  proveedor responde e inicia el diagnóstico).
+- Tabla de penalidad por tiempo de subsanación: >1h y <3h: 1% del monto mensual;
+  >3h y <6h: 2%; >6h y <12h: 3%; >12h y <24h: 4% (según informe de la Gerencia/
+  Oficina de Gobierno Electrónico). Cálculo conforme a OSIPTEL. Cortes >60 min
+  consecutivos o acumulación ≥60 min en 24h.
+
+18. GARANTÍA (pág. 42): NO APLICA.
+19. RESOLUCIÓN DEL CONTRATO POR INCUMPLIMIENTO (pág. 42) (causales a-f).
+20. OBLIGACIÓN ANTICORRUPCIÓN Y ANTISOBORNO (pág. 42-43).
+21. ACUERDO DE CONFIDENCIALIDAD (pág. 43).
+22. SOLUCIÓN DE CONTROVERSIAS (pág. 43): conciliación y arbitraje; instituciones
+    arbitrales: PUCP, CCL (Cámara de Bélgica y Luxemburgo CIACBLP), CIAR-USMP, ANARB.
+23. GESTIÓN DE RIESGOS (pág. 43): No aplica.
+24. REQUISITOS DE CALIFICACIÓN (pág. 43) [numerado además como "23.1" — INCONSISTENCIA].
+    (El detalle de requisitos de calificación está en el numeral 3.5 — ver
+    concurso_surquillo_texto.txt, que sí tiene capa de texto.)
+============================================================================
+FIN DE LA TRANSCRIPCIÓN DEL TDR
+============================================================================

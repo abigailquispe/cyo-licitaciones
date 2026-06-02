@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Consultas y Observaciones — Generador</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Consultas y Observaciones a las Bases</h1>
+  <p class="sub">Sube el PDF de las bases · se analizan los Capítulos III y IV · obtienes el informe en PDF</p>
+</header>
+
+<main>
+  <!-- 1) SUBIDA -->
+  <section id="paso-subir" class="card">
+    <div id="dropzone" class="dropzone">
+      <input type="file" id="file" accept="application/pdf" hidden>
+      <p><strong>Arrastra aquí el PDF</strong> o <button id="btn-file" class="link">elige un archivo</button></p>
+      <p id="filename" class="muted"></p>
+    </div>
+    <label class="hint-label">OCR desde la página (opcional)
+      <input id="start-hint" type="number" min="1" placeholder="ej. 25 — donde empieza el Requerimiento/TDR">
+      <span class="muted small">Solo útil si el PDF está 100% escaneado: evita procesar las páginas iniciales. Déjalo vacío para procesar desde el inicio.</span>
+    </label>
+    <button id="btn-analizar" class="primary" disabled>Analizar bases</button>
+  </section>
+
+  <!-- 2) PROGRESO -->
+  <section id="paso-progreso" class="card hidden">
+    <h2>Procesando…</h2>
+    <div class="bar"><div id="bar-fill"></div></div>
+    <p id="progreso-msg" class="muted">Iniciando…</p>
+    <p class="muted small">El OCR de páginas escaneadas puede tardar varios minutos. No cierres esta ventana.</p>
+  </section>
+
+  <!-- 3) REVISIÓN -->
+  <section id="paso-revision" class="card hidden">
+    <h2>Revisa y edita el borrador</h2>
+    <div id="aviso" class="aviso"></div>
+
+    <div class="meta-grid">
+      <label>Nomenclatura <input id="m-nom" type="text"></label>
+      <label>Objeto <input id="m-obj" type="text"></label>
+      <label>Entidad <input id="m-ent" type="text"></label>
+      <label>Participante <input id="m-part" type="text" placeholder="[Razón social del participante]"></label>
+    </div>
+
+    <div class="tabla-wrap">
+      <table id="tabla">
+        <thead>
+          <tr><th>Tipo</th><th>Capítulo</th><th>Numeral / Literal</th><th>Pág.</th>
+              <th>Texto motivado</th><th>Norma</th><th>Cita</th><th></th></tr>
+        </thead>
+        <tbody id="filas"></tbody>
+      </table>
+    </div>
+    <div class="acciones">
+      <button id="btn-add" class="ghost">+ Agregar fila</button>
+      <button id="btn-pdf" class="primary">Generar PDF</button>
+      <a id="link-descarga" class="descarga hidden" href="#">⬇ Descargar informe PDF</a>
+    </div>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

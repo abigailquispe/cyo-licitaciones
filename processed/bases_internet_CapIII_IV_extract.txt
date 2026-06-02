@@ -1,0 +1,120 @@
+============================================================================
+EXTRACTO (lectura por visión) — CAP. III (REQUERIMIENTO/TDR + REQUISITOS DE
+CALIFICACIÓN) y CAP. IV (FACTORES) del:
+Concurso Público de Servicios N° 001-2026-DP-1 — Despacho Presidencial
+Objeto: Servicio de Acceso Dedicado a Internet (TDR N°002-2026-DP/OGTIC)
+Ley 32069 + Reglamento D.S. 009-2025-EF.
+NOTA: el PDF es escaneo (sin capa de texto). Págs 1-16 se OCR-earon con API;
+Cap. III/IV se leyeron por visión (sin costo de API). Pág = paginación oficial.
+============================================================================
+
+== CAP. III — REQUERIMIENTO / TDR (desde pág. 23) ==
+1. Denominación: Servicio de acceso dedicado a Internet.
+2. Objetivo: acceso dedicado a Internet con gestión de seguridad gestionada.
+3. Finalidad: interconexión Despacho Presidencial-entidades-ciudadanos; proteger
+   infraestructura ante denegación de servicios.
+4. Cuadro N°01: Dos (02) enlaces de Internet Dedicado de 200 Mbps c/u, simétrico
+   1:1, disponibilidad 99.95%; rutas de fibra físicamente independientes,
+   terminar en POPs distintos del proveedor, sin SPOF; enrutamiento dinámico,
+   conmutación automática, persistencia de IPs; seguridad gestionada (perimetral,
+   interna, WAF, Anti-DDoS, Anti-Spam). Plazo 1095 días (36 meses).
+5.1 Modalidad de pago: suma alzada.
+5.3 Plazo: ejecución 1095 días (36 meses) desde Acta de Recepción e Inicio;
+    instalación 120 días calendario.
+5.6 Penalidades: a) mora F=0.40 (Art.120 Reglamento — CORRECTO para servicios);
+    b) otras penalidades (Cuadro N°02) por UIT: tiempo de respuesta por nivel de
+    criticidad (cuadro N°3), disponibilidad <99.95/99.90/99.90, alta disponibilidad
+    Activo/Pasivo, saturación, mantenimiento preventivo, no notificación de caída.
+5.9 Controversias: arbitraje (Colegio de Ingenieros del Perú-Lima; PUCP; Colegio
+    de Abogados de Lima).
+
+6.1 Consideraciones generales:
+ c. "La entidad cuenta con una plataforma de comunicaciones de la MARCA CISCO
+    FAMILIA CATALYST con doble fuente y POE instalada en las diferentes sedes."
+ d. Equipos de tecnología vigente, sin EoS al momento de la oferta, soporte y
+    garantía del fabricante.
+ o. "El servicio será gestionado por el proveedor... la entidad podrá solicitar
+    acceso para monitoreo siendo que el proveedor deberá evaluar dicho
+    requerimiento y de considerarlo conveniente podrá brindar los accesos..."
+    [→ acceso de monitoreo de la Entidad queda a DISCRECIÓN del proveedor]
+ t. Provisión de equipos en modalidad de ALQUILER.
+
+6.2 Servicio de acceso a Internet:
+ a. 2 enlaces dedicados simétricos 200 Mbps (principal y alterno), overbooking 1:1,
+    POPs distintos, Activo/Pasivo, disponibilidad 99.95%.
+ b. Salidas internacionales redundantes en fibra, mínimo 10 Gbps cada una, ambos
+    proveedores TIER I; no se aceptan rutas con mismo proveedor internacional.
+ d. Backbone MPLS. h. Fibra última milla no rentada a terceros; backbone propio
+    redundante. i. Terminales de fibra independientes (sin SPOF).
+ n. 2 routers en Alta Disponibilidad (BGP, OSPF, IS-IS, PIM-SM/SSM, 802.1q, QoS/WRED).
+ o. 2 equipos de comunicación HA: throughput >=28 Gbps/21 Mpps; 12 puertos
+    10/100/1000 BaseT; puerto gestión fuera de banda.
+ p. Solución de Administración y Gestión de Ancho de Banda (appliance 1RU dedicado):
+    p.3 200 Mbps +50%; p.4 integra Directorio Activo; p.5 >=200,000 conexiones;
+    p.6 2000 usuarios; p.10 >=500 clases de tráfico; p.14 control capa 7; etc.
+ q. Herramienta de reportes; "El Administrador de ancho de banda ofertado debiendo
+    ser DEL MISMO FABRICANTE O DUEÑO DE LA MARCA". [→ posible direccionamiento]
+ r. Herramienta WEB (http) de visualización de tráfico de los enlaces (últimos 3
+    meses); r.1-r.8 (selección de interfaces, ancho de banda, tiempo de respuesta
+    del router, pérdidas, CPU/memoria, umbrales/alertas, refresco >=10 min, xFlow).
+ s. 3 pools de IPs públicas (64 IPv4, 8 IPv4, 32 IPv6).
+ t. NOC dentro del territorio nacional con redundancia (requerido).
+
+6.3 Seguridad Gestionada:
+ a. SOC propio o tercerizado de jurisdicción nacional. [SOC propio NO obligatorio]
+ f. Equipamiento: seguridad perimetral e interna, WAF, Anti-DDoS, Anti-Spam;
+    appliance con mínimo 8 TB de almacenamiento.
+ 6.3.1 Seguridad Perimetral e Interna (firewall):
+   c. "Deberá estar basado en tecnología ASIC y ser capaz de brindar una solución
+      de 'COMPLETE CONTENT PROTECTION'." [→ término propietario de Fortinet]
+   d. No se aceptan equipos de propósito genérico (PCs/servers) con SO Windows,
+      FreeBSD, Solaris, OS-X o GNU/Linux.
+   f. Funcionalidades NGFW. g. "OPCIONALMENTE deberá estar presente en el CUADRANTE
+      DE LÍDERES en el último reporte de GARTNER de Enterprise Network Firewall."
+   n. Arquitectura perimetral: FW >=36 Gbps, NGFW >=3 Gbps, 3M sesiones, VPN/IPSEC
+      hasta 500 conexiones con doble factor, ZTNA; IA/machine learning.
+   n.15 "La Entidad cuenta con FIREWALL FORTIGATE 600E con 150 reglas aprox."
+   o. Arquitectura interna: FW >=39 Gbps, NGFW >=7 Gbps, 8M sesiones; IA/ML.
+   o.15 "La Entidad cuenta con FIREWALL INTERNO FORTIGATE 500E con 60 reglas aprox."
+ 6.3.2 WAF: OWASP Top 10, SQLi, XSS, etc.; HTTPS/SSL offloading (certs por la Entidad).
+ 6.3.3 Anti-DDoS: solución avanzada 24x7; mitigar volumétricos hasta 20 Gbps en la
+   nube del postor (base). [Mejora 2 premia 100 Gbps]
+ 6.3.4 Anti-Spam: 600 licencias año1 (+8%/año); servidores SMTP / Ms Windows Server /
+   Ms Exchange; proteger Office365; >=200,000 correos/hora; filtrado, sandbox.
+ (Anexo N°2: Topología actual con "Internet 150 Mbps Principal/Backup".)
+
+== CAP. III — 3.5 REQUISITOS DE CALIFICACIÓN ==
+A. Capacidad legal: registro como empresa prestadora de valor añadido (Conmutación
+   de Datos por paquetes/Internet) ante MTC; concesión.
+B. Experiencia del postor: monto facturado acumulado >= S/ 4,000,000.00, servicios
+   iguales o similares, 15 años; máx. 20 contrataciones.
+C.1 Experiencia personal clave: 1 Jefe de proyecto (>=3 años); 2 Especialistas
+   (>=2 años) en firewall/router/WAF/antispam/antiddos/admin ancho de banda.
+C.2.1 Formación: Jefe de Proyecto — título profesional en Ing. Eléctrica/Electrónica/
+   Telecomunicaciones/Sistemas/Informática/Industrial/Computación. Especialistas —
+   título técnico/bachiller/título. [Advertencia: solo "bachiller" o "título". OK —
+   NO se exige PMP ni colegiatura.]
+C.2.2 Capacitación del personal clave: Jefe 40h gestión de proyectos; Especialistas
+   40h cursos de Seguridad Perimetral (Firewall), Routers y WAF "DE LAS MARCAS DE LA
+   SOLUCIÓN A IMPLEMENTAR". [→ condicionado a marca]
+
+== CAP. IV — EVALUACIÓN DE OFERTAS (FACTORES) ==
+Técnica /100; ECONÓMICA /100; PTP = 0.60*Pt + 0.40*Pe. Puntaje técnico MÍNIMO 70.
+Cuadro Resumen Factores Facultativos (TOTAL 100):
+  A. Experiencia adicional del postor: NO CORRESPONDE
+  B.1 Experiencia adicional del personal clave: 10 (Jefe >5 años:5; Especialistas >4 años:5)
+  C, D, E, G: NO CORRESPONDE
+  F. Integridad (ISO 37001): 10
+  H. CAPACITACIÓN AL PERSONAL DE LA ENTIDAD: 20 — "capacitación OFICIAL del
+     fabricante" para 2 personas (firewall/WAF/antispam/antiDDoS/admin); >50h:20,
+     >40h:10, >30h:5; entregar "certificados o constancias OFICIALES DE LA MARCA".
+  I. MEJORAS A LOS TDR: 50
+     - Mejora 1: salidas internacionales de >2 proveedores TIER I, 100 Gbps c/u (10);
+       dos proveedores TIER I 100 Gbps (5).
+     - Mejora 2: mitigar Anti-DDoS hasta 100 Gbps en red del postor (10).
+     - Mejora 3: NOC y SOC PROPIO (10).
+     - Mejora 4: ancho de banda > 240 Mbps (10).
+     - Mejora 5: validación de postura de seguridad VPN/IPSEC (10).
+  J. Sistema de Gestión de la Calidad (ISO 9001): 10
+Económica: menor precio mayor puntaje (Po = Mb*Pmax/Mo).
+============================================================================

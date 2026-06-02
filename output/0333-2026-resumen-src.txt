@@ -1,0 +1,2345 @@
+
+
+===== PÁGINA 1 (footer ~-1) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+1/61
+RECLAMANTE : DE OFICIO
+OBLIGADAS : TELEFÓNICA DEL PERÚ S.A.A.
+AMÉRICA MÓVIL PERÚ S.A.C.
+ENTEL PERÚ S.A.
+VIETTEL PERÚ S.A.C.
+WI-NET TELECOM S.A.C.
+WOW TEL S.A.C.
+GTD PERÚ S.A.
+FIBERLINE PERÚ S.A.C.
+AMERICATEL PERÚ S.A.
+RED CIENTÍFICA PERUANA
+MATERIA : MEDIDA CAUTELAR DE CESE
+SUMILLA: En el presente procedimiento de medida cautelar de cese iniciado de
+oficio, la Comisión de Derecho de Autor ha dispuesto ORDENAR el bloqueo
+basado en DNS respecto de los nombres de dominio señalados en el artículo
+primero de la presente resolución; por encontrarse asociados a sitios web por
+medio de los cuales se realizan actos de explotación presuntamente no
+autorizados de producciones protegidas por la legislación sobre derechos
+conexos, siendo las obligadas a ejecutar las medidas ordenadas, las empresas
+señaladas en el Cuadro N° 01 de la presente resolución. De igual manera, se ha
+dispuesto ORDENAR a la RED CIENTÍFICA PERUANA la suspensión del registro
+de los nombres de dominio señalados en el artículo tercero de la presente
+resolución.
+Lima, 28 de mayo de 2026
+I. ANTECEDENTES
+1.1 De las verificaciones realizadas por la Comisión de Derecho de Autor
+La Comisión de Derecho de Autor -en adelante, la Comisión- ha tomado conocimiento
+de que a través de los sitios web con URL https://futbollibregol.pe/;
+https://pelotalibretv.su/; https://futbollibres1.pe/; https://futbollibrehoy.pe/;
+https://pelotalibrehoy.pe/; https://futbollibre.ch/; https://pelotalibre-hd.pe/;
+https://rojadirectaplay.com/; https://futbolparatodos.pl/; https://futbollibretv.cl/;
+https://pelotalibregol.pe/; https://rojadirecta.com.es/; https://librefútbol.com/;
+https://rojadirectahoy.com/; https://pelotalibres.net/; https://pelotalibreoficial.pe/;
+https://futbol-libre.su/; https://pelotalibrestv.org/; https://futbollibre.co/;
+https://thefutbollibre.com/; https://futbollibre.gg/; https://pelota-libre.com.co/;
+https://futbol-libre.mx/; https://pelotalibre.app/; https://tvlibre.com.co/;
+https://futbollibretv.com.co/; https://rojadirectahd.com.co/; https://directarojatv.com/;
+https://tarjetarojas.com/; https://tarjetarojaonline.net/; https://tarjetarojahd.com.co/;
+https://tarjetarojatv.com.co/; https://rrojadirecta.com/; https://rojadirecta.com.im/;
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 2 (footer ~0) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+2/61
+https://tarjeta-roja.my/; https://rojadirectatv.com.im/; https://rojadirecta.wtf/;
+https://pirlotvv.su/; https://pirlotvs.com/; https://rojadirecto.cc/; https://privesport.com/;
+https://rojadirecta.re/; https://pirlotv2.org/; https://pirlotvhd.com.co/;
+https://pelotalibretv.com.co/; https://pelotalibre.club/; https://pelotalibre.com.es/ y
+https://pelotalibretv.my/ se vendrían realizando actos de explotación de obras y
+producciones protegidas por la legislación sobre derecho de autor y derechos conexos,
+presuntamente sin autorización y, asimismo, se contribuiría a la realización, por parte
+de terceros, de actos de explotación presuntamente no autorizados de las referidas
+obras.
+II. CUESTIÓN EN DISCUSIÓN
+La cuestión en discusión en el presente procedimiento consiste en determinar si
+corresponde ordenar una medida cautelar de cese referida al bloqueo del acceso en
+territorio peruano a los sitios web señalados en el numeral 1.1. de la presente resolución,
+por razón de los presuntos actos no autorizados de explotación de obras y producciones
+protegidas por la legislación sobre derecho de autor y derechos conexos que vendrían
+siendo realizados a través de los referidos sitios y; asimismo, por contribuir a la
+realización, por parte de terceros, de actos de explotación presuntamente no
+autorizados de las referidas obras y creaciones.
+III. ANÁLISIS DE LA CUESTIÓN EN DISCUSIÓN
+3.1. Presupuestos de la medida cautelar
+De manera previa al análisis del caso en concreto, la Comisión conviene en señalar que
+las disposiciones normativas aplicables a la salvaguarda de derechos correspondientes
+a las creaciones protegidas por la legislación sobre el derecho de autor y derechos
+conexos han sido desarrolladas a través de la Resolución n° 0527-2024/CDA-
+INDECOPI
+1
+.
+El artículo 27° del Decreto Legislativo 807, Ley sobre facultades, normas y organización
+del Indecopi, establece:
+“En cualquier etapa del procedimiento, de oficio o a pedido de parte, la Comisión
+podrá, dentro del ámbito de su correspondiente competencia, dictar una o varias
+de las siguientes medidas cautelares destinadas a asegurar el cumplimiento de
+la decisión definitiva:
+a) La cesación de los actos materia de denuncia.
+b) El comiso, el depósito o la inmovilización de los productos, etiquetas, envases
+y material publicitario materia de denuncia.
+1 
+Accesible a través de la URL
+https://servicio.indecopi.gob.pe/buscadorResoluciones/getDoc?docID=workspace://SpacesStore/b41c7889-
+8bd6-4abf-b608-d955dee9fbaa.
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 3 (footer ~1) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+3/61
+c) El cese preventivo de la publicidad materia de denuncia.
+d) La adopción de las medidas necesarias para que las autoridades aduaneras
+impidan el ingreso al país de los productos materia de denuncia.
+e) El cierre temporal del establecimiento del denunciado.
+f) Cualquier otra medida que tenga por objeto evitar que se produzca algún
+perjuicio derivado del acto denunciado o que tenga como finalidad la cesación
+de éste.
+La Comisión podrá, de considerarlo pertinente, ordenar una medida cautelar
+distinta a la solicitada por la parte interesada. En caso de existir peligro actual o
+inminente si es que no se adoptan las medidas cautelares correspondientes, el
+Secretario Técnico podrá imponerlas, con cargo a dar cuenta inmediatamente a
+la Comisión. La Comisión ratificará o levantará la medida cautelar impuesta.”
+El artículo 177º de la Ley establece:
+“Las medidas preventivas o cautelares serán, entre otras:
+a) La suspensión o cese inmediato de la actividad ilícita.
+a) La incautación o comiso y retiro de los canales comerciales de los
+ejemplares producidos o utilizados y del material o equipos empleados
+para la actividad infractora.
+b) La realización de inspección, incautación o comiso sin previo aviso.
+La medida cautelar de incautación o comiso, sólo podrá solicitarse dentro de un
+procedimiento administrativo de denuncia, sin perjuicio de las acciones de oficio.”
+El artículo 179º de la Ley indica:
+“Cualquier solicitante de una medida preventiva o cautelar, debe cumplir con
+presentar ante la autoridad administrativa, las pruebas a las que razonablemente
+tenga acceso y que la autoridad considere suficientes para determinar que:
+a) El solicitante es el titular del derecho o tiene legitimación para actuar.
+b) El derecho del solicitante está siendo infringido, o que dicha infracción es
+inminente; y,
+c) Cualquier demora en la expedición de esas medidas podría causar un daño
+irreparable al titular del derecho, o si existe un riesgo comprobable de que se
+destruyan las pruebas.”
+El artículo 181º de la Ley señala:
+“La Oficina de Derechos de Autor (actual Comisión de Derecho de Autor) tendrá
+la facultad para ordenar medidas preventivas o cautelares en virtud del pedido
+de una sola parte, sin necesidad de notificar previamente a la otra, en especial
+cuando haya posibilidad de que cualquier retraso cause un daño irreparable al
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 4 (footer ~2) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+4/61
+titular del derecho, o cuando haya un riesgo inminente de que se destruyan las
+pruebas.”
+3.2. Aplicación al caso en concreto
+La Comisión, en el ejercicio de las funciones de vigilancia establecidas en el artículo
+169°, literal f) de la Ley, tomó conocimiento que a través de los sitios web con URL
+https://futbollibregol.pe/; https://pelotalibretv.su/; https://futbollibres1.pe/;
+https://futbollibrehoy.pe/; https://pelotalibrehoy.pe/; https://futbollibre.ch/;
+https://pelotalibre-hd.pe/; https://rojadirectaplay.com/; https://futbolparatodos.pl/;
+https://futbollibretv.cl/; https://pelotalibregol.pe/; https://rojadirecta.com.es/;
+https://librefútbol.com/; https://rojadirectahoy.com/; https://pelotalibres.net/;
+https://pelotalibreoficial.pe/; https://futbol-libre.su/; https://pelotalibrestv.org/;
+https://futbollibre.co/; https://thefutbollibre.com/; https://futbollibre.gg/; https://pelota-
+libre.com.co/; https://futbol-libre.mx/; https://pelotalibre.app/; https://tvlibre.com.co/;
+https://futbollibretv.com.co/; https://rojadirectahd.com.co/; https://directarojatv.com/;
+https://tarjetarojas.com/; https://tarjetarojaonline.net/; https://tarjetarojahd.com.co/;
+https://tarjetarojatv.com.co/; https://rrojadirecta.com/; https://rojadirecta.com.im/;
+https://tarjeta-roja.my/; https://rojadirectatv.com.im/; https://rojadirecta.wtf/;
+https://pirlotvv.su/; https://pirlotvs.com/; https://rojadirecto.cc/; https://privesport.com/;
+https://rojadirecta.re/; https://pirlotv2.org/; https://pirlotvhd.com.co/;
+https://pelotalibretv.com.co/; https://pelotalibre.club/; https://pelotalibre.com.es/ y
+https://pelotalibretv.my/, entre otros, se vendrían realizando actos de explotación de
+obras y producciones protegidas por la legislación sobre derecho de autor y derechos
+conexos, presuntamente sin autorización y; asimismo, se vendrían realizando actos de
+explotación de obras y producciones protegidas por la legislación sobre derecho de
+autor y derechos conexos, presuntamente sin autorización y, asimismo, se contribuiría
+a la realización, por parte de terceros, de actos de explotación presuntamente no
+autorizados de las referidas obras y producciones.
+Por tal motivo, y teniendo en consideración el amplio grado de difusión de los actos de
+explotación de obras y producciones protegidas que pueden realizarse a través de
+Internet, la Comisión realizará verificaciones del contenido de los sitios web
+mencionados
+2
+.
+- De la inspección remota realizada en el sitio web con URL
+https://futbollibregol.pe/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+2 
+Verificaciones realizadas el 25 y 26 de mayo de 2026.
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 5 (footer ~3) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+5/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://pelotalibretv.su/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 6 (footer ~4) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+6/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://futbollibres1.pe/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://futbollibrehoy.pe/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 7 (footer ~5) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+7/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://pelotalibrehoy.pe/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 8 (footer ~6) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+8/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://futbollibre.ch/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://pelotalibre-
+hd.pe/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 9 (footer ~7) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+9/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://rojadirectaplay.com/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 10 (footer ~8) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+10/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://futbolparatodos.pl/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://futbollibretv.cl/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 11 (footer ~9) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+11/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://pelotalibregol.pe/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 12 (footer ~10) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+12/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://rojadirecta.com.es/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://librefútbol.com/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 13 (footer ~11) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+13/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://rojadirectahoy.com/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 14 (footer ~12) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+14/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://pelotalibres.net/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://pelotalibreoficial.pe/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 15 (footer ~13) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+15/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://futbol-libre.su/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 16 (footer ~14) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+16/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://pelotalibrestv.org/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://futbollibre.co/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 17 (footer ~15) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+17/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://thefutbollibre.com/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 18 (footer ~16) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+18/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://futbollibre.gg/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://pelota-
+libre.com.co/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 19 (footer ~17) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+19/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://futbol-libre.mx/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 20 (footer ~18) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+20/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://pelotalibre.app/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://tvlibre.com.co/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 21 (footer ~19) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+21/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://futbollibretv.com.co/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 22 (footer ~20) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+22/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://rojadirectahd.com.co/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://directarojatv.com/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 23 (footer ~21) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+23/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://tarjetarojas.com/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 24 (footer ~22) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+24/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://tarjetarojaonline.net/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://tarjetarojahd.com.co/:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 25 (footer ~23) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+25/61
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://tarjetarojatv.com.co/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 26 (footer ~24) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+26/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://rrojadirecta.com/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 27 (footer ~25) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+27/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://rojadirecta.com.im/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 28 (footer ~26) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+28/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://tarjeta-roja.my/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 29 (footer ~27) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+29/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://rojadirectatv.com.im/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://rojadirecta.wtf/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 30 (footer ~28) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+30/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://pirlotvv.su/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 31 (footer ~29) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+31/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://pirlotvs.com/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://rojadirecto.cc/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 32 (footer ~30) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+32/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://privesport.com/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 33 (footer ~31) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+33/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://rojadirecta.re/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://pirlotv2.org/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 34 (footer ~32) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+34/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://pirlotvhd.com.co/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 35 (footer ~33) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+35/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://pelotalibretv.com.co/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL https://pelotalibre.club/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 36 (footer ~34) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+36/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://pelotalibre.com.es/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 37 (footer ~35) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+37/61
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+- De la inspección remota realizada en el sitio web con URL
+https://pelotalibretv.my/:
+La Comisión ha verificado el contenido del referido sitio web, advirtiendo que a través
+de este se pone a disposición un catálogo de diversas emisiones televisivas, conforme
+a la siguiente captura de pantalla:
+Del contenido del referido catálogo, el cual permitiría el acceso libre y gratuito a diversos
+contenidos audiovisuales que forman parte de emisiones televisivas, la Comisión
+considera verosímil que el sitio web mencionado se encuentra llevando a cabo actos
+presuntamente no autorizados de comunicación pública, bajo la modalidad de
+retransmisión, vía streaming, de emisiones protegidas por la legislación sobre derecho
+de autor y derechos conexos.
+De lo señalado previamente, y atendiendo a la naturaleza de los servicios brindados a
+través de cada uno de los sitios web que han sido materia de verificación, la autoridad
+administrativa concluye lo siguiente:
+IV.3.1. Sitios web de retransmisión, vía streaming, de emisiones:
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 38 (footer ~36) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+38/61
+- La Comisión ha verificado que a través de los sitios web con URL
+https://futbollibregol.pe/; https://pelotalibretv.su/; https://futbollibres1.pe/;
+https://futbollibrehoy.pe/; https://pelotalibrehoy.pe/; https://futbollibre.ch/;
+https://pelotalibre-hd.pe/; https://rojadirectaplay.com/; https://futbolparatodos.pl/;
+https://futbollibretv.cl/; https://pelotalibregol.pe/; https://rojadirecta.com.es/;
+https://librefútbol.com/; https://rojadirectahoy.com/; https://pelotalibres.net/;
+https://pelotalibreoficial.pe/; https://futbol-libre.su/; https://pelotalibrestv.org/;
+https://futbollibre.co/; https://thefutbollibre.com/; https://futbollibre.gg/; https://pelota-
+libre.com.co/; https://futbol-libre.mx/; https://pelotalibre.app/; https://tvlibre.com.co/;
+https://futbollibretv.com.co/; https://rojadirectahd.com.co/; https://directarojatv.com/;
+https://tarjetarojas.com/; https://tarjetarojaonline.net/; https://tarjetarojahd.com.co/;
+https://tarjetarojatv.com.co/; https://rrojadirecta.com/; https://rojadirecta.com.im/;
+https://tarjeta-roja.my/; https://rojadirectatv.com.im/; https://rojadirecta.wtf/;
+https://pirlotvv.su/; https://pirlotvs.com/; https://rojadirecto.cc/; https://privesport.com/;
+https://rojadirecta.re/; https://pirlotv2.org/; https://pirlotvhd.com.co/;
+https://pelotalibretv.com.co/; https://pelotalibre.club/; https://pelotalibre.com.es/ y
+https://pelotalibretv.my/ se realizan actos de retransmisión, vía streaming, de
+emisiones televisivas que, en algunos supuestos, contienen eventos deportivos, ello
+con motivo de los servicios ofrecidos a través de dichos sitios web.
+- Sobre el particular, y en virtud de las verificaciones realizadas por la autoridad
+administrativa, resulta verosímil presumir que, cuando un usuario selecciona el
+nombre de una emisión o de un evento deportivo a través del catálogo que es puesto
+a disposición en cada uno de los sitios web mencionados, se permite la visualización
+o escucha del contenido de la emisión seleccionada o del evento deportivo
+seleccionado, el cual forma parte de una emisión televisiva, y que vendría siendo
+retransmitida, vía streaming.
+- Por otra parte, esta Comisión advierte que los sitios web antes mencionados
+contarían con administraciones centralizadas, al advertirse la inexistencia de
+herramientas y/o procedimientos en estos sitios que permitan a sus usuarios o
+terceros no pertenecientes a su administración la carga de contenidos y/o enlaces
+por medio de los cuales se pueda generar la retransmisión, vía streaming, de
+emisiones, lo cual permite determinar que los actos de retransmisión, vía streaming,
+de emisiones antes descritos han sido realizados por los administradores de los sitios
+web verificados.
+- De igual manera, esta Comisión considera que existen elementos de verosimilitud
+suficientes que permiten suponer que los actos de retransmisión, vía streaming, de
+emisiones que fueron verificados a través de los sitios web arriba señalados, serían
+de naturaleza presuntamente ilícita y que dicha situación sería de conocimiento de
+los administradores de los referidos sitios web; al advertirse que, a nivel de usuario,
+se pudo acceder de manera libre y gratuita a la visualización de emisiones que se
+encuentran originalmente disponibles en plataformas de streaming lícitas, o
+accesibles ya sea con motivo de la adquisición de servicios de televisión por
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 39 (footer ~37) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+39/61
+suscripción, o en virtud del acceso a la emisión originalmente radiodifundida (radio y
+televisión abierta).
+- Así, esta Comisión advierte que las referidas plataformas de streaming lícitas,
+habilitan a sus usuarios el acceso a un conjuntos emisiones que son retransmitidas,
+dentro de las cuales se pueden encontrar aquellas que contienen eventos deportivos
+como parte de su programación, siendo práctica usual en este tipo de mercados que
+requieran a sus usuarios el pago periódico de un derecho de suscripción a fin de
+otorgar las licencias necesarias que permitan a éstos el acceso autorizado a las
+emisiones señaladas así como a sus contenidos.
+- En dicha línea, esta Comisión ha podido constatar que la información que ha sido
+obtenida a través de las verificaciones realizadas por la autoridad administrativa
+permite determinar que a través de los sitios web antes señalados se brinda a sus
+usuarios un catálogo de emisiones y/o eventos deportivos, en virtud de cuya
+selección se puede acceder de manera libre, gratuita y sistemática a dichas
+emisiones, así como a la visualización de sus contenidos, los cuales pueden
+corresponder a eventos deportivos, siendo que los actos de retransmisión, vía
+streaming, que se realizarían por parte de los administradores de los sitios web antes
+mencionados a fin de brindar dicho acceso a los usuarios, no contarían con la
+autorización previa por parte de los titulares de derechos respectivos.
+En consecuencia, habiéndose verificado que a través de los sitios web señalados en
+los se vendrían realizando diversos actos presuntamente no autorizados de
+explotación de obras y producciones protegidas por la legislación sobre derecho de
+autor y derechos conexos; o bien se vendría contribuyendo a la realización de los
+referidos actos de explotación por parte de terceros, la autoridad administrativa debe
+evaluar si corresponde dictar una medida cautelar a fin de ordenar el bloqueo del
+acceso en territorio peruano a los referidos sitios, mediante el bloqueo basado en
+DNS.
+En relación con dicha medida, y al tratarse de una acción de oficio, corresponderá
+analizar los presupuestos procesales establecidos en los literales b) y c) del artículo
+179º de la Ley.
+b) El derecho de los autores y/o titulares está siendo infringido, o dicha
+infracción es inminente
+Al respecto, en virtud de la información que ha sido materia de análisis en el presente
+caso, y referida a los sitios web señalados en el numeral 3.3.1. de la presente
+resolución, se ha verificado que a través de dichos sitios se vendrían realizando
+diversos actos presuntamente no autorizados de explotación de producciones y
+emisiones protegidas por la legislación sobre derechos conexos, de conformidad con
+el detalle expuesto en el numeral mencionado.
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 40 (footer ~38) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+40/61
+De igual manera, se ha verificado que los actos de explotación constatados tienen
+efectos en territorio peruano, al advertirse que las verificaciones realizadas por la
+Comisión a las cuales se ha hecho referencia en el marco de la presente resolución
+fueron llevadas a cabo a través de un ordenador ubicado en la ciudad de Lima.
+Por lo señalado anteriormente, esta Comisión de Derecho de Autor considera que
+existen elementos suficientes como para tener la verosimilitud de que se estaría
+infringiendo los derechos de los titulares de producciones y emisiones protegidas por
+la normativa sobre Derecho de Autor y derechos conexos, con motivo de los actos
+presuntamente no autorizados de explotación de dichos bienes intelectuales; o la
+contribución a la realización presuntamente no autorizada y por parte de terceros, de
+los referidos actos de explotación, que es realizada por parte de los administradores
+de los sitios web señalados en el numeral 3.3.1 de la presente resolución.
+Teniendo en consideración lo anteriormente expuesto, la Comisión considera que ha
+quedado acreditado el cumplimiento de lo dispuesto en el literal b) del artículo 179º
+de la Ley.
+c) La demora en la expedición de la medida cautelar podría causar un daño
+irreparable a los autores y titulares, o si existe un riesgo comprobable de que
+se destruyan las pruebas. -
+Con relación al cumplimiento del presente supuesto, la Comisión considera que una
+demora en la expedición de la presente medida cautelar puede causar un daño
+irreparable a los autores y titulares de las diversas obras, producciones y emisiones
+cuya explotación presuntamente no autorizada es realizada o facilitada por parte de
+los administradores de los sitios web señalados en el numeral 3.3.1. de la presente
+resolución, ello toda vez que las presuntas infracciones verificadas tienen una amplia
+difusión debido a la cantidad de usuarios que pueden acceder diariamente a los sitios
+web antes señalados.
+De igual manera, esta Comisión advierte que el hecho de que los sitios web antes
+señalados permitan el acceso libre, gratuito y sistemático a una diversidad de
+producciones y emisiones protegidas por la legislación sobre derecho de autor y
+derechos conexos, las cuales cuentan con canales lícitos de explotación que
+requieren a sus usuarios la adquisición de licencias para el acceso a los referidos
+contenidos; puede tener como correlato que una mayor cantidad de usuarios
+accedan a los sitios web materia del presente procedimiento, dejando de lado las
+vías legales y los canales de distribución y de streaming formales, lo cual generaría
+múltiples infracciones en perjuicio de una amplia variedad de titulares de obras,
+producciones y emisiones protegidas por la legislación sobre derecho de autor y
+derechos conexos.
+Por otro lado, se advierte que la persistencia en los actos de explotación realizados
+y/o facilitados por los sitios web antes mencionados, podría generar en los
+consumidores un patrón de conducta que implicaría la adopción de una costumbre
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 41 (footer ~39) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+41/61
+de obtener, por vías supuestamente gratuitas, el acceso a producciones y emisiones
+protegidas por la legislación sobre derecho de autor y derechos conexos, en perjuicio
+de sus titulares, siendo que los referidos contenidos tienen un valor en el mercado.
+Como se ha indicado en los párrafos precedentes, es necesario que la autoridad
+administrativa adopte una medida pronta y eficaz para evitar que continúe la presunta
+vulneración de los derechos de los titulares de obras, producciones y emisiones
+protegidas por la legislación sobre derecho de autor y derechos conexos.
+Teniendo en consideración lo anteriormente expuesto, la Comisión ha verificado que
+ha quedado acreditado el cumplimiento del literal c) del artículo 179º de la Ley, al
+haberse advertido la existencia de elementos que permiten tener la verosimilitud de
+que una demora en la expedición de la presente medida cautelar podría causar un
+daño irreparable a los autores y titulares de obras, producciones y emisiones
+protegidas por la legislación sobre derecho de autor y derechos conexos, respecto
+de los actos presuntamente no autorizados de explotación de las referidas obras,
+producciones y emisiones que son realizados o facilitados por los administradores de
+los sitios web señalados en el numeral 3.3.1. de la presente resolución.
+Por dicho motivo, la Comisión considera que la adopción de medidas efectivas, tal y
+como ordenar el bloqueo basado en DNS de los sitios web materia del presente
+procedimiento, cobra una especial relevancia, toda vez que la misma evitará que los
+actos presuntamente infractores que son llevados a cabo o facilitados por los
+administradores de los referidos sitios web tengan efectos en territorio peruano, al
+impedirse el acceso a estos.
+En tal sentido, la autoridad administrativa considera que la presente medida cautelar
+deberá ser dirigida respecto de las siguientes empresas debido a que las mismas, en
+su calidad de proveedoras de servicios de Internet (ISP), contarían con la facultad para
+proceder con el bloqueo basado en DNS, en caso lo ordene la autoridad competente,
+toda vez que la naturaleza del servicio de Internet que ofrecen, estos hacen posible el
+acceso a los referidos sitios web:
+Cuadro N° 01
+Proveedor del servicio de
+acceso a Internet
+Integratel Perú S.A.A
+América Móvil Perú S.A.C.
+Entel Perú S.A.
+Viettel Perú S.A.C.
+Wi-Net Telecom S.A.C.
+Wow Tel S.A.C.
+GTD Perú S.A.
+Fiberline Perú S.A.C.
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 42 (footer ~40) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+42/61
+Americatel Perú S.A.
+Del mismo modo, esta Comisión considera que la presente medida deberá también
+hacerse efectiva respecto de aquellos nombres de dominio asociados a los sitios web
+que permiten el acceso, por redirección, a aquellos por medio de los cuales se realizan
+o facilitan los actos presuntamente no autorizados de explotación de obras y
+producciones protegidas por la legislación sobre derecho de autor y derechos conexos
+que fueron descritos anteriormente, conforme al siguiente detalle:
+Cuadro N° 02
+Sitio web verificado
+DNS asociadas a URLs que permiten
+el acceso directo o por redirección al
+sitio web verificado
+3
+https://futbollibregol.pe/
+futbollibregol.pe
+futbollibreplus.com
+futbollibrepe.com
+futbolibre8k.com
+futbollibreplay.pe
+https://pelotalibretv.su/
+pelotalibretv.su
+librefutbol.uk
+pelotalibreperu.com
+pelotalibrear.net
+https://futbollibres1.pe/
+futbollibres1.pe
+pelotalibreoficial.org
+pelotalibre.asia
+pelotatv.pe
+futbollibre-tv.org
+futbollibreporinternet.com
+https://futbollibrehoy.pe/
+futbollibrehoy.pe
+pelotalibre.com.pe
+la10tv.com
+pelotatv.com
+pelotalibre.world
+librefutbolar.com
+librefutbol.info
+pelotalibre.uk
+librefutbol.world
+rojadirectahd.store
+futboltv.pe
+https://pelotalibrehoy.pe/ pelotalibrehoy.pe
+https://futbollibre.ch/ futbollibre.ch
+3 
+Verificación realizada por la Comisión a través de la herramienta de consulta de nombres de dominio accesible
+a través de la URL https://host.io/.
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 43 (footer ~41) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+43/61
+libre.pe
+pelotalibre-tv.pe
+https://pelotalibre-hd.pe/
+pelotalibre-hd.pe
+libre-pelota.com
+pelotalibre.plus
+futbollibrehdtv.pe
+pelotalibrestv.pe
+pelotalibrefullhd.com
+futbollibre-tv.pe
+ftvhd.com
+futbollibreplus.pe
+futbollibre.nom.pe
+pelotalibre.org.pe
+pelotalibreperu.pe
+futbollibretvonline.pe
+rojadirecta.net.pe
+libre-pelota.pe
+pelotalibreenvivotv.com
+rojadirectafullhd.com
+futbollibre.org.pe
+https://rojadirectaplay.com/
+rojadirectaplay.com
+rojadirecta-tv.pe
+pelota-libre.pe
+futbollibre.stream
+pelotalibrehd.com
+futbollibre1.pe
+tiogol.com
+xn--libreftbol-sdb.pe
+rojadirecta-tv.net
+futboltv.org
+futbollibretv.mx
+roja-directa.pe
+rojadirecta-hd.com
+librepelota.com
+rojadirectamx.com
+pelotalibre1.pe
+https://futbolparatodos.pl/
+futbolparatodos.pl
+futbolparatodos.pe
+futbolparatodos.net.co
+https://futbollibretv.cl/ futbollibretv.cl
+https://pelotalibregol.pe/
+pelotalibregol.pe
+pelotalibrevivo.pe
+pelotalibre.mx
+pelotalibreonline.com
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 44 (footer ~42) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+44/61
+tvhdlibre.com
+futbollibre.net.pe
+pelotalibres1.pe
+librepelotatv.com
+https://rojadirecta.com.es/
+rojadirecta.com.es
+xn--libreftbol-sdb.net
+pelotalibre-hd.com
+futbollibrear.com
+futbolibrepe.com
+tiogolhd.com
+futbollibreenvivo.pe
+rojadirectahd.com
+https://librefútbol.com/ 
+librefútbol.com
+librefutboltv1.pe
+https://rojadirectahoy.com/
+rojadirectahoy.com
+rojadirectaftv.com
+rojadirectahdtv.pe
+futbollibreenvivotv.com
+pltvhd.com
+futbollibre-hd.com
+footballlibre.pe
+futbollibretvhd.pe
+pelotalibreoficial.com
+futbollibremundial.com
+tvtvhd.com
+fltvhd.com
+rojadirecta.nom.pe
+liga1maxenvivoperu.pe
+https://pelotalibres.net/
+pelotalibres.net
+pelotalibres.pe
+pelotalibre.es
+rojadirectahdtv.com
+pelotalibrear.com
+xn--libreftbol-sdb.com
+pelotalibretv.pe
+futbollibreargentina.com
+pelotalibre-tv.com
+rojadirecta.org.pe
+https://pelotalibreoficial.pe/
+pelotalibreoficial.pe
+librefutbol.pe
+rojadirectaenvivohd.com
+rojadirecta-hd.pe
+pelotalibrehdtv.com
+futbollibres.net
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 45 (footer ~43) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+45/61
+futbolonlinehd.com
+futbollibrego.pe
+futbollibreargentina.pe
+futbollibrehdtv.com
+futbollibrelibre.com
+pelotalibrehd.net
+pelotalibreonline.pe
+libre-futbol.pe
+rojadirectamundial.com
+https://futbol-libre.su/ 
+futbol-libre.su
+librefutbol.su
+https://pelotalibrestv.org/
+pelotalibrestv.org
+pelotalibre-hd.org
+futbollibrestv.net
+futbollibreshd.pe
+fromtv.net
+pelotalibrestv.su
+pelota-libres.su
+pelotalibres-tv.su
+alangulotv.su
+streamhdx.com
+https://futbollibre.co/
+futbollibre.co
+pelota-libres.net
+skylivefu.com
+telelibre.pe
+futbollibrestv.com
+pelota-libres.com
+https://thefutbollibre.com/ thefutbollibre.com
+https://futbollibre.gg/
+futbollibre.gg
+1freelivetvone.xyz
+livesport24.pro
+rojadirectv.net
+rojadirectvhd.net
+https://pelota-libre.com.co/
+pelota-libre.com.co
+elitegoltv.fr
+elitegoltv.sx
+futboltvenvivo.net
+tutvlive.xyz
+elitegoltv.pro
+futbollibretv.es
+https://futbol-libre.mx/
+futbol-libre.mx
+rusticotv-hd.com
+rusticotv.top
+rusticotv.cc
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 46 (footer ~44) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+46/61
+megadeportes.su
+rustico-tv.net
+rusticotv.co
+https://pelotalibre.app/ pelotalibre.app
+https://tvlibre.com.co/ 
+tvlibre.com.co
+futbolparatodoshd.com
+https://futbollibretv.com.co/
+futbollibretv.com.co
+tarjetarojavivo.com
+futbollibrenvivo.com
+https://rojadirectahd.com.co/ rojadirectahd.com.co
+https://directarojatv.com/ directarojatv.com
+https://tarjetarojas.com/ tarjetarojas.com
+https://tarjetarojaonline.net/
+tarjetarojaonline.net
+rojadirectaenvivo.sx
+sportsbay.dk
+sportsbay.uk
+tarjetarojatvenvivo.com
+sportsbay.pro
+rojadirectatvhd.net
+zonadeporteshd.pl
+tvcstreams.pl
+rdtvonline.com
+tarjetarojatvblog.net
+rojadirectatvenlinea.com
+tarjetarojatvenvivo.pro
+tarjetarojatv.pl
+rojadirectaenlinea.com
+rojatvonline.com
+futbollibres.pl
+tarjetarojatvonline.fr
+rdtvonline.net
+livesport24.me
+sportsbay.fr
+rojadirectvonline.me
+engstreams.shop
+https://tarjetarojahd.com.co/ tarjetarojahd.com.co
+https://tarjetarojatv.com.co/
+tarjetarojatv.com.co
+generaltvapk.com
+www-futbollibre.com
+www-magistv.com
+vidmateapp.me
+magis-app.com
+magistvapk.org
+https://rrojadirecta.com/ rrojadirecta.com
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 47 (footer ~45) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+47/61
+futbollibrex.com
+futbolibretv.pe
+libretvfutbol.com
+futbollibrex.net
+https://rojadirecta.com.im/ rojadirecta.com.im
+https://tarjeta-roja.my/ tarjeta-roja.my
+https://rojadirectatv.com.im/ rojadirectatv.com.im
+https://rojadirecta.wtf/ rojadirecta.wtf
+https://pirlotvv.su/ 
+pirlotvv.su
+futbollibretvv.su
+https://pirlotvs.com/ pirlotvs.com
+https://rojadirecto.cc/
+rojadirecto.cc
+rojadirectatvhd.at
+pirlotvhd.blog
+tarjetaroja.at
+rojadirectatv.com.pl
+rojadirecta.ph
+rojdirecta.com
+rojadirectatvhd.cc
+rojdirecta.cam
+rojadirectatvhd.sale
+rojadirectv.com
+rojatvdirecta.pl
+pirlotvenhd.de
+https://privesport.com/ privesport.com
+https://rojadirecta.re/ 
+rojadirecta.re
+futbollibre.men
+https://pirlotv2.org/ pirlotv2.org
+https://pirlotvhd.com.co/ 
+pirlotvhd.com.co
+pirlotv.se
+https://pelotalibretv.com.co/ pelotalibretv.com.co
+https://pelotalibre.club/ pelotalibre.club
+https://pelotalibre.com.es/ pelotalibre.com.es
+https://pelotalibretv.my/ pelotalibretv.my
+Cabe señalar que dicha medida se justifica toda vez que el administrador de un sitio
+web puede eludir los efectos de una medida de bloqueo de nombre de dominio ordenada
+por la autoridad administrativa, al deshabilitar el acceso por redirección que pueda
+realizarse a través de sitios web asociados, con la finalidad de que cada uno de estos
+sitios constituya una vía de entrada independiente a los contenidos que se encontraban
+disponibles en el sitio que fue materia de la medida de bloqueo original, generando de
+este modo que las medidas de bloqueo que puedan ser ordenadas devengan en
+ineficaces.
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 48 (footer ~46) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+48/61
+En ese sentido, atendiendo al principio de razonabilidad establecido en el artículo IV
+numeral 1,4 del Texto Único Ordenado de la Ley Nº 27444
+4
+, teniendo en consideración
+que las empresas señaladas en el Cuadro N° 01 de la presente resolución se encuentran
+en la mejor situación a fin de evitar que el daño a los titulares de derechos se convierta
+en irreparable, toda vez que al encontrarse facultada a bloquear los nombres de dominio
+señalados en el Cuadro N° 02 de la presente resolución, impedirán con dicha acción
+que los administradores de los sitios web puedan seguir realizando, con efectos en
+territorio peruano, actos de explotación presuntamente no autorizados de obras,
+producciones y emisiones protegidas por la legislación sobre derecho de autor y
+derechos conexos y; asimismo, impedirá que sigan contribuyendo a que los usuarios de
+Internet en territorio peruano puedan realizar actos los referidos actos de explotación.
+En tal sentido, la Comisión de Derecho de Autor es de la opinión que la forma más
+efectiva, rápida y menos costosa de evitar los riesgos antes señalados, es ordenar la
+medida cautelar de cese mediante la cual se ordene a las empresas señaladas en el
+Cuadro N° 01 de la presente resolución a fin de que procedan a efectuar el bloqueo
+basado en DNS a efectos de impedir el acceso a los sitios web asociados a los nombres
+de dominio del cuadro adjunto, conforme al siguiente detalle:
+Cuadro N° 03
+Nombres de dominio
+futbollibregol.pe tiogol.com directarojatv.com
+futbollibreplay.pe xn--libreftbol-sdb.pe tarjetarojas.com
+pelotalibretv.su rojadirecta-tv.net tarjetarojaonline.net
+futbollibres1.pe futboltv.org rojadirectaenvivo.sx
+pelotalibreoficial.org futbollibretv.mx sportsbay.dk
+pelotalibre.asia roja-directa.pe sportsbay.uk
+pelotatv.pe rojadirecta-hd.com tarjetarojatvenvivo.com
+librefutbol.uk librepelota.com sportsbay.pro
+pelotalibreperu.com rojadirectamx.com rojadirectatvhd.net
+pelotalibrear.net pelotalibre1.pe zonadeporteshd.pl
+futbollibre-tv.org pelotalibre.es tvcstreams.pl
+futbollibreporinternet.com rojadirectahdtv.com rdtvonline.com
+futbollibreplus.com pelotalibrear.com tarjetarojatvblog.net
+futbollibrepe.com xn--libreftbol-sdb.com rojadirectatvenlinea.com
+futbolibre8k.com pelotalibretv.pe tarjetarojatvenvivo.pro
+4 
+Artículo IV. Principios del procedimiento administrativo
+1. El procedimiento administrativo se sustenta fundamentalmente en los siguientes principios, sin perjuicio de la
+vigencia de otros principios generales del Derecho Administrativo:
+(…)
+1.4. Principio de razonabilidad.- Las decisiones de la autoridad administrativa, cuando creen obligaciones, califiquen
+infracciones, impongan sanciones, o establezcan restricciones a los administrados, deben adaptarse dentro de
+los límites de la facultad atribuida y manteniendo la debida proporción entre los medios a emplear y los fines
+públicos que deba tutelar, a fin de que respondan a lo estrictamente necesario para la satisfacción de su
+cometido.
+(…).
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 49 (footer ~47) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+49/61
+la10tv.com futbollibreargentina.com tarjetarojatv.pl
+pelotatv.com pelotalibre-tv.com rojadirectaenlinea.com
+pelotalibre.world rojadirecta.org.pe rojatvonline.com
+librefutbolar.com xn--libreftbol-sdb.net futbollibres.pl
+librefutbol.info pelotalibre-hd.com tarjetarojatvonline.fr
+pelotalibre.uk futbollibrear.com rdtvonline.net
+librefutbol.world futbolibrepe.com livesport24.me
+rojadirectahd.store tiogolhd.com sportsbay.fr
+futboltv.pe futbollibreenvivo.pe rojadirectvonline.me
+futbollibrehoy.pe rojadirectahd.com engstreams.shop
+pelotalibre.com.pe pelotalibre.mx elitegoltv.fr
+pelotalibrehoy.pe pelotalibreonline.com elitegoltv.sx
+futbollibre.ch tvhdlibre.com futboltvenvivo.net
+libre.pe futbollibre.net.pe tutvlive.xyz
+pelotalibre-tv.pe pelotalibres1.pe elitegoltv.pro
+pelotalibre-hd.pe librepelotatv.com futbollibretv.es
+libre-pelota.com futbolparatodos.pl 1freelivetvone.xyz
+pelotalibre.plus futbolparatodos.pe livesport24.pro
+futbollibrehdtv.pe futbolparatodos.net.co rojadirectv.net
+pelotalibrestv.pe futbollibretv.cl rojadirectvhd.net
+pelotalibrefullhd.com pelotalibregol.pe tarjetarojahd.com.co
+futbollibre-tv.pe pelotalibrevivo.pe tarjetarojatv.com.co
+ftvhd.com rojadirecta.com.es generaltvapk.com
+futbollibreplus.pe librefútbol.com www-futbollibre.com
+futbollibre.nom.pe librefutboltv1.pe www-magistv.com
+pelotalibre.org.pe rojadirectahoy.com vidmateapp.me
+pelotalibreperu.pe pelotalibres.net magis-app.com
+futbollibretvonline.pe pelotalibres.pe magistvapk.org
+rojadirecta.net.pe pelotalibreoficial.pe rrojadirecta.com
+libre-pelota.pe librefutbol.pe futbollibrex.com
+pelotalibreenvivotv.com futbol-libre.su futbolibretv.pe
+rojadirectafullhd.com librefutbol.su libretvfutbol.com
+futbollibre.org.pe pelotalibrestv.org futbollibrex.net
+rojadirectaftv.com pelotalibre-hd.org rojadirecta.com.im
+rojadirectahdtv.pe futbollibrestv.net tarjeta-roja.my
+futbollibreenvivotv.com futbollibreshd.pe rojadirectatv.com.im
+pltvhd.com fromtv.net rojadirecta.wtf
+futbollibre-hd.com pelotalibrestv.su pirlotvv.su
+footballlibre.pe pelota-libres.su futbollibretvv.su
+futbollibretvhd.pe pelotalibres-tv.su rojadirectahd.com.co
+pelotalibreoficial.com alangulotv.su pirlotvs.com
+futbollibremundial.com streamhdx.com rojadirecto.cc
+tvtvhd.com pelota-libres.net rojadirectatvhd.at
+fltvhd.com skylivefu.com pirlotvhd.blog
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 50 (footer ~48) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+50/61
+rojadirecta.nom.pe telelibre.pe tarjetaroja.at
+liga1maxenvivoperu.pe futbollibrestv.com rojadirectatv.com.pl
+rojadirectaenvivohd.com pelota-libres.com rojadirecta.ph
+rojadirecta-hd.pe futbollibre.co rojdirecta.com
+pelotalibrehdtv.com thefutbollibre.com rojadirectatvhd.cc
+futbollibres.net futbollibre.gg rojdirecta.cam
+futbolonlinehd.com pelota-libre.com.co rojadirectatvhd.sale
+futbollibrego.pe futbol-libre.mx rojadirectv.com
+futbollibreargentina.pe rusticotv-hd.com rojatvdirecta.pl
+futbollibrehdtv.com rusticotv.top pirlotvenhd.de
+futbollibrelibre.com rusticotv.cc privesport.com
+pelotalibrehd.net megadeportes.su rojadirecta.re
+pelotalibreonline.pe rustico-tv.net futbollibre.men
+libre-futbol.pe rusticotv.co pirlotv2.org
+rojadirectamundial.com pelotalibre.app pirlotvhd.com.co
+rojadirectaplay.com tvlibre.com.co pirlotv.se
+rojadirecta-tv.pe futbolparatodoshd.com pelotalibretv.com.co
+pelota-libre.pe futbollibretv.com.co pelotalibre.club
+futbollibre.stream tarjetarojavivo.com pelotalibre.com.es
+pelotalibrehd.com futbollibrenvivo.com pelotalibretv.my
+futbollibre1.pe - 
+-
+Por otra parte, la Comisión verifica la existencia de nombres de dominio sobre los cuales
+se ha ordenado la medida de bloqueo a nivel de DNS, los cuales cuentan con la
+terminación “.pe”.
+Al respecto se verifica que en el proceso de registro de nombres de dominio son
+relevantes las figuras del registro, registrador y registrante
+5
+.
+De este modo, se entiende por registro (del inglés registry) a la organización
+responsable de la administración de los nombres de dominio de nivel superior (o TLD,
+por sus siglas en inglés -top-level domain-). De acuerdo con el portal web GoDaddy
+estas organizaciones crean extensiones de nombres de dominio, establecen las reglas
+para ese nombre de dominio y trabajan con los registradores para vender nombres de
+dominio al público.
+De igual manera, el referido portal define al registrador como aquella organización
+acreditada que vende nombres de dominio al público. Algunos tienen la capacidad de
+5 
+Dommia Design Studio
+¿Qué es el registro? ¿Y el registrador? ¿Y el registrante? Consulta: 28 de mayo de 2026.
+https://www.dommia.com/es/faqs/que-es-el-registro-y-el-registrador-y-el-registrante
+GoDaddy Perú
+¿Cuál es la diferencia entre registro, registrador y registrante? Consulta: 28 de mayo de 2026.
+https://pe.godaddy.com/help/cual-es-la-diferencia-entre-registro-registrador-y-registrante-8039
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 51 (footer ~49) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+51/61
+vender nombres de dominio de nivel superior (TLD) -tales como .com, .net y .org-, o
+nombres de dominio de nivel superior de código de país (ccTLD) -tales como .us, .ca y
+.eu-. Asimismo, es la organización encargada de registrar un nombre de dominio ante
+un registry, en nombre del registrante.
+Finalmente, el registrante es toda aquella persona natural o jurídica que adquiere y
+registra un nombre de dominio, y al cual se le considera como propietario de este. Esta
+persona detenta los derechos para el uso de dicho dominio en su sitio web o dirección
+de correo electrónico y respecto del cual, a criterio de esta Comisión, es posible presumir
+que es el responsable de la administración del sitio web asociado al nombre de dominio
+registrado, salvo prueba en contrario.
+Cabe señalar, con relación a los registradores de dominios de nivel superior de código
+país, que en el Perú la entidad encargada del registro del nombre de dominio .pe es la
+RED CIENTÍFICA PERUANA, de conformidad con la información que obra en su sitio
+web
+6
+.
+De igual manera, se advierte que la referida entidad se encuentra habilitada para
+disponer la suspensión del registro de nombres de dominio que otorga, ello, entre otros,
+en virtud de lo dispuesto mediante resoluciones emitidas por autoridades
+administrativas, conforme lo señala a través del listado de causales de suspensión de
+nombres de dominio que obra en el apartado de normas y procedimientos que se
+encuentra disponible en su página web
+7
+.
+Es por tal motivo que la Comisión considera que en la presente evaluación sobre
+aplicación de medidas cautelares, se deberá igualmente ordenar a la RED CIENTÍFICA
+PERUANA, en calidad de responsable de la administración del registro del nombre de
+dominio .pe, que disponga la suspensión del registro de los siguientes nombres de
+dominio, toda vez que dicha acción podrá impedir que los administradores de los sitios
+web asociados a estos puedan seguir realizando actos que tengan efecto, entre otros,
+en territorio peruano, referidos a la retransmisión, vía streaming, de emisiones
+televisivas que, en algunos supuestos, contienen eventos deportivos, ello con motivo de
+los servicios ofrecidos a través de dichos sitios:
+Cuadro N° 04
+futbollibregol.pe futbollibretvonline.pe roja-directa.pe
+futbollibreplay.pe rojadirecta.net.pe pelotalibre1.pe
+futbollibres1.pe libre-pelota.pe pelotalibretv.pe
+pelotatv.pe futbollibre.org.pe rojadirecta.org.pe
+futboltv.pe rojadirectahdtv.pe futbollibreenvivo.pe
+futbollibrehoy.pe footballlibre.pe futbollibre.net.pe
+pelotalibre.com.pe futbollibretvhd.pe pelotalibres1.pe
+6 
+Ver: https://punto.pe/acerca.php. Fecha de consulta: 28 de mayo de 2026.
+7 
+Ver: https://punto.pe/rules_and_procedures.php#rrenovacion. Fecha de consulta: 28 de mayo de 2026.
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 52 (footer ~50) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+52/61
+pelotalibrehoy.pe rojadirecta.nom.pe futbolparatodos.pe
+libre.pe liga1maxenvivoperu.pe pelotalibregol.pe
+pelotalibre-tv.pe rojadirecta-hd.pe pelotalibrevivo.pe
+pelotalibre-hd.pe futbollibrego.pe librefutboltv1.pe
+futbollibrehdtv.pe futbollibreargentina.pe pelotalibres.pe
+pelotalibrestv.pe pelotalibreonline.pe pelotalibreoficial.pe
+futbollibre-tv.pe libre-futbol.pe librefutbol.pe
+futbollibreplus.pe rojadirecta-tv.pe futbollibreshd.pe
+futbollibre.nom.pe pelota-libre.pe telelibre.pe
+pelotalibre.org.pe futbollibre1.pe futbolibretv.pe
+pelotalibreperu.pe xn--libreftbol-sdb.pe -
+Sobre el particular, a efectos de procurar que un alto nivel de efectividad de las medidas
+de bloqueo ordenadas mediante la presente resolución en impedir el acceso no
+autorizado a contenidos deportivos y emisiones protegidas, la Comisión es de la opinión
+que la misma deberá ser ejecutada de manera diferida por las empresas señaladas
+en el Cuadro N° 01 de la presente resolución, así como por la RED CIENTÍFICA
+PERUANA –a quienes se les denominará en su conjunto como las obligadas-.
+En ese sentido, corresponde a las obligadas ejecutar el día miércoles 10 de junio de
+2026 las medidas ordenadas, correspondientes al bloqueo a nivel de DNS de los
+nombres de dominio señalados en el Cuadro N° 03 de la presente resolución, así como
+la suspensión del registro de los nombres de dominio señalados en el Cuadro N° 04 de
+la presente resolución.
+De igual manera, a efectos de que la autoridad administrativa pueda contar con medios
+idóneos que permitan fiscalizar el cumplimiento de la medida cautelar ordenada en la
+presente resolución, corresponde requerir a las obligadas a fin de que cumplan con
+informar a la Comisión de Derecho de Autor sobre la ejecución de las referidas medidas.
+Dicho requerimiento deberá ser cumplido en el plazo máximo e improrrogable de dos
+(02) días hábiles contados a partir del día hábil siguiente de la fecha de ejecución de las
+medidas, bajo apercibimiento de aplicarse la sanción prevista en el artículo 5º del
+Decreto Legislativo 807
+8
+.
+Sin perjuicio de lo señalado en los párrafos precedentes, la Comisión considera
+relevante señalar lo siguiente:
+8 
+Decreto Legislativo 807, Ley de Facultades Normas y Organización del Indecopi
+Artículo 5.- Quien a sabiendas proporcione a una Comisión, a una Oficina o a una Sala del Tribunal de Defensa
+de la Competencia y de la Propiedad Intelectual información falsa u oculte, destruya o altere cualquier libro,
+registro o documento que haya sido requerido por la Comisión, Oficina o Sala del Tribunal o sin justificación
+incumpla los requerimientos de información que se le haga o se niegue a comparecer o, mediante violencia o
+amenaza, impida o entorpezca el ejercicio de las funciones de la Comisión, Oficina o Sala del Tribunal, será
+sancionado por ésta con una multa no menor de una UIT ni mayor de cincuenta (50) UIT, sin perjuicio de la
+responsabilidad penal que corresponda. La multa se duplicará sucesivamente en caso de reincidencia”.
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 53 (footer ~51) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+53/61
+- Resulta necesario que la autoridad administrativa nacional responsable de
+cautelar y proteger el derecho de autor y los derechos conexos tome las medidas
+necesarias para evitar infracciones a la legislación sobre derecho de autor y
+derechos conexos con efectos en territorio nacional y que se puedan llevar a
+cabo de manera masiva en los entornos digitales.
+- Es imprescindible que se ordene la medida cautelar de la referencia a fin de que
+las empresas señaladas en párrafos anteriores, en su calidad de proveedoras
+del servicio de Internet y encargada del registro de nombres de dominio .pe,
+cumplan en calidad de obligadas dichas medidas y, por tanto, procedan al
+bloqueo basado en DNS respecto de los nombres de dominio señalados en el
+Cuadro N° 03 de la presente resolución, así como la suspensión del registro de
+los nombres de dominio señalados en el Cuadro N° 04 de la presente resolución,
+a fin de evitar un daño irreparable a los titulares de derechos respectivos.
+- La presente medida no debe ser entendida como una limitante a los avances
+tecnológicos que puedan darse, por ejemplo, en sector de las comunicaciones
+entre usuarios de Internet, siendo que dichos avances son necesarios e
+imprescindibles para el desarrollo de nuestra sociedad, ello sin perjuicio de que
+los mismos deban ir a la par con el respeto al derecho de autor y los derechos
+conexos
+- Finalmente, resulta necesario hacer énfasis en que la aplicación del presente
+tipo de medidas se encuentra justificada atendiendo a que los sitios web materia
+del procedimiento realizarían actividades de naturaleza intrínsecamente ilícita,
+permitiendo a sus usuarios, y a través de vías supuestamente gratuitas, el
+acceso a una cantidad indeterminada de obras, producciones y emisiones
+protegidas por la legislación sobre derecho de autor y derechos conexos que se
+encuentran en dominio privado y que cuentan con un valor en el mercado,
+ocasionando así un perjuicio constante en contra de una multiplicidad de autores
+y titulares de los referidos contenidos.
+En aplicación de lo dispuesto en el artículo 27º del Decreto Legislativo 807, en
+concordancia con el artículo 174º de la Ley y los artículos 35º, 38º y 42.2 literal c) del
+Decreto Legislativo 1033, corresponde que la Comisión de Derecho de Autor ordene la
+presente medida cautelar debido a que existen indicios de presuntas infracciones a la
+legislación en materia de derechos conexos, de acuerdo con lo señalado previamente.
+IV.4. Medidas cautelares dinámicas
+De manera accesoria a las medidas cautelares de bloqueo ordenadas mediante la
+presente resolución, la Comisión considera necesario analizar si la eficacia de dichas
+medidas debería extenderse a fin de contemplar las réplicas y reproducciones de los
+sitios web materia de bloqueo, así como contemplar cualquier forma de migrado que
+pueda facilitar el acceso a los sitios web asociados a los nombres de dominio señalados
+en el Cuadro N° 03 de la presente resolución.
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 54 (footer ~52) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+54/61
+Al respecto, la Comisión considera que dicho escenario permitiría otorgar una naturaleza
+dinámica a las medidas cautelares materia del presente procedimiento, permitiendo así
+que las órdenes de bloqueo ordenadas en la presente resolución se puedan ampliar a
+todas aquellas direcciones electrónicas que correspondan a réplicas de los sitios web
+asociados a los nombres de dominio materia de bloqueo, así como cualquier forma de
+migrado que pueda facilitar el acceso a tales sitios web, a las páginas web que la
+integran y/o a sus contenidos.
+Sobre el particular, se verifica que las medidas de bloqueo dinámicas o dynamic
+injunctions permiten a las autoridades administrativas o judiciales, requerir a los
+proveedores de servicios de Internet el bloqueo del nombre de dominio principal y/o de
+la dirección IP asociada a un sitio web presuntamente infractor a la legislación sobre
+derecho de autor y/o derechos conexos, así como de cualquier nombre de dominio o
+dirección IP al cual pueda migrar el sitio web con motivo de la orden de bloqueo emitida
+9
+.
+A mayor abundamiento, la Comisión Europea, en su comunicación de fecha 29 de
+noviembre de 2017 dirigida al Parlamento Europeo, al Consejo y al Comité Económico
+y Social Europeo, mediante la cual provee directrices sobre determinados aspectos de
+la Directiva 2004/48/CE del Parlamento Europeo y del Consejo, relativa al respeto de
+los derechos de Propiedad Intelectual, define a los mandamientos judiciales dinámicos
+como aquellos “que pueden dictarse, por ejemplo, en casos en que materialmente el
+mismo sitio web esté disponible inmediatamente después de emitirse el mandamiento
+con una dirección IP o URL diferente y redactarse de manera que también cubran la
+nueva dirección IP o URL sin la necesidad de un nuevo procedimiento judicial para
+obtener un nuevo mandamiento judicial.”
+En el presente procedimiento la autoridad administrativa ha verificado la existencia de
+elementos de convicción suficientes que permiten tener la verosimilitud de que, a través
+de los sitios web asociados a los nombres de dominio señalados en el Cuadro N° 03 de
+la presente resolución, se vendrían realizando actos de explotación presuntamente no
+autorizados de obras, producciones y emisiones protegidas por la legislación sobre
+derecho de autor y derechos conexos y/o se vendría contribuyendo a la realización de
+dichos actos de explotación, motivo por el cual ha dispuesto ordenar el bloqueo basado
+en DNS de los sitios web antes señalados.
+Sin perjuicio de lo anterior, la Comisión considera que, contra las disposiciones de
+bloqueo ordenadas en la presente resolución, los administradores de los sitios web
+materia de bloqueo podrían adoptar acciones a fin de eludir las referidas medidas, lo
+9 
+CORY, Nigel 2020 “Adaptive Antipiracy Tools: An Update on Dynamic and Live Blocking Injunctions”.
+En ITIF – Infornation Technology & Innovation Foundation. Consulta: 28 de mayo de 2026.
+https://itif.org/publications/2020/10/22/adaptive-antipiracy-tools-update-dynamic-and-live-blocking-injunctions
+OBHAN, Essenese y PILLAI Taarika 2020 “India: Dynamic Injunctions To Tackle Digital Piracy In India”.
+En Mondaq. Consulta: 28 de mayo de 2026.
+https://www.mondaq.com/india/copyright/1017874/dynamic-injunctions-to-tackle-digital-piracy-in-india
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 55 (footer ~53) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+55/61
+cual tendría como consecuencia que éstas devengan en ineficaces. Tales medidas
+podrían implicar, entre otros, la creación de nuevos nombres de dominio que permitan
+el acceso al contenido de los sitios web asociados a los nombres de dominio señalados
+en el Cuadro N° 03 de la presente resolución, generando de esta manera un nuevo
+medio de acceso al contenido de los referidos sitios web a través de los cuales se
+realizarían los actos de explotación presuntamente no autorizados que han sido
+analizados en la presente resolución y/o se contribuiría a su realización.
+Por dicho motivo, la Comisión considera necesario que la presente medida cautelar de
+bloqueo adopte una naturaleza dinámica, a efectos de que la misma comprenda el
+bloqueo basado en DNS respecto de los sitios web asociados a los nombres de dominio
+señalados en el Cuadro N° 03 de la presente resolución, así como de aquellos nombres
+de dominio asociados a sitios web a través de los cuales se pueda acceder al contenido
+de los sitios que han sido materia de bloqueo expresamente mediante la presente
+resolución.
+De igual manera, en virtud de la naturaleza dinámica de la medida ordenada, esta
+comprenderá la suspensión del registro de los nombres de dominio señalados en el
+Cuadro N° 04 de la presente resolución, así como de aquellos nombres de dominio
+asociados a sitios web a través de los cuales se pueda acceder al contenido de los sitios
+cuyo registro de dominio ha sido suspendido mediante la presente resolución.
+En tal sentido, corresponderá a la Comisión de Derecho de Autor y/o a la Secretaría
+Técnica de la Comisión de Derecho de Autor, la realización de actos de verificación de
+la existencia de nombres de dominio y URL a través de los cuales se pueda acceder al
+contenido de los sitios web señalados en el Cuadro N° 03 de la presente resolución, a
+efectos de que la autoridad administrativa pueda evaluar la ampliación del alcance de la
+presente medida cautelar y poner en conocimiento de dicha situación a las obligadas al
+cumplimiento de la misma.
+De igual manera, la Comisión considera pertinente poner la presente resolución en
+conocimiento de la LIGA NACIONAL DE FÚTBOL PROFESIONAL, así como las
+empresas 1190 PERÚ I LATAM S.A.C., DIRECTV PERÚ S.R.L. y COMPAÑÍA
+PERUANA DE RADIODIFUSIÓN S.A., en su calidad de titulares y licenciatarios de
+derechos representativos sobre los contenidos que suelen explotarse sin autorización a
+través de los sitios web materia de bloqueo, a fin de que puedan, de considerarlo
+pertinente, informar a la autoridad administrativa acerca de la existencia de los
+escenarios señalados en el párrafo anterior, los cuales permitan la eventual aplicación
+de la naturaleza dinámica de la medida cautelar ordenada.
+V. RESPECTO A LA PRESENTACIÓN DE LOS ESCRITOS VIRTUALES
+Corresponde informar a las partes que podrán presentar escritos dirigidos a la Comisión
+de Derecho de Autor por medio de la mesa de partes virtual del Indecopi
+(https://enlinea.indecopi.gob.pe/MDPVirtual2).
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 56 (footer ~54) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+56/61
+VI. RESOLUCIÓN DE LA COMISIÓN DE DERECHO DE AUTOR
+Primero: ORDENAR a las empresas TELEFÓNICA DEL PERÚ S.A.A; AMÉRICA
+MÓVIL PERÚ S.A.C.; ENTEL PERÚ S.A.; VIETTEL PERÚ S.A.C.; WI-NET TELECOM
+S.A.C.; WOW TEL S.A.C.; GTD PERÚ S.A.; FIBERLINE PERÚ S.A.C. y
+AMERICATEL PERÚ S.A.; la MEDIDA CAUTELAR DE CESE mediante el bloqueo a
+nivel de nombre de dominio (DNS) conforme al siguiente cuadro:
+Cuadro N° 03
+Nombres de dominio
+futbollibregol.pe tiogol.com directarojatv.com
+futbollibreplay.pe xn--libreftbol-sdb.pe tarjetarojas.com
+pelotalibretv.su rojadirecta-tv.net tarjetarojaonline.net
+futbollibres1.pe futboltv.org rojadirectaenvivo.sx
+pelotalibreoficial.org futbollibretv.mx sportsbay.dk
+pelotalibre.asia roja-directa.pe sportsbay.uk
+pelotatv.pe rojadirecta-hd.com tarjetarojatvenvivo.com
+librefutbol.uk librepelota.com sportsbay.pro
+pelotalibreperu.com rojadirectamx.com rojadirectatvhd.net
+pelotalibrear.net pelotalibre1.pe zonadeporteshd.pl
+futbollibre-tv.org pelotalibre.es tvcstreams.pl
+futbollibreporinternet.com rojadirectahdtv.com rdtvonline.com
+futbollibreplus.com pelotalibrear.com tarjetarojatvblog.net
+futbollibrepe.com xn--libreftbol-sdb.com rojadirectatvenlinea.com
+futbolibre8k.com pelotalibretv.pe tarjetarojatvenvivo.pro
+la10tv.com futbollibreargentina.com tarjetarojatv.pl
+pelotatv.com pelotalibre-tv.com rojadirectaenlinea.com
+pelotalibre.world rojadirecta.org.pe rojatvonline.com
+librefutbolar.com xn--libreftbol-sdb.net futbollibres.pl
+librefutbol.info pelotalibre-hd.com tarjetarojatvonline.fr
+pelotalibre.uk futbollibrear.com rdtvonline.net
+librefutbol.world futbolibrepe.com livesport24.me
+rojadirectahd.store tiogolhd.com sportsbay.fr
+futboltv.pe futbollibreenvivo.pe rojadirectvonline.me
+futbollibrehoy.pe rojadirectahd.com engstreams.shop
+pelotalibre.com.pe pelotalibre.mx elitegoltv.fr
+pelotalibrehoy.pe pelotalibreonline.com elitegoltv.sx
+futbollibre.ch tvhdlibre.com futboltvenvivo.net
+libre.pe futbollibre.net.pe tutvlive.xyz
+pelotalibre-tv.pe pelotalibres1.pe elitegoltv.pro
+pelotalibre-hd.pe librepelotatv.com futbollibretv.es
+libre-pelota.com futbolparatodos.pl 1freelivetvone.xyz
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 57 (footer ~55) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+57/61
+pelotalibre.plus futbolparatodos.pe livesport24.pro
+futbollibrehdtv.pe futbolparatodos.net.co rojadirectv.net
+pelotalibrestv.pe futbollibretv.cl rojadirectvhd.net
+pelotalibrefullhd.com pelotalibregol.pe tarjetarojahd.com.co
+futbollibre-tv.pe pelotalibrevivo.pe tarjetarojatv.com.co
+ftvhd.com rojadirecta.com.es generaltvapk.com
+futbollibreplus.pe librefútbol.com www-futbollibre.com
+futbollibre.nom.pe librefutboltv1.pe www-magistv.com
+pelotalibre.org.pe rojadirectahoy.com vidmateapp.me
+pelotalibreperu.pe pelotalibres.net magis-app.com
+futbollibretvonline.pe pelotalibres.pe magistvapk.org
+rojadirecta.net.pe pelotalibreoficial.pe rrojadirecta.com
+libre-pelota.pe librefutbol.pe futbollibrex.com
+pelotalibreenvivotv.com futbol-libre.su futbolibretv.pe
+rojadirectafullhd.com librefutbol.su libretvfutbol.com
+futbollibre.org.pe pelotalibrestv.org futbollibrex.net
+rojadirectaftv.com pelotalibre-hd.org rojadirecta.com.im
+rojadirectahdtv.pe futbollibrestv.net tarjeta-roja.my
+futbollibreenvivotv.com futbollibreshd.pe rojadirectatv.com.im
+pltvhd.com fromtv.net rojadirecta.wtf
+futbollibre-hd.com pelotalibrestv.su pirlotvv.su
+footballlibre.pe pelota-libres.su futbollibretvv.su
+futbollibretvhd.pe pelotalibres-tv.su rojadirectahd.com.co
+pelotalibreoficial.com alangulotv.su pirlotvs.com
+futbollibremundial.com streamhdx.com rojadirecto.cc
+tvtvhd.com pelota-libres.net rojadirectatvhd.at
+fltvhd.com skylivefu.com pirlotvhd.blog
+rojadirecta.nom.pe telelibre.pe tarjetaroja.at
+liga1maxenvivoperu.pe futbollibrestv.com rojadirectatv.com.pl
+rojadirectaenvivohd.com pelota-libres.com rojadirecta.ph
+rojadirecta-hd.pe futbollibre.co rojdirecta.com
+pelotalibrehdtv.com thefutbollibre.com rojadirectatvhd.cc
+futbollibres.net futbollibre.gg rojdirecta.cam
+futbolonlinehd.com pelota-libre.com.co rojadirectatvhd.sale
+futbollibrego.pe futbol-libre.mx rojadirectv.com
+futbollibreargentina.pe rusticotv-hd.com rojatvdirecta.pl
+futbollibrehdtv.com rusticotv.top pirlotvenhd.de
+futbollibrelibre.com rusticotv.cc privesport.com
+pelotalibrehd.net megadeportes.su rojadirecta.re
+pelotalibreonline.pe rustico-tv.net futbollibre.men
+libre-futbol.pe rusticotv.co pirlotv2.org
+rojadirectamundial.com pelotalibre.app pirlotvhd.com.co
+rojadirectaplay.com tvlibre.com.co pirlotv.se
+rojadirecta-tv.pe futbolparatodoshd.com pelotalibretv.com.co
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 58 (footer ~56) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+58/61
+pelota-libre.pe futbollibretv.com.co pelotalibre.club
+futbollibre.stream tarjetarojavivo.com pelotalibre.com.es
+pelotalibrehd.com futbollibrenvivo.com pelotalibretv.my
+futbollibre1.pe - 
+-
+Por tal motivo, dicha medida deberá ser ejecutada de manera diferida por las
+empresas señaladas anteriormente, de acuerdo con lo señalado en la parte
+considerativa de la presente resolución.
+En ese sentido, corresponde a las empresas TELEFÓNICA DEL PERÚ S.A.A;
+AMÉRICA MÓVIL PERÚ S.A.C.; ENTEL PERÚ S.A.; VIETTEL PERÚ S.A.C.; WI-NET
+TELECOM S.A.C.; WOW TEL S.A.C.; GTD PERÚ S.A.; FIBERLINE PERÚ S.A.C. y
+AMERICATEL PERÚ S.A. ejecutar el día miércoles 10 de junio de 2026 la medida
+ordenada, correspondiente al bloqueo a nivel de DNS de los nombres de dominio
+señalados en el Cuadro N° 03 de la presente resolución.
+Corresponde señalar, a su vez, que, en virtud de lo establecido en los artículos 188° y
+191° de la Ley, en concordancia con el artículo 28 del Decreto Legislativo 807, la
+Comisión de Derecho de Autor del Indecopi se encuentra facultada para imponer al
+obligado a cumplir con una medida cautelar una sanción de hasta 180 Unidades
+Impositivas Tributarias, en caso de incumplimiento.
+Finalmente, es necesario tener en cuenta que la presente medida comprende el bloqueo
+basado en DNS respecto de los nombres de dominio señalados en el presente artículo,
+así como de aquellos nombres de dominio a través de los cuales se pueda acceder al
+contenido de los dominios materia de bloqueo. Para tales efectos, corresponderá a la
+Comisión de Derecho de Autor y/o a la Secretaría Técnica de la Comisión de Derecho
+de Autor, la realización de actos de verificación de la existencia de nombres de dominio
+y URL a través de los cuales se pueda acceder al contenido de los sitios web señalados
+en el presente artículo, a efectos de que la autoridad administrativa pueda evaluar la
+ampliación del alcance de la presente medida cautelar y poner en conocimiento de dicha
+situación a las empresas TELEFÓNICA DEL PERÚ S.A.A; AMÉRICA MÓVIL PERÚ
+S.A.C.; ENTEL PERÚ S.A.; VIETTEL PERÚ S.A.C.; WI-NET TELECOM S.A.C.; WOW
+TEL S.A.C.; GTD PERÚ S.A.; FIBERLINE PERÚ S.A.C. y AMERICATEL PERÚ S.A.,
+en su calidad de obligadas al cumplimiento de la misma.
+Segundo: REQUERIR a las empresas TELEFÓNICA DEL PERÚ S.A.A; AMÉRICA
+MÓVIL PERÚ S.A.C.; ENTEL PERÚ S.A.; VIETTEL PERÚ S.A.C.; WI-NET TELECOM
+S.A.C.; WOW TEL S.A.C.; GTD PERÚ S.A.; FIBERLINE PERÚ S.A.C. y
+AMERICATEL PERÚ S.A.; a fin de que cumplan con informar a la Comisión de Derecho
+de Autor sobre ejecución de la medida cautelar de bloqueo ordenada en la presente
+resolución. Dicho requerimiento deberá ser cumplido en el plazo máximo e
+improrrogable de dos (02) días hábiles contados a partir del día hábil siguiente de la
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 59 (footer ~57) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+59/61
+fecha de ejecución de las medidas, bajo apercibimiento de aplicarse la sanción prevista
+en el artículo 5º del Decreto Legislativo 807
+10
+.
+Tercero: ORDENAR a la RED CIENTÍFICA PERUANA la MEDIDA CAUTELAR DE
+CESE, en virtud de lo cual deberá ejecutar la suspensión del registro de los siguientes
+nombres de dominio, de acuerdo con lo señalado en la parte considerativa de la
+presente resolución:
+Cuadro N° 04
+futbollibregol.pe futbollibretvonline.pe roja-directa.pe
+futbollibreplay.pe rojadirecta.net.pe pelotalibre1.pe
+futbollibres1.pe libre-pelota.pe pelotalibretv.pe
+pelotatv.pe futbollibre.org.pe rojadirecta.org.pe
+futboltv.pe rojadirectahdtv.pe futbollibreenvivo.pe
+futbollibrehoy.pe footballlibre.pe futbollibre.net.pe
+pelotalibre.com.pe futbollibretvhd.pe pelotalibres1.pe
+pelotalibrehoy.pe rojadirecta.nom.pe futbolparatodos.pe
+libre.pe liga1maxenvivoperu.pe pelotalibregol.pe
+pelotalibre-tv.pe rojadirecta-hd.pe pelotalibrevivo.pe
+pelotalibre-hd.pe futbollibrego.pe librefutboltv1.pe
+futbollibrehdtv.pe futbollibreargentina.pe pelotalibres.pe
+pelotalibrestv.pe pelotalibreonline.pe pelotalibreoficial.pe
+futbollibre-tv.pe libre-futbol.pe librefutbol.pe
+futbollibreplus.pe rojadirecta-tv.pe futbollibreshd.pe
+futbollibre.nom.pe pelota-libre.pe telelibre.pe
+pelotalibre.org.pe futbollibre1.pe futbolibretv.pe
+pelotalibreperu.pe xn--libreftbol-sdb.pe -
+Dicha medida deberá ser ejecutada de manera diferida por la obligada señalada
+anteriormente, de acuerdo con lo señalado en la parte considerativa de la presente
+resolución.
+En ese sentido, corresponde a la RED CIENTÍFICA PERUANA ejecutar el día
+miércoles 10 de junio de 2026 la medida ordenada, correspondiente a la suspensión
+del registro de los nombres de dominio señalados en el Cuadro N° 04 de la presente
+resolución.
+10 
+Decreto Legislativo 807, Ley de Facultades Normas y Organización del Indecopi
+Artículo 5.- Quien a sabiendas proporcione a una Comisión, a una Oficina o a una Sala del Tribunal de Defensa
+de la Competencia y de la Propiedad Intelectual información falsa u oculte, destruya o altere cualquier libro,
+registro o documento que haya sido requerido por la Comisión, Oficina o Sala del Tribunal o sin justificación
+incumpla los requerimientos de información que se le haga o se niegue a comparecer o, mediante violencia o
+amenaza, impida o entorpezca el ejercicio de las funciones de la Comisión, Oficina o Sala del Tribunal, será
+sancionado por ésta con una multa no menor de una UIT ni mayor de cincuenta (50) UIT, sin perjuicio de la
+responsabilidad penal que corresponda. La multa se duplicará sucesivamente en caso de reincidencia”.
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 60 (footer ~58) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+60/61
+Corresponde señalar, a su vez, que, en virtud de lo establecido en los artículos 188° y
+191° de la Ley, en concordancia con el artículo 28 del Decreto Legislativo 807, la
+Comisión de Derecho de Autor del Indecopi se encuentra facultada para imponer al
+obligado a cumplir con una medida cautelar una sanción de hasta 180 Unidades
+Impositivas Tributarias, en caso de incumplimiento.
+Finalmente, es necesario tener en cuenta que la presente medida comprende la
+suspensión del registro de los nombres de dominio señalados en el presente artículo,
+así como de aquellos nombres de dominio a través de los cuales se pueda acceder al
+contenido de los dominios materia de bloqueo. Para tales efectos, corresponderá a la
+Comisión de Derecho de Autor y/o a la Secretaría Técnica de la Comisión de Derecho
+de Autor, la realización de actos de verificación de la existencia de nombres de dominio
+y URL a través de los cuales se pueda acceder al contenido de los sitios web y/o
+dominios señalados en el presente artículo, a efectos de que la autoridad administrativa
+pueda evaluar la ampliación del alcance de la presente medida cautelar y poner en
+conocimiento de dicha situación a la RED CIENTÍFICA PERUANA, en su calidad de
+obligada al cumplimiento de la misma.
+Cuarto: REQUERIR a la RED CIENTÍFICA PERUANA a fin de que cumpla con informar
+a la Comisión de Derecho de Autor sobre ejecución de la medida cautelar de cese
+referida a la suspensión del registro de nombres de dominio ordenada en la presente
+resolución. Dicho requerimiento deberá ser cumplido en el plazo máximo e
+improrrogable de dos (02) días hábiles contados a partir del día hábil siguiente de la
+fecha de ejecución de la medida, bajo apercibimiento de aplicarse la sanción prevista
+en el artículo 5º del Decreto Legislativo 807
+11
+.
+Quinto: PONER EN CONOCIMIENTO de la LIGA NACIONAL DE FÚTBOL
+PROFESIONAL, así como las empresas 1190 PERÚ I LATAM S.A.C., DIRECTV PERÚ
+S.R.L. y COMPAÑÍA PERUANA DE RADIODIFUSIÓN S.A., la presente resolución, a
+fin de que puedan, de considerarlo pertinente, informar a la autoridad administrativa
+acerca de la existencia de nuevos nombres de dominio a través de los cuales se pueda
+acceder a sitios web cuyo contenido resulte idéntico al de los sitios web sobre los cuales
+recaen las medidas ordenadas mediante la presente resolución, a efectos de que la
+autoridad administrativa pueda evaluar la ampliación del alcance de la presente medida
+cautelar.
+Sexto: INFORMAR a las partes del presente procedimiento que podrán presentar
+escritos dirigidos a la Comisión de Derecho de Autor por medio de la mesa de partes
+11 
+Decreto Legislativo 807, Ley de Facultades Normas y Organización del Indecopi
+Artículo 5.- Quien a sabiendas proporcione a una Comisión, a una Oficina o a una Sala del Tribunal de Defensa
+de la Competencia y de la Propiedad Intelectual información falsa u oculte, destruya o altere cualquier libro,
+registro o documento que haya sido requerido por la Comisión, Oficina o Sala del Tribunal o sin justificación
+incumpla los requerimientos de información que se le haga o se niegue a comparecer o, mediante violencia o
+amenaza, impida o entorpezca el ejercicio de las funciones de la Comisión, Oficina o Sala del Tribunal, será
+sancionado por ésta con una multa no menor de una UIT ni mayor de cincuenta (50) UIT, sin perjuicio de la
+responsabilidad penal que corresponda. La multa se duplicará sucesivamente en caso de reincidencia”.
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml
+
+===== PÁGINA 61 (footer ~59) =====
+DIRECCIÓN DE DERECHO DE AUTOR
+Comisión de Derecho de Autor
+RESOLUCIÓN Nº 0333-2026/CDA-INDECOPI
+EXPEDIENTE Nº 002798-2026/DDA
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú / Telf: 224 7800
+e-mail: consultas@indecopi.gob.pe / Web: www.indecopi.gob.pe
+61/61
+virtual del Indecopi sin tener la obligación de presentar posteriormente la documentación
+física; conforme lo señalado en la parte considerativa de la presente resolución.
+Con la intervención de los señores Comisionados: Fausto Vienrich Enriquez,
+Ricardo Julio Salazar Chávez, Willy Hernando Venero Espinoza y Sandra Yessica
+Ramos Flores.
+FAUSTO VIENRICH ENRIQUEZ
+Presidente de la Comisión de Derecho de Autor
+/jfa
+Documento electrónico firmado digitalmente en el marco de la Ley N°27269, Ley de Firmas y Certificados Digitales, su reglamento y modificatorias.La integridad del documento y la autoría de la(s) firma(s) pueden ser verificadas en: https://apps.firmaperu.gob.pe/web/validador.xhtml

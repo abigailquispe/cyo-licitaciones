@@ -1,0 +1,90 @@
+% Plantilla del informe de Consultas y Observaciones (rellenada por generar_tex.mjs)
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage[landscape,a4paper,margin=1.5cm]{geometry}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+\definecolor{encab}{RGB}{31,73,125}
+\definecolor{filagris}{RGB}{238,242,248}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{J}[1]{>{\justifying\arraybackslash}p{#1}}
+\setlength{\extrarowheight}{2pt}
+\renewcommand{\arraystretch}{1.15}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\footnotesize Consultas y Observaciones — %%NOMENCLATURA%%}
+\rhead{\footnotesize %%ENTIDAD%%}
+\cfoot{\footnotesize Página \thepage\ de \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\newcommand{\thd}[1]{\textcolor{white}{\bfseries #1}}
+
+\begin{document}
+
+\begin{center}
+  {\Large\bfseries CONSULTAS Y OBSERVACIONES A LAS BASES}\\[2pt]
+  {\large (Capítulo III — Términos de Referencia y Requisitos de Calificación; y Capítulo IV — Factores de Evaluación)}\\[10pt]
+\end{center}
+
+\noindent\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{|>{\bfseries}p{6.0cm}|p{18.5cm}|}
+\hline
+\rowcolor{filagris}\multicolumn{2}{|l|}{\bfseries Formato para Formular Consultas y Observaciones}\\\hline
+Nomenclatura del procedimiento de selección & %%NOMENCLATURA%% \\\hline
+Objeto de la contratación & %%OBJETO%% \\\hline
+Entidad contratante & %%ENTIDAD%% \\\hline
+Participante & %%PARTICIPANTE%% \\\hline
+Marco normativo aplicable & Ley N.\textsuperscript{o} 32069, Ley General de Contrataciones Públicas, y su Reglamento aprobado por D.S. N.\textsuperscript{o} 009-2025-EF \\\hline
+\end{tabular}
+
+\vspace{6pt}
+\noindent\footnotesize\textit{Nota: las citas entre comillas («\ldots») son textuales de las Bases (Cap. III y IV). La referencia de página corresponde a la paginación de las Bases.}
+\normalsize
+
+\section*{1. CONSULTAS}
+\renewcommand{\arraystretch}{1.2}
+\begin{longtable}{|C{0.6cm}|C{2.0cm}|C{2.6cm}|C{1.0cm}|J{14.0cm}|J{4.0cm}|}
+\hline\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Consulta (debidamente motivada)} & \thd{Norma / referencia} \\
+\hline\endfirsthead
+\hline\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Consulta (debidamente motivada)} & \thd{Norma / referencia} \\
+\hline\endhead
+\hline\multicolumn{6}{r}{\footnotesize\textit{continúa en la página siguiente\ldots}}\\\endfoot
+\hline\endlastfoot
+%%CONSULTAS%%
+\multicolumn{6}{|r|}{\textbf{Total de consultas: %%N_CONSULTAS%%}}\\
+\hline
+\end{longtable}
+
+\section*{2. OBSERVACIONES}
+\renewcommand{\arraystretch}{1.2}
+\begin{longtable}{|C{0.6cm}|C{2.0cm}|C{2.6cm}|C{1.0cm}|J{14.0cm}|J{4.0cm}|}
+\hline\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Observación (debidamente motivada)} & \thd{Artículo y norma que se vulnera} \\
+\hline\endfirsthead
+\hline\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Observación (debidamente motivada)} & \thd{Artículo y norma que se vulnera} \\
+\hline\endhead
+\hline\multicolumn{6}{r}{\footnotesize\textit{continúa en la página siguiente\ldots}}\\\endfoot
+\hline\endlastfoot
+%%OBSERVACIONES%%
+\multicolumn{6}{|r|}{\textbf{Total de observaciones: %%N_OBS%%}}\\
+\hline
+\multicolumn{6}{|r|}{\textbf{Total de consultas y/u observaciones: %%TOTAL%%}}\\
+\hline
+\end{longtable}
+
+\end{document}

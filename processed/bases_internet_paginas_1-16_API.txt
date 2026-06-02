@@ -1,0 +1,393 @@
+===== OCR de input/BASES+INTERNET_20260515_183318_145.pdf (páginas 1-16) — modelo claude-sonnet-4-6 =====
+
+
+----- PÁGINAS PDF 1-10 -----
+A continuación se transcribe fielmente el texto de las páginas del documento:
+
+---
+
+**[Página 1 — Carátula]**
+
+[Logo: Escudo del Perú y texto "PERÚ | Ministerio de Economía y Finanzas"]
+
+DIRECCIÓN GENERAL DE ABASTECIMIENTO
+
+**BASES ESTÁNDAR
+CONCURSO PÚBLICO DE SERVICIOS**
+
+[Firmas manuscritas al margen izquierdo]
+
+---
+
+**[Página 2 — Simbología e instrucciones]**
+
+**SIMBOLOGÍA UTILIZADA:**
+
+Nº - Símbolo - Descripción
+
+1 - [ABC] - Es una indicación que debe ser completada o eliminada por la entidad contratante durante la elaboración de las bases conforme a las instrucciones brindadas.
+
+2 - [ABC] (subrayado) - Es una indicación o información que debe ser completada por la entidad contratante con posterioridad al otorgamiento de la buena pro para el caso específico de la elaboración de la PROFORMA DEL CONTRATO; o por los proveedores, al completar los ANEXOS de la oferta.
+
+3 - Advertencia • Abc - Se refiere a advertencias a tener en cuenta por los evaluadores y los proveedores. No deben ser eliminadas una vez culminada la elaboración de las bases.
+
+4 - Importante para la entidad contratante • Xyz - Se refiere a consideraciones importantes a tener en cuenta por los evaluadores y deben ser eliminadas una vez culminada la elaboración de las bases.
+
+**INSTRUCCIÓN DE USO:**
+
+Una vez registrada la información solicitada dentro de los corchetes, el texto debe quedar en letra Arial tamaño 10, con estilo normal, sin formato de negrita y sin sombrear.
+
+**CARACTERÍSTICAS DE LAS BASES A ELABORAR:**
+
+Las bases deben ser elaboradas en formato WORD y deben tener las características del presente documento. De existir algún cambio en el formato como márgenes, fuente, tamaño de letra, entre otros, no acarrea su nulidad, salvo que por el tipo o tamaño de letra impida la lectura por parte de los proveedores.
+
+---
+
+**[Página 3 — Carátula del concurso]**
+
+DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP
+
+**CONCURSO PÚBLICO DE SERVICIOS Nº
+001-2026-DP-1**
+
+**CONTRATACIÓN DEL SERVICIO DE ACCESO DEDICADO A
+INTERNET**
+
+[Firmas manuscritas al margen izquierdo]
+
+[Texto lateral rotado: CONCURSO PÚBLICO DE SERVICIOS]
+
+---
+
+**[Página 4 — Sección General]**
+
+DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP
+
+**SECCIÓN GENERAL**
+
+**DISPOSICIONES COMUNES DEL CONCURSO PÚBLICO
+DE SERVICIOS**
+
+(ESTA SECCIÓN NO DEBE SER MODIFICADA EN NINGÚN EXTREMO, BAJO SANCIÓN DE NULIDAD)
+
+[Firmas manuscritas al margen izquierdo]
+
+[Texto lateral rotado: CONCURSO PÚBLICO DE SERVICIOS]
+
+---
+
+**[Página 5 — Capítulo I]**
+
+DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP
+
+**CAPÍTULO I
+ASPECTOS GENERALES**
+
+**1.1. REFERENCIAS**
+
+Cuando en el presente documento se mencione la palabra "Ley", se entiende que se está haciendo referencia a la Ley N° 32069, Ley General de Contrataciones Públicas, y cuando se mencione la palabra "Reglamento", se entiende que se está haciendo referencia al Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF. Las referidas normas incluyen sus respectivas modificaciones, de ser el caso.
+
+**1.2. ALCANCE**
+
+La presente base estándar es utilizada por la entidad contratante para la contratación de servicios en general, así como del ASISTE, según la cuantía establecida en la Ley de Presupuesto del Sector Público para el Año Fiscal correspondiente.
+
+[Firmas manuscritas al margen izquierdo]
+
+[Texto lateral rotado: CONCURSO PÚBLICO DE SERVICIOS]
+
+---
+
+**[Página 6 — Capítulo II]**
+
+DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP
+
+**CAPÍTULO II
+DESARROLLO DEL PROCEDIMIENTO DE SELECCIÓN**
+
+**2.1 ETAPAS DEL CONCURSO PÚBLICO DE SERVICIOS**
+
+Las etapas del presente procedimiento de selección son las siguientes¹:
+
+ETAPA - CARACTERÍSTICAS - BASE LEGAL
+
+a) Convocatoria - Se realiza a través del SEACE de la Pladicop en la fecha señalada en el cronograma. - Artículos 63 y 64 del Reglamento.
+
+b) Registro de participantes - Aplica lista abierta, por lo que cualquier proveedor puede registrarse como participante en el procedimiento de selección. - Artículos 65 y 94 del Reglamento.
+
+c) Cuestionamientos a las bases (consultas, observaciones e integración) -
+1. La presentación de consultas y/u observaciones se realiza en un plazo no menor a siete días hábiles contabilizados desde el día siguiente de la convocatoria.
+
+2. La absolución de los referidos cuestionamientos y la publicación de las bases integradas se realiza en la fecha prevista en el cronograma del procedimiento de selección.
+
+3. El pliego de absolución de consultas y observaciones, así como las bases integradas pueden ser cuestionadas por los participantes, para su elevación ante el OECE, dentro de los tres días hábiles siguientes de publicado el pliego de absolución de consultas y observaciones e integración de bases. La entidad contratante realiza la elevación de conformidad con la directiva del OECE.
+
+4. La entidad contratante solo puede omitir la elevación al OECE del pliego de absolución de consultas y observaciones y las bases integradas en caso haya utilizado la herramienta de difusión del requerimiento en la interacción con el mercado. - Artículos 51, 62, 66, 67 y 94 del Reglamento.
+
+d) Evaluación de ofertas técnicas y económicas -
+1. La presentación de ofertas se realiza a través del SEACE de la Pladicop desde las 00:01 hasta las 23:59 horas (hora peruana) de la fecha prevista en el cronograma del procedimiento de selección. Dicha fecha no puede ser fijada en menos de siete días hábiles desde la publicación de la integración de bases o el pronunciamiento con la integración definitiva de bases por parte del OECE.
+
+2. La presentación de ofertas se realiza adjuntando el archivo digitalizado que contenga - Artículos 68, 70, 71, 72, 73, 74, 75, 78 y 132 del Reglamento.
+
+---
+
+¹ De conformidad con el numeral 27.1 del artículo 27 de la Ley, la facultad para actuar discrecionalmente se fundamenta en el rigor técnico empleado por los funcionarios y servidores, dependencias y unidades de organización encargadas de las contrataciones públicas para optar por la mejor decisión debidamente sustentada que permita el cumplimiento oportuno de los fines públicos.
+
+[Texto lateral rotado: CONCURSO PÚBLICO DE SERVICIOS]
+
+---
+
+**[Página 7]**
+
+DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP
+
+los documentos que la conforman, según lo requerido en las bases².
+
+3. La evaluación de ofertas es SIN PRECALIFICACIÓN y consiste en:
+
+a. Admisión de las ofertas: Los evaluadores revisan que la oferta contenga los documentos señalados en el Capítulo II de la Sección Específica de las bases, caso contrario la oferta se considera no admitida.
+b. Revisión de los requisitos de calificación: Los evaluadores califican a los postores verificando que cumplan con los requisitos de calificación detallados en el Capítulo III de la Sección Específica de las bases. Caso contrario la oferta se considera descalificada.
+c. Evaluación de ofertas técnicas: Los evaluadores aplican los factores de evaluación previstos en el Capítulo IV de la Sección Específica de las bases a las ofertas que cumplen los requisitos de calificación. En la Sección Específica se prevé un puntaje mínimo en la evaluación técnica para proceder a la evaluación económica de la oferta.
+d. Evaluación de ofertas económicas: La evaluación de la oferta económica es posterior a la evaluación de la oferta técnica y solo respecto de aquellos proveedores que hubieran obtenido un puntaje mínimo en la evaluación técnica.
+
+4. Todos los actos se realizan a través del SEACE de la Pladicop, incluyendo la subsanación de ofertas.
+
+**Rechazo de ofertas**
+
+Los evaluadores pueden rechazar ofertas económicas que se encuentren por debajo de la cuantía de la contratación, en los siguientes casos: i) la oferta se encuentra sustancialmente por debajo de la cuantía de la contratación; ii) la oferta no incorpora alguna de las prestaciones requeridas; o iii) Las prestaciones requeridas no se encuentren suficientemente presupuestadas.
+Para ello, los evaluadores solicitan al postor por escrito o por medios electrónicos, una descripción detallada de los elementos que componen su oferta, pudiendo proporcionarle un formato de estructura de costos con los aspectos mínimos que deben ser acreditados, además de solicitarle información complementaria pertinente. El postor cuenta con un plazo mínimo de dos (2) días hábiles para responder, computados desde el día
+
+---
+
+² Los formularios electrónicos del SEACE de la Pladicop que los participantes deben registrar para presentar sus ofertas, tienen carácter de declaración jurada.
+
+[Texto lateral rotado: CONCURSO PÚBLICO DE SERVICIOS]
+
+---
+
+**[Página 8]**
+
+DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP
+
+siguiente de recibida la solicitud. Una vez recibida la información, los evaluadores analizan objetivamente el riesgo del incumplimiento de las prestaciones ofertadas y de advertir que es probable su incumplimiento, rechazan la oferta mediante decisión debidamente motivada.
+
+**Oferta económica de mejor puntaje que supera la cuantía de la contratación**
+
+En caso la oferta económica del postor que obtiene el mejor puntaje total supere la cuantía de la contratación, se siguen los siguientes pasos, de conformidad con el artículo 132 del Reglamento:
+
+i. La DEC gestiona la solicitud de la ampliación de la certificación de crédito presupuestario y/o previsión presupuestal correspondiente. De otorgarse la ampliación, se procede a adjudicar la buena pro.
+
+ii. De no contar con la ampliación de la certificación de crédito presupuestario y/o previsión presupuestal, los evaluadores negocian con el postor que obtuvo el mejor puntaje total, en este orden: i) la reducción de su oferta económica; ii) la reducción de las prestaciones o condiciones del requerimiento, conforme al numeral 132.1 del artículo 132 del Reglamento. No pueden negociarse las condiciones que dieron lugar al otorgamiento de puntaje en los factores de evaluación correspondientes a la oferta técnica o aquellos establecidos como no negociables en el requerimiento. La finalidad pública de la contratación no debe ser afectada.
+
+iii. En caso el postor con el mejor puntaje no acepte, se procede a negociar con los siguientes postores en el orden de prelación que obtuvieron. Si el postor que sigue en el orden de prelación ofertó un monto igual o menor a la cuantía de la contratación, se le adjudica la buena pro.
+
+iv. En caso el postor que obtuvo el mejor puntaje total reduzca su oferta económica pero la reducción no se encuentre dentro de la cuantía de la contratación, se solicita la ampliación de la certificación de crédito presupuestario y/o previsión presupuestal correspondiente. En caso se otorgue la ampliación, se adjudica la buena pro. Caso contrario, se puede optar por: negociar con los siguientes postores (siempre que hayan obtenido el puntaje mínimo en la evaluación técnica) en el orden de prelación o declarar desierto el procedimiento de selección.
+
+v. Las decisiones adoptadas por los evaluadores en la negociación constan en actas que se
+
+[Texto lateral rotado: CONCURSO PÚBLICO DE SERVICIOS]
+
+---
+
+**[Página 9]**
+
+DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP
+
+publican en el SEACE de la Pladicop y se sustentan en el principio de valor por dinero, priorizando el cumplimiento de la finalidad pública de la contratación.
+
+e) Otorgamiento de la buena pro -
+1. Determinada la oferta ganadora, los evaluadores otorgan la buena pro mediante su publicación en el SEACE de la Pladicop, incluyendo los documentos que sustenten los resultados de la admisión, calificación, evaluación y el otorgamiento de la buena pro. - Artículos 80, 81, 82, 83 y 84 del Reglamento.
+
+2. En caso de haber sorteo por desempate, éste se realiza a través del SEACE de la Pladicop.
+
+3. En caso se hayan presentado dos o más ofertas, el consentimiento de la buena pro se produce y registra a través del SEACE de la Pladicop al día siguiente de vencido el plazo correspondiente para interponer recurso de apelación, sin que los postores hayan ejercido el derecho de interponer dicho recurso.
+
+En caso de que se haya presentado una sola oferta, el consentimiento de la buena pro se produce el mismo día de la notificación de su otorgamiento y se registra en el SEACE de la Pladicop al día siguiente.
+
+**2.2 CONSIDERACIONES PARA TODOS LOS PROVEEDORES.**
+
+2.2.1 Para registrarse como participante en un procedimiento de selección convocado por una entidad contratante, es necesario que los proveedores cuenten con inscripción vigente ante el Registro Nacional de Proveedores (RNP) que administra el Organismo Especializado para las Contrataciones Públicas Eficientes (OECE) en el registro correspondiente al objeto del procedimiento de selección. Para obtener mayor información, se puede ingresar a la siguiente dirección electrónica: www.rnp.gob.pe
+
+2.2.2 Los proveedores que deseen registrar su participación deben ingresar al SEACE de la Pladicop utilizando su certificado (usuario y contraseña).
+
+2.2.3 No pueden formularse consultas ni observaciones respecto del contenido de una ficha técnica o ficha de homologación aprobada, aun cuando el requerimiento haya sido estandarizado parcialmente respecto de las características técnicas, requisitos de calificación y/o condiciones de ejecución. Las consultas y observaciones que se formulen sobre el particular se tienen como no presentadas.
+
+2.2.4 Las declaraciones juradas, formatos o formularios previstos en las bases que conforman la oferta deben estar debidamente firmados por el postor (firma manuscrita o digital³, según la Ley Nº 27269, Ley de Firmas y Certificados Digitales). No se acepta insertar la imagen de una firma. El postor, el representante legal o común, apoderado o mandatario designado se hace responsable de la totalidad de los documentos que se incluyen en la oferta. El postor es
+
+---
+
+³ Conforme al artículo 23 del Reglamento de la Ley N° 27269, Ley de Firmas y Certificados Digitales, aprobado mediante Decreto Supremo N° 052-2008-PCM y sus normas modificatorias, los Prestadores de Servicios de Certificación Digital (PSC) pueden ser: a) Entidad de Certificación, b) Entidad de Registro o Verificación, y c) Prestador de Servicios de Valor Añadido. En el siguiente link pueden consultarse el Registro Oficial de Prestadores de Servicios de Certificación Digital (ROPS) administrado por el INDECOPI: https://www.gob.pe/institucion/indecopi/informes-publicaciones/5447866-registro-oficial-de-prestadores-de-servicios-de-certificacion-digital-rops
+
+[Texto lateral rotado: CONCURSO PÚBLICO DE SERVICIOS]
+
+---
+
+**[Página 10]**
+
+DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP
+
+responsable de verificar, antes de su envío, que los archivos puedan ser descargados y su contenido sea legible. En caso la información contenida en los documentos que conforman la oferta no coincida con lo declarado a través del SEACE de la Pladicop, prevalece la información declarada en los documentos de la oferta.
+
+**Advertencia**
+En caso el proveedor emplee la firma digital como una única firma en los documentos que conforman la oferta, esta es suficiente para que el documento sea considerado firmado legalmente.
+
+2.2.5 En caso que al registrarse como participante el proveedor presente una declaración jurada de desafectación del impedimento debido a parentesco establecido en el inciso 2 del numeral 30.1 del artículo 30 de la Ley, debe presentar adicionalmente para la admisión de su oferta la acreditación documental de su condición de desafectación conforme a lo indicado en el literal f) del numeral 2.2.1.1, del Capítulo II de la Sección Especifica de las bases.
+
+**2.3 CONSIDERACIONES ADICIONALES PARA LOS CONSORCIOS.**
+
+2.3.1 En el caso de consorcios, basta que uno de sus integrantes se haya registrado como participante en el procedimiento de selección, para lo cual dicho integrante debe contar con inscripción vigente en el RNP como proveedor de servicios. Los demás integrantes del consorcio deben contar con inscripción vigente en el RNP en las demás etapas del procedimiento de selección. No se considera consorcio a la asociación de personas de duración ilimitada o indefinida que, denominándose consorcios, han sido constituidas como personas jurídicas en los Registros Públicos.
+
+2.3.2 Los integrantes de un consorcio no pueden presentar ofertas individuales ni conformar más de un consorcio en un procedimiento de selección o en un determinado ítem, cuando se trate de procedimientos de selección según relación de ítems. En este segundo supuesto, los integrantes del consorcio pueden participar en ítems distintos a aquel en el que se presentaron en consorcio, sea en forma individual o en consorcio.
+
+2.3.3 Como parte de los documentos de su oferta el consorcio debe presentar la promesa de consorcio con firmas digitales de todos sus integrantes o, en su defecto, firmas legalizadas, de ser el caso, conforme a lo establecido en el literal d) del numeral 69.1 del artículo 69 del Reglamento. La promesa de consorcio debe consignar como mínimo, lo siguiente:
+
+a) La identificación de los integrantes del consorcio. Se debe precisar el nombre completo o la denominación o razón social de los integrantes del consorcio, según corresponda.
+b) La designación del representante común del consorcio.
+c) El domicilio común del consorcio.
+d) El correo electrónico común del consorcio, al cual se dirigirán todas las comunicaciones remitidas por la entidad contratante al consorcio durante el proceso de contratación, siendo éste el único válido para todos los efectos.
+e) Las obligaciones que correspondan a cada uno de los integrantes del consorcio.
+f) El porcentaje del total de las obligaciones de cada uno de los integrantes, respecto del objeto del contrato. Dicho porcentaje debe ser expresado en número entero, sin decimales.
+
+2.3.4 La información contenida en los literales a), e) y f) precedentes no puede ser modificada con ocasión de la suscripción del contrato de consorcio, ni durante la etapa de ejecución contractual. En tal sentido, no cabe variación alguna en la conformación del consorcio, por lo que no es posible que se incorpore, sustituya o separe a un integrante.
+
+2.3.5 El representante común tiene facultades para actuar en nombre y representación del consorcio, en todos los actos referidos al procedimiento de selección, suscripción y ejecución del contrato, con poderes suficientes para ejercitar los derechos y cumplir las obligaciones que se deriven de su calidad de postor y de contratista hasta la conformidad o liquidación del contrato, según corresponda. El representante común no debe encontrarse impedido, inhabilitado ni suspendido para contratar con el Estado. Para cambiar al representante común, todos los
+
+[Texto lateral rotado: CONCURSO PÚBLICO DE SERVICIOS]
+
+----- PÁGINAS PDF 11-16 -----
+A continuación se transcribe fielmente el texto de las páginas proporcionadas:
+
+---
+
+**DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP**
+
+---
+
+integrantes del consorcio deben firmar (mediante firmas legalizadas o firmas digitales) el documento en el que conste el acuerdo, el cual surte efectos cuando es notificado a la entidad contratante.
+
+2.3.6 Las declaraciones juradas, formatos o formularios previstos en las bases que conforman la oferta deben estar debidamente firmados por el representante común, por todos los integrantes del consorcio o de forma independiente por cada consorciado, según corresponda (firma manuscrita o digital, según la Ley Nº 27269, Ley de Firmas y Certificados Digitales). En el caso de los documentos que deban suscribir todos los integrantes del consorcio, la firma es seguida de la razón social o denominación de cada uno de ellos. Lo mismo aplica en caso deban ser suscritos en forma independiente por cada integrante del consorcio, de acuerdo con lo establecido en los documentos del procedimiento de selección. En el caso de un consorcio integrado por una persona natural, bastará que la persona natural indique debajo de su firma sus nombres y apellidos completos.
+
+2.3.7 La acreditación del requisito de calificación de la experiencia del postor se realiza en base a la documentación aportada por los integrantes del consorcio que se hubieran comprometido a ejecutar conjuntamente las obligaciones vinculadas directamente con el objeto materia de la contratación, de acuerdo con lo declarado en la promesa de consorcio. Para ello se debe seguir los siguientes pasos:
+
+a) Primer paso: obtener el monto de facturación por cada integrante del consorcio, el cual se obtiene de la sumatoria de montos facturados por éste que, a criterio del evaluador han sido acreditados conforme a las bases, correspondiente a las contrataciones ejecutadas en forma individual y/o en consorcio.
+
+En caso un integrante del consorcio presente facturación de contrataciones ejecutadas en consorcio, se considera el monto que corresponda al porcentaje de las obligaciones del referido integrante del consorcio. Este porcentaje debe estar consignado expresamente en la promesa o en el contrato de consorcio, de lo contrario, no se considera la experiencia ofertada en consorcio.
+
+b) Segundo paso: verificar si el integrante del consorcio que acredita la mayor experiencia cumple con un determinado porcentaje de participación. En caso la entidad contratante haya establecido en las bases un porcentaje determinado de participación en la ejecución del contrato, para el integrante del consorcio que acredite mayor experiencia, debe verificarse que éste cumple con dicho parámetro a efectos de considerar su experiencia.
+
+c) Tercer paso: sumatoria de experiencia de los consorciados. Para obtener la experiencia del consorcio se suma el monto de facturación aportado por cada integrante que cumple con lo señalado previamente.
+
+2.3.8 Para calificar la experiencia del postor no se toma en cuenta la documentación presentada por el o los consorciados que asumen las obligaciones referidas a las siguientes actividades:
+
+i. Actividades de carácter administrativo o de gestión como facturación, financiamiento, aporte de garantías, entre otras.
+
+ii. Actividades relacionadas con asuntos de organización interna, tales como representación u otros aspectos que no se relacionan con la ejecución de las prestaciones, entre otras.
+
+2.3.9 Los integrantes del consorcio son responsables de que su inscripción en el RNP se encuentre vigente, así como de no estar inhabilitado o suspendido al registrarse como participantes, a la presentación de ofertas, al otorgamiento de la buena pro y al perfeccionamiento del contrato.
+
+2.3.10 Los integrantes de un consorcio se encuentran obligados solidariamente a responder frente a la entidad contratante por los efectos patrimoniales que ésta sufra como consecuencia de la
+
+---
+
+**DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP**
+
+actuación de dichos integrantes, ya sea individual o conjunta, durante el procedimiento de selección y la ejecución contractual.
+
+---
+
+**DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP**
+
+## CAPÍTULO III
+## RECURSO DE APELACIÓN
+
+### 3.1 ACCESO AL EXPEDIENTE DE CONTRATACIÓN
+
+Una vez otorgada la buena pro, la DEC está en la obligación de permitir el acceso de los participantes y postores al expediente de contratación, con excepción de la información calificada como secreta, confidencial o reservada por la normativa de la materia y de aquella correspondiente a las ofertas que no fueron admitidas, a más tardar dentro del día hábil siguiente de haberse solicitado por escrito.
+
+A efectos de recoger la información de su interés, los participantes y postores pueden valerse de distintos medios, tales como: (i) la lectura y/o toma de apuntes, (ii) la captura y almacenamiento de imágenes, e incluso (iii) pueden solicitar copia de la documentación obrante en el expediente, siendo que, en este último caso, la entidad contratante debe entregar dicha documentación en el menor tiempo posible, previo pago de la tasa por tal concepto previsto en el Texto Único de Procedimientos Administrativos (TUPA) de la respectiva entidad contratante.
+
+### 3.2 RECURSO DE APELACIÓN
+
+A través del recurso de apelación se pueden impugnar los actos dictados durante el desarrollo del procedimiento de selección hasta antes del perfeccionamiento del contrato, incluyendo aquellos que declaren la nulidad de oficio, la cancelación del procedimiento de selección y otros actos emitidos por la entidad contratante que afecten la continuidad de este.
+
+El recurso de apelación se presenta ante la mesa de partes digital o física del Tribunal de Contrataciones Públicas y es resuelto por este.
+
+### 3.3 PLAZOS DE INTERPOSICIÓN DEL RECURSO DE APELACIÓN
+
+La apelación contra el otorgamiento de la buena pro o contra los actos dictados con anterioridad a ella se interpone, como máximo, dentro de los ocho días hábiles siguientes de haberse notificado el otorgamiento de la buena pro a través del SEACE de la Pladicop.
+
+En el caso de la apelación contra los actos dictados con posterioridad al otorgamiento de la buena pro, contra la declaración de nulidad, cancelación y declaratoria de desierto del procedimiento de selección, el plazo indicado en el párrafo precedente se contabiliza desde que se toma conocimiento del acto que se desea impugnar. Se considera que se ha tomado conocimiento en el día de la publicación en el SEACE de la Pladicop del acto que se desea impugnar.
+
+---
+
+**DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP**
+
+## CAPÍTULO IV
+## DEL CONTRATO
+
+### 4.1 REQUISITOS PARA EL PERFECCIONAMIENTO DEL CONTRATO:
+
+Para perfeccionar el contrato, el postor o postores ganadores de la buena pro presentan los siguientes requisitos de conformidad con el artículo 88 del Reglamento:
+
+| REQUISITO | CONSIDERACIONES ADICIONALES | BASE LEGAL |
+|---|---|---|
+| a) Garantías, salvo casos de excepción. | El postor ganador de la buena pro presenta una garantía de fiel cumplimiento por una suma equivalente al 10% del monto del contrato original. | Numerales 61.4 y 61.5 del artículo 61 de la Ley. |
+| | La garantía de fiel cumplimiento puede ser: (i) fideicomiso, solo cuando el plazo de ejecución del contrato supere los noventa días calendario, (ii) carta fianza financiera, (iii) contrato de seguro, o (iv) retención de pago. | Literal a) del numeral 88.1 del artículo 88, y los artículos 113, 114, 115, 116, 138 y 139 del Reglamento. |
+| | Asimismo, en la Sección Especifica de las Bases puede considerarse la presentación de: i) garantía de fiel cumplimiento de prestaciones accesorias, y ii) garantía por adelantos directos, siempre que se cumplan las condiciones señaladas en el Reglamento. | |
+| | La retención de pago como garantía de fiel cumplimiento o de prestaciones accesorias aplica para contrataciones cuya cuantía adjudicada sea igual o menor a S/ 480 000,00 (Cuatrocientos ochenta mil y 00/100 Soles). En el caso de las micro y pequeñas empresas estas pueden otorgar como garantía de fiel cumplimiento la retención de pago por parte de la entidad contratante con independencia del monto de la contratación. | |
+| | **Excepciones:** Conforme a lo dispuesto en el literal a) del artículo 139 del Reglamento, en los contratos de servicios cuyos montos sean menores o iguales a 50 UIT, no corresponde presentar garantía de fiel cumplimiento de contrato ni garantía de fiel cumplimiento por prestaciones accesorias. Esta excepción no aplica cuando la sumatoria de los contratos derivados de procedimientos de selección por relación de ítems, adjudicados a un mismo postor, superen el monto señalado. | |
+| b) Contrato de consorcio, de ser el caso. | El contrato de consorcio debe cumplir con los siguientes requisitos: a. Contener la información indicada en el numeral 2.3.3 del Capítulo II de la Sección General de las presentes bases. b. Identificar al integrante del consorcio a quien se efectuará el pago y emite la respectiva factura | Literal b) del numeral 88.1. del artículo 88 y artículo 89 del Reglamento. |
+
+---
+
+**DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP**
+
+| | o, en caso de llevar contabilidad independiente, señalar el número de Registro Único de Contribuyente (RUC), del consorcio. | |
+|---|---|---|
+| | c. Consignar las firmas legalizadas ante notario público de cada uno de los integrantes del consorcio, de sus apoderados o de sus representantes legales, según corresponda. | |
+| | Lo indicado no excluye la información adicional que pueda consignarse en el contrato de consorcio con el objeto de regular su administración interna, como es el régimen y los sistemas de participación en los resultados del consorcio, al que se refiere el artículo 448 de la Ley N° 26887, Ley General de Sociedades. | |
+| | En ningún caso puede aceptarse la presentación de la promesa de consorcio que fue parte de la oferta, independientemente de que dicha promesa contenga firmas legalizadas de sus integrantes ante notario público. | |
+| c) Código de cuenta interbancaria (CCI) o, en el caso de proveedores no domiciliados, el número de cuenta bancaria y nombre de la entidad bancaria en el exterior. | El CCI es requisito indispensable para realizar una transferencia entre cuentas de bancos diferentes, siendo requerido para efectuar el pago a los proveedores domiciliados en el Perú. Para los proveedores no domiciliados, corresponde el número de cuenta bancaria y nombre de la entidad bancaria en el exterior. | Artículo 67 de la Ley. Literal c) del numeral 88.1. del artículo 88 del Reglamento. |
+| d) Documento que acredite que cuenta con facultades para perfeccionar el contrato, cuando corresponda. | Corresponde a la vigencia del poder del representante legal que acredite que cuenta con facultades para perfeccionar el contrato, en caso el postor sea persona jurídica. Adicionalmente, el representante legal presenta copia de su documento de identidad (DNI o carné de extranjería, según corresponda). En el caso de personas naturales, se solicita copia de su documento de identidad (DNI o carné de extranjería, según corresponda). En el caso de consorcios, estos documentos deben ser presentados por cada uno de los integrantes que suscribieron la promesa de consorcio, según corresponda. Asimismo, debe presentarse copia del documento de identidad (DNI o carné de extranjería, según corresponda) del representante común del consorcio. | Literal d) del numeral 88.1. del artículo 88 del Reglamento. |
+
+---
+
+**DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP**
+
+| e) Institución Arbitral elegida del listado de instituciones arbitrales propuesto por la entidad contratante o propuesta de tres instituciones arbitrales del postor. | Este requisito es obligatorio para todos los contratos que superen las 10 UIT⁴. Desde el 1 de enero de 2026, la institución arbitral elegida debe encontrarse inscrita en el Registro de Instituciones Arbitrales y Centros de Administración de Juntas de Prevención y Resolución de Disputas (REGAJU). | Artículos 77, 83 y 84, así como la Décima Disposición Complementaria Transitoria de la Ley. Literal e) del numeral 88.1. del artículo 88 del Reglamento. |
+|---|---|---|
+
+### 4.2 PERFECCIONAMIENTO DEL CONTRATO
+
+4.2.1 El postor ganador de la buena pro debe presentar los requisitos para perfeccionar el contrato dentro del plazo de ocho o cinco días hábiles, según corresponda, plazo que se contabiliza desde el día siguiente del registro del consentimiento de la buena pro en el SEACE de la Pladicop o desde que esta haya quedado administrativamente firme, de conformidad con los requisitos, plazos y procedimiento dispuestos en los artículos 88, 89, 90 y 91 del Reglamento.
+
+4.2.2. El contrato se suscribe mediante firma digital, siempre que el postor ganador de la buena pro cuente con certificado digital emitido por una entidad de certificación, de acuerdo con la normativa de la materia; caso contrario, se suscribe manualmente.
+
+4.2.3. De conformidad con el numeral 87.3 del Reglamento, excepcionalmente, la entidad contratante puede sustentar la imposibilidad de suscribir el contrato mediante firma digital, supuesto en el cual la suscripción se realiza manualmente.
+
+### 4.3 CONSIDERACIONES PARA LOS CONSORCIOS
+
+4.3.1 Las garantías que presenten los consorcios para el perfeccionamiento del contrato durante la ejecución contractual y para la interposición de los recursos impugnativos, además de cumplir con las condiciones establecidas en la Ley y el Reglamento, deben consignar expresamente el nombre completo o la denominación o razón social de los integrantes del consorcio, en calidad de garantizados, de lo contrario no pueden ser aceptadas por las entidades contratantes o el Tribunal de Contrataciones Públicas. No se cumple el requisito antes indicado si se consigna únicamente la denominación del consorcio.
+
+4.3.2 La retención del 10% del monto del contrato original en calidad de garantía de fiel cumplimiento aplica cuando la cuantía adjudicada sea igual o menor a S/ 480 000,00 (Cuatrocientos ochenta mil y 00/100 Soles). En el caso de micro o pequeñas empresas que hayan declarado en su oferta tal condición, no aplica dicho umbral, según lo señalado en el artículo 114 del Reglamento. En caso de consorcio, aplica dicha retención si todos sus integrantes declaran en su oferta la condición de micro o pequeña empresa.
+
+### 4.4 CONSIDERACIONES PARA LAS GARANTÍAS FINANCIERAS
+
+4.4.1 En caso de garantías financieras, estas deben ser incondicionales, solidarias, irrevocables y de realización automática en el país, al solo requerimiento de la respectiva entidad contratante bajo responsabilidad de las empresas que las emiten. Las empresas que emitan garantías financieras deben encontrarse bajo la supervisión directa de la
+
+---
+
+⁴ De conformidad con el numeral 84.1 del artículo 84 de la Ley, el arbitraje puede ser ad hoc solo en los casos en los que el monto de la controversia no supere las diez (10) UIT.

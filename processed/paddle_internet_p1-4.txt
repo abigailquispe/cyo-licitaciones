@@ -1,0 +1,58 @@
+===== OCR LOCAL de input\BASES+INTERNET_20260515_183318_145.pdf (paginas 1-4) - PaddleOCR (es) =====
+
+
+----- PAGINA PDF 1 -----
+GEL PERU
+SEPUS
+PERÚ
+Ministerio
+de Economía y Finanzas
+DIRECCIÓN GENERAL DE ABASTECIMIENTO
+BASES ESTÁNDAR
+CONCURSO PÚBLICO DE SERVICIOS
+Q
+
+----- PAGINA PDF 2 -----
+SIMBOLOGÍA UTILIZADA:
+N° Símbolo Descripción
+Es una indicación que debe ser completada o eliminada
+1 [ABC] por la entidadcontratante durante la elaboración de las
+bases conforme a las instrucciones brindadas.
+Es una indicación o información que debe ser completada
+por la entidad contratante con posterioridad al
+2 [ABC] otorgamiento de la buena pro para el caso específico de la
+elaboración de la PROFORMA DEL CONTRATO; o por los
+proveedores, al completar los ANEXOS de la oferta.
+Advertencia Se refiere a advertencias a tener en cuenta por los
+3 evaluadores y los proveedores. No deben ser eliminadas
+Abc una vez culminada la elaboración de las bases.
+Importante para la Se refiere a consideraciones importantes a tener en cuenta
+4 entidad contratante por los evaluadores y deben ser eliminadas una vez
+Xyz culminada la elaboración de las bases.
+INSTRUCCIÓN DE USO:
+Una vez registrada la información solicitada dentro de los corchetes, el texto debe quedar en letra
+Arial tamaño 10, con estilo normal, sin formato de negrita y sin sombrear.
+CARACTERÍSTICAS DE LAS BASES A ELABORAR:
+Las bases deben ser elaboradas en formato WorD y deben tener las características del presente
+documento. De existir algún cambio en el formato como márgenes, fuente, tamaño de letra, entre
+otros, no acarrea su nulidad, salvo que por el tipo o tamaño de letra impida la lectura por parte de
+los proveedores.
+
+----- PAGINA PDF 3 -----
+DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP
+CONCURSO PÚBLICO DE SERVICIOS N°
+001-2026-DP-1
+CONTRATACIÓN DEL SERVICIO DE ACCESO DEDICADO A
+INTERNET
+SOSTSRONROOS
+
+----- PAGINA PDF 4 -----
+DESPACHO PRESIDENCIAL
+CONCURSO PUBLICO DE SERVICIOS N° 001-2026-DP
+SECCIÓN GENERAL
+DISPOSICIONES COMUNES DEL CONCURSO PÚBLICO
+DE SERVICIOS
+(ESTA SECCIÓN NO DEBE SER MODIFICADA EN NINGÚN EXTREMO, BAJO SANCIÓN DE NULIDAD)
+SOSCROROS
+2

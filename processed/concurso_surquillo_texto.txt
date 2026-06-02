@@ -1,0 +1,3437 @@
+
+
+===== PÁGINA 1 (footer ~-1) =====
+DIRECCIÓN GENERAL DE ABASTECIMIENTO
+BASES ESTÁNDAR
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+
+===== PÁGINA 2 (footer ~0) =====
+SIMBOLOGÍA UTILIZADA:
+Nº Símbolo Descripción
+1 [ABC]
+Es una indicación que debe ser completada o eliminada por
+la entidad contratante durante la elaboración de las bases
+conforme a las instrucciones brindadas.
+2 [ABC]
+Es una indicación o información que debe ser completada
+por la entidad contratante con posterioridad al otorgamiento
+de la buena pro para el caso específico de la elaboración de
+la PROFORMA DEL CONTRATO; o por los proveedores, al
+completar los ANEXOS de la oferta.
+3 
+Advertencia
+• Abc
+Se refiere a advertencias a tener en cuenta por los
+evaluadores y los proveedores. No deben ser eliminadas una
+vez culminada la elaboración de las bases.
+4
+Importante para la
+entidad contratante
+• Xyz
+Se refiere a consideraciones importantes a tener en cuenta
+por los evaluadores y deben ser eliminadas una vez
+culminada la elaboración de las bases.
+INSTRUCCIÓN DE USO:
+Una vez registrada la información solicitada dentro de los corchetes, el texto debe quedar en letra
+Arial tamaño 10, con estilo normal, sin formato de negrita y sin sombrear.
+CARACTERÍSTICAS DE LAS BASES A ELABORAR:
+Las bases deben ser elaboradas en formato WORD y deben tener las características del presente
+documento. De existir algún cambio en el formato como márgenes, fuente, tamaño de letra, entre
+otros, no acarrea su nulidad, salvo que por el tipo o tamaño de letra impida la lectura por parte de
+los proveedores.
+
+===== PÁGINA 3 (footer ~1) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+1
+CONCURSO PÚBLICO ABREVIADO DE
+SERVICIOS Nº 02-2026-MDS
+CONTRATACION DEL SERVICIO PARA INTERNET
+DEDICADO, TRANSMISION DE DATOS, TELEFONIA IP,
+CORREO Y ALMACENAMIENTO CLOUD
+
+===== PÁGINA 4 (footer ~2) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+2
+SECCIÓN GENERAL
+DISPOSICIONES COMUNES DEL CONCURSO PÚBLICO
+ABREVIADO DE SERVICIOS
+(ESTA SECCIÓN NO DEBE SER MODIFICADA EN NINGÚN EXTREMO, BAJO SANCIÓN DE NULIDAD)
+
+===== PÁGINA 5 (footer ~3) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+3
+CAPÍTULO I
+ASPECTOS GENERALES
+1.1. REFERENCIAS
+Cuando en el presente documento se mencione la palabra “Ley”, se entiende que se está
+haciendo referencia a la Ley N° 32069, Ley General de Contrataciones Públicas, y cuando se
+mencione la palabra “Reglamento”, se entiende que se está haciendo referencia al Reglamento
+de la Ley N° 32069, Ley General de Contrataciones Públicas, aprobado por Decreto Supremo
+N° 009-2025-EF. Las referidas normas incluyen sus respectivas modificaciones, de ser el caso.
+1.2. ALCANCE
+1
+La presente base estándar es utilizada por la entidad contratante para la contratación de: i)
+servicios según la cuantía establecida en la Ley de Presupuesto del Sector Público para el Año
+Fiscal correspondiente; ii) servicios homologados; iii) servicios de rehabilitación y
+reconstrucción posterior a emergencias y desastres; iv) la segunda convocatoria del concurso
+público para servicios en general y ASISTE; o v) insumos directamente utilizados en los
+procesos productivos por las empresas del Estado conforme la Séptima Disposición
+Complementaria Final de la Ley.
+1 
+De acuerdo con el numeral 260.4 del artículo 260 del Reglamento, si el requerimiento cuenta con ficha de homologación y dicha
+homologación es parcial, se utiliza la base que aplica al procedimiento de selección que corresponde según a la cuantía de la
+contratación.
+
+===== PÁGINA 6 (footer ~4) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+4
+CAPÍTULO II
+DESARROLLO DEL PROCEDIMIENTO DE SELECCIÓN
+2.1 ETAPAS DEL CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+Las etapas del presente procedimiento de selección son las siguientes
+2
+:
+ETAPA CARACTERÍSTICAS BASE LEGAL
+a) Convocatoria Se realiza a través del SEACE de la Pladicop en la
+fecha señalada en el cronograma.
+Artículos 63 y 64 del
+Reglamento.
+b) Registro de
+participantes
+Aplica lista abierta, por lo que cualquier proveedor
+puede registrarse como participante en el
+procedimiento de selección.
+Artículos 65 y 94 del
+Reglamento.
+c) Cuestionamientos a
+las bases
+(consultas,
+observaciones e
+integración)
+1. La presentación de consultas y/u
+observaciones se realiza en un plazo no menor
+a tres días hábiles contabilizados desde el día
+siguiente de la convocatoria.
+2. La absolución de los referidos
+cuestionamientos y la publicación de las bases
+integradas se realiza en la fecha prevista en el
+cronograma del procedimiento de selección.
+Artículos 62, 66 y 94
+del Reglamento.
+d) Evaluación de
+ofertas técnicas y
+económicas
+1. La presentación de ofertas se realiza a través
+del SEACE de la Pladicop desde las 00:01
+hasta las 23:59 horas (hora peruana) de la
+fecha prevista en el cronograma del
+procedimiento de selección. Dicha fecha no
+puede ser fijada en menos de tres días hábiles
+desde la publicación de la integración de bases.
+2. La presentación de ofertas se realiza
+adjuntando el archivo digitalizado que contenga
+los documentos que la conforman, según lo
+requerido en las bases
+3
+.
+3. La evaluación de ofertas es SIN
+PRECALIFICACIÓN y consiste en:
+a. Admisión de las ofertas: Los evaluadores
+revisan que la oferta contenga los
+documentos señalados en el Capítulo II de
+la Sección Específica de las bases, caso
+contrario la oferta se considera no admitida.
+b. Revisión de los requisitos de calificación:
+Los evaluadores califican a los postores
+verificando que cumplan con los requisitos
+de calificación detallados en el Capítulo III
+de la Sección Específica de las bases. Caso
+contrario la oferta se considera
+descalificada.
+Artículos 68, 70, 71,
+72, 73, 74, 75, 78 y
+132 del Reglamento.
+2 
+De conformidad con el numeral 27.1 del artículo 27 de la Ley, la facultad para actuar discrecionalmente se fundamenta en el
+rigor técnico empleado por los funcionarios y servidores, dependencias y unidades de organización encargadas de las
+contrataciones públicas para optar por la mejor decisión debidamente sustentada que permita el cumplimiento oportuno de los
+fines públicos.
+3 
+Los formularios electrónicos del SEACE de la Pladicop que los participantes deben registrar para presentar sus ofertas, tienen
+carácter de declaración jurada.
+
+===== PÁGINA 7 (footer ~5) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+5
+c. Evaluación de ofertas técnicas: Los
+evaluadores aplican los factores de
+evaluación previstos en el Capítulo IV de la
+Sección Específica de las bases a las
+ofertas que cumplen los requisitos de
+calificación. En la Sección Específica se
+prevé un puntaje mínimo en la evaluación
+técnica para proceder a la evaluación
+económica de la oferta.
+d. Evaluación de ofertas económicas: La
+evaluación de la oferta económica es
+posterior a la evaluación de la oferta técnica
+y solo respecto de aquellos proveedores que
+hubieran obtenido un puntaje mínimo en la
+evaluación técnica.
+4. Todos los actos se realizan a través del SEACE
+de la Pladicop, incluyendo la subsanación de
+ofertas.
+Rechazo de ofertas
+Los evaluadores pueden rechazar ofertas
+económicas que se encuentren por debajo de la
+cuantía de la contratación, en los siguientes casos:
+i) la oferta se encuentra sustancialmente por
+debajo de la cuantía de la contratación; ii) la oferta
+no incorpora alguna de las prestaciones
+requeridas; o iii) Las prestaciones requeridas no se
+encuentren suficientemente presupuestadas.
+Para ello, los evaluadores solicitan al postor por
+escrito o por medios electrónicos, una descripción
+detallada de los elementos que componen su
+oferta, pudiendo proporcionarle un formato de
+estructura de costos con los aspectos mínimos que
+deben ser acreditados, además de solicitarle
+información complementaria pertinente. El postor
+cuenta con un plazo mínimo de dos (2) días hábiles
+para responder, computados desde el día
+siguiente de recibida la solicitud. Una vez recibida
+la información, los evaluadores analizan
+objetivamente el riesgo del incumplimiento de las
+prestaciones ofertadas y de advertir que es
+probable su incumplimiento, rechazan la oferta
+mediante decisión debidamente motivada
+Oferta económica de mejor puntaje que supera
+la cuantía de la contratación
+En caso la oferta económica del postor que obtiene
+el mejor puntaje total supere la cuantía de la
+contratación, se siguen los siguientes pasos, de
+conformidad con el artículo 132 del Reglamento:
+i. La DEC gestiona la solicitud de la ampliación de
+la certificación de crédito presupuestario y/o
+previsión presupuestal correspondiente. De
+otorgarse la ampliación, se procede a adjudicar
+la buena pro.
+ii. De no contar con la ampliación de la
+certificación de crédito presupuestario y/o
+
+===== PÁGINA 8 (footer ~6) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+6
+previsión presupuestal, los evaluadores
+negocian con el postor que obtuvo el mejor
+puntaje total, en este orden: i) la reducción de
+su oferta económica; ii) la reducción de las
+prestaciones o condiciones del requerimiento,
+conforme al numeral 132.1 del artículo 132 del
+Reglamento. No pueden negociarse las
+condiciones que dieron lugar al otorgamiento de
+puntaje en los factores de evaluación
+correspondientes a la oferta técnica o aquellos
+establecidos como no negociables en el
+requerimiento. La finalidad pública de la
+contratación no debe ser afectada.
+iii. En caso el postor con el mejor puntaje no
+acepte, se procede a negociar con los
+siguientes postores en el orden de prelación
+que obtuvieron. Si el postor que sigue en el
+orden de prelación ofertó un monto igual o
+menor a la cuantía de la contratación, se le
+adjudica la buena pro.
+iv. En caso el postor que obtuvo el mejor puntaje
+total reduzca su oferta económica pero la
+reducción no se encuentre dentro de la cuantía
+de la contratación, se solicita la ampliación de
+la certificación de crédito presupuestario y/o
+previsión presupuestal correspondiente. En
+caso se otorgue la ampliación, se adjudica la
+buena pro. Caso contrario, se puede optar por:
+negociar con los siguientes postores (siempre
+que hayan obtenido el puntaje mínimo en la
+evaluación técnica) en el orden de prelación o
+declarar desierto el procedimiento de selección.
+v. Las decisiones adoptadas por los evaluadores
+en la negociación constan en actas que se
+publican en el SEACE de la Pladicop y se
+sustentan en el principio de valor por dinero,
+priorizando el cumplimiento de la finalidad
+pública de la contratación.
+e) Otorgamiento de la
+buena pro
+1. Determinada la oferta ganadora, los
+evaluadores otorgan la buena pro mediante su
+publicación en el SEACE de la Pladicop,
+incluyendo los documentos que sustenten los
+resultados de la admisión, calificación,
+evaluación y el otorgamiento de la buena pro.
+2. En caso de haber sorteo por desempate, éste
+se realiza a través del SEACE de la Pladicop.
+3. En caso se hayan presentado dos o más
+ofertas, el consentimiento de la buena pro se
+produce y registra a través del SEACE de la
+Pladicop al día siguiente de vencido el plazo
+correspondiente para interponer recurso de
+apelación, sin que los postores hayan ejercido
+el derecho de interponer dicho recurso.
+En caso de que se haya presentado una sola
+oferta, el consentimiento de la buena pro se
+produce el mismo día de la notificación de su
+Artículos 80, 81, 82,
+83 y 84 del
+Reglamento.
+
+===== PÁGINA 9 (footer ~7) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+7
+otorgamiento y se registra en el SEACE de la
+Pladicop al día siguiente.
+2.2 CONSIDERACIONES PARA TODOS LOS PROVEEDORES.
+2.2.1 Para registrarse como participante en un procedimiento de selección convocado por una
+entidad contratante, es necesario que los proveedores cuenten con inscripción vigente ante el
+Registro Nacional de Proveedores (RNP) que administra el Organismo Especializado para las
+Contrataciones Públicas Eficientes (OECE) en el registro correspondiente al objeto del
+procedimiento de selección. Para obtener mayor información, se puede ingresar a la siguiente
+dirección electrónica: www.rnp.gob.pe
+2.2.2 Los proveedores que deseen registrar su participación deben ingresar al SEACE de la Pladicop
+utilizando su certificado (usuario y contraseña).
+2.2.3 No pueden formularse consultas ni observaciones respecto del contenido de una ficha técnica
+o Ficha de homologación aprobada, aun cuando el requerimiento haya sido estandarizado
+parcialmente respecto de las características técnicas, requisitos de calificación y/o condiciones
+de ejecución. Las consultas y observaciones que se formulen sobre el particular se tienen como
+no presentadas.
+2.2.4 Las declaraciones juradas, formatos o formularios previstos en las bases que conforman la
+oferta deben estar debidamente firmados por el postor (firma manuscrita o digital
+4
+, según la
+Ley Nº 27269, Ley de Firmas y Certificados Digitales). No se acepta insertar la imagen de una
+firma. El postor, el representante legal o común, apoderado o mandatario designado, se hace
+responsable de la totalidad de los documentos que se incluyen en la oferta. El postor es
+responsable de verificar, antes de su envío, que los archivos puedan ser descargados y su
+contenido sea legible. En caso la información contenida en los documentos que conforman la
+oferta no coincida con lo declarado a través del SEACE de la Pladicop, prevalece la información
+declarada en los documentos de la oferta.
+Advertencia
+En caso el proveedor emplee la firma digital como una única firma en los documentos que conforman
+la oferta, esta es suficiente para que el documento sea considerado firmado legalmente.
+2.2.5 En caso que al registrarse como participante el proveedor presente una declaración jurada de
+desafectación del impedimento debido a parentesco establecido en el inciso 2 del numeral 30.1
+del artículo 30 de la Ley, debe presentar adicionalmente para la admisión de su oferta la
+acreditación documental de su condición de desafectación conforme a lo indicado en el literal
+f) del numeral 2.2.1.1., del Capítulo II de la Sección Especifica de las bases.
+2.3 CONSIDERACIONES ADICIONALES PARA LOS CONSORCIOS.
+2.3.1 En el caso de consorcios, basta que uno de sus integrantes se haya registrado como
+participante en el procedimiento de selección, para lo cual dicho integrante debe contar con
+inscripción vigente en el RNP como proveedor de servicios. Los demás integrantes del
+consorcio deben contar con inscripción vigente en el RNP en las demás etapas del
+procedimiento de selección. No se considera consorcio a la asociación de personas de duración
+ilimitada o indefinida que, denominándose consorcios, han sido constituidas como personas
+jurídicas en los Registros Públicos.
+2.3.2 Los integrantes de un consorcio no pueden presentar ofertas individuales ni conformar más de
+4 
+Conforme al artículo 23 del Reglamento de la Ley N° 27269, Ley de Firmas y Certificados Digitales, aprobado mediante Decreto
+Supremo N° 052-2008-PCM y sus normas modificatorias, los Prestadores de Servicios de Certificación Digital (PSC) pueden ser:
+a) Entidad de Certificación, b) Entidad de Registro o Verificación, y c) Prestador de Servicios de Valor Añadido. En el siguiente
+link pueden consultarse el Registro Oficial de Prestadores de Servicios de Certificación Digital (ROPS) administrado por el
+INDECOPI: https://www.gob.pe/institucion/indecopi/informes-publicaciones/5447866-registro-oficial-de-prestadores-de-
+servicios-de-certificacio-digital-rops
+
+===== PÁGINA 10 (footer ~8) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+8
+un consorcio en un procedimiento de selección o en un determinado ítem, cuando se trate de
+procedimientos de selección según relación de ítems. En este segundo supuesto, los
+integrantes del consorcio pueden participar en ítems distintos a aquel en el que se presentaron
+en consorcio, sea en forma individual o en consorcio.
+2.3.3 Como parte de los documentos de su oferta el consorcio debe presentar la promesa de
+consorcio con firmas digitales de todos sus integrantes o, en su defecto, firmas legalizadas, de
+ser el caso, conforme a lo establecido en el literal d) del numeral 69.1 del artículo 69 del
+Reglamento. La promesa de consorcio debe consignar como mínimo, lo siguiente:
+a) La identificación de los integrantes del consorcio. Se debe precisar el nombre
+completo o la denominación o razón social de los integrantes del consorcio, según
+corresponda.
+b) La designación del representante común del consorcio.
+c) El domicilio común del consorcio.
+d) El correo electrónico común del consorcio, al cual se dirigirán todas las
+comunicaciones remitidas por la entidad contratante al consorcio durante el proceso
+de contratación, siendo éste el único válido para todos los efectos.
+e) Las obligaciones que correspondan a cada uno de los integrantes del consorcio.
+f) El porcentaje del total de las obligaciones de cada uno de los integrantes, respecto
+del objeto del contrato. Dicho porcentaje debe ser expresado en número entero, sin
+decimales.
+2.3.4 La información contenida en los literales a), e) y f) precedentes no puede ser modificada con
+ocasión de la suscripción del contrato de consorcio, ni durante la etapa de ejecución
+contractual. En tal sentido, no cabe variación alguna en la conformación del consorcio, por lo
+que no es posible que se incorpore, sustituya o separe a un integrante.
+2.3.5 El representante común tiene facultades para actuar en nombre y representación del consorcio,
+en todos los actos referidos al procedimiento de selección, suscripción y ejecución del contrato,
+con poderes suficientes para ejercitar los derechos y cumplir las obligaciones que se deriven
+de su calidad de postor y de contratista hasta la conformidad o liquidación del contrato, según
+corresponda. El representante común no debe encontrarse impedido, inhabilitado ni
+suspendido para contratar con el Estado. Para cambiar al representante común, todos los
+integrantes del consorcio deben firmar (mediante firmas legalizadas o firmas digitales) el
+documento en el que conste el acuerdo, el cual surte efectos cuando es notificado a la entidad
+contratante.
+2.3.6 Las declaraciones juradas, formatos o formularios previstos en las bases que conforman la
+oferta deben estar debidamente firmados por el representante común, por todos los integrantes
+del consorcio o de forma independiente por cada consorciado, según corresponda (firma
+manuscrita o digital, según la Ley Nº 27269, Ley de Firmas y Certificados Digitales). En el caso
+de los documentos que deban suscribir todos los integrantes del consorcio, la firma es seguida
+de la razón social o denominación de cada uno de ellos. Lo mismo aplica en caso deban ser
+suscritos en forma independiente por cada integrante del consorcio, de acuerdo con lo
+establecido en los documentos del procedimiento de selección. En el caso de un consorcio
+integrado por una persona natural, bastará que la persona natural indique debajo de su firma
+sus nombres y apellidos completos.
+2.3.7 La acreditación del requisito de calificación de la experiencia del postor se realiza en base a la
+documentación aportada por los integrantes del consorcio que se hubieran comprometido a
+ejecutar conjuntamente las obligaciones vinculadas directamente con el objeto materia de la
+contratación, de acuerdo con lo declarado en la promesa de consorcio. Para ello se debe seguir
+los siguientes pasos:
+a) Primer paso: obtener el monto de facturación por cada integrante del consorcio, el cual
+se obtiene de la sumatoria de montos facturados por éste que, a criterio del evaluador
+han sido acreditados conforme a las bases, correspondiente a las contrataciones
+ejecutadas en forma individual y/o en consorcio.
+
+===== PÁGINA 11 (footer ~9) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+9
+En caso un integrante del consorcio presente facturación de contrataciones ejecutadas
+en consorcio, se considera el monto que corresponda al porcentaje de las obligaciones
+del referido integrante del consorcio. Este porcentaje debe estar consignado
+expresamente en la promesa o en el contrato de consorcio, de lo contrario, no se
+considera la experiencia ofertada en consorcio.
+b) Segundo paso: verificar si el integrante del consorcio que acredita la mayor experiencia
+cumple con un determinado porcentaje de participación. En caso la entidad contratante
+haya establecido en las bases un porcentaje determinado de participación en la ejecución
+del contrato, para el integrante del consorcio que acredite mayor experiencia, debe
+verificarse que éste cumple con dicho parámetro a efectos de considerar su experiencia.
+c) Tercer paso: sumatoria de experiencia de los consorciados. Para obtener la experiencia
+del consorcio se suma el monto de facturación aportado por cada integrante que cumple
+con lo señalado previamente.
+2.3.8 Para calificar la experiencia del postor no se toma en cuenta la documentación presentada por
+el o los consorciados que asumen las obligaciones referidas a las siguientes actividades:
+i. Actividades de carácter administrativo o de gestión como facturación, financiamiento,
+aporte de garantías, entre otras.
+ii. Actividades relacionadas con asuntos de organización interna, tales como
+representación u otros aspectos que no se relacionan con la ejecución de las
+prestaciones, entre otras.
+2.3.9 Los integrantes del consorcio son responsables de que su inscripción en el RNP se encuentre
+vigente, así como de no estar inhabilitado o suspendido al registrarse como participantes, a la
+presentación de ofertas, al otorgamiento de la buena pro y al perfeccionamiento del contrato.
+2.3.10 Los integrantes de un consorcio se encuentran obligados solidariamente a responder frente a
+la entidad contratante por los efectos patrimoniales que ésta sufra como consecuencia de la
+actuación de dichos integrantes, ya sea individual o conjunta, durante el procedimiento de
+selección y la ejecución contractual.
+
+===== PÁGINA 12 (footer ~10) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+10
+CAPÍTULO III
+RECURSO DE APELACIÓN
+3.1 ACCESO AL EXPEDIENTE DE CONTRATACIÓN
+Una vez otorgada la buena pro, la DEC está en la obligación de permitir el acceso de los
+participantes y postores al expediente de contratación, con excepción de la información
+calificada como secreta, confidencial o reservada por la normativa de la materia y de aquella
+correspondiente a las ofertas que no fueron admitidas, a más tardar dentro del día hábil
+siguiente de haberse solicitado por escrito.
+A efectos de recoger la información de su interés, los participantes y postores pueden valerse
+de distintos medios, tales como: (i) la lectura y/o toma de apuntes, (ii) la captura y
+almacenamiento de imágenes, e incluso (iii) pueden solicitar copia de la documentación obrante
+en el expediente, siendo que, en este último caso, la entidad contratante debe entregar dicha
+documentación en el menor tiempo posible, previo pago de la tasa por tal concepto previsto en
+el Texto Único de Procedimientos Administrativos (TUPA) de la respectiva entidad contratante.
+3.2 RECURSO DE APELACIÓN
+A través del recurso de apelación se pueden impugnar los actos dictados durante el desarrollo
+del procedimiento de selección hasta antes del perfeccionamiento del contrato, incluyendo
+aquellos que declaren la nulidad de oficio, la cancelación del procedimiento de selección y otros
+actos emitidos por la entidad contratante que afecten la continuidad de este.
+El recurso de apelación se presenta ante la mesa de partes digital o física del Tribunal de
+Contrataciones Públicas o de la entidad contratante y es resuelto por uno de estos, según
+corresponda.
+3.3 PLAZOS DE INTERPOSICIÓN DEL RECURSO DE APELACIÓN
+La apelación contra el otorgamiento de la buena pro o contra los actos dictados con anterioridad
+a ella se interpone, como máximo, dentro de los cinco días hábiles siguientes de haberse
+notificado el otorgamiento de la buena pro a través del SEACE de la Pladicop.
+En el caso de la apelación contra los actos dictados con posterioridad al otorgamiento de la
+buena pro, contra la declaración de nulidad, cancelación y declaratoria de desierto del
+procedimiento de selección, el plazo indicado en el párrafo precedente se contabiliza desde
+que se toma conocimiento del acto que se desea impugnar. Se considera que se ha tomado
+conocimiento en el día de la publicación en el SEACE de la Pladicop del acto que se desea
+impugnar.
+
+===== PÁGINA 13 (footer ~11) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+11
+CAPÍTULO IV
+DEL CONTRATO
+4.1 REQUISITOS PARA EL PERFECCIONAMIENTO DEL CONTRATO
+Para perfeccionar el contrato, el postor o postores ganadores de la buena pro presentan los
+siguientes requisitos de conformidad con el artículo 88 del Reglamento:
+REQUISITO CONSIDERACIONES ADICIONALES BASE LEGAL
+a) Garantías,
+salvo casos
+de excepción.
+El postor ganador de la buena pro presenta una
+garantía de fiel cumplimiento por una suma
+equivalente al 10% del monto del contrato original.
+La garantía de fiel cumplimiento puede ser: (i)
+fideicomiso, solo cuando el plazo de ejecución del
+contrato supere los noventa días calendario, (ii)
+carta fianza financiera, (iii) contrato de seguro, o
+(iv) retención de pago.
+Asimismo, en la Sección Especifica de las Bases
+puede considerarse la presentación de: i) garantía
+de fiel cumplimiento de prestaciones accesorias, y
+ii) garantía por adelantos directos, siempre que se
+cumplan las condiciones señaladas en el
+Reglamento.
+La retención de pago como garantía de fiel
+cumplimiento o de prestaciones accesorias aplica
+para contrataciones cuya cuantía adjudicada sea
+igual o menor a S/ 480 000,00 (Cuatrocientos
+ochenta mil y 00/100 Soles). En el caso de las
+micro y pequeñas empresas estas pueden otorgar
+como garantía de fiel cumplimiento la retención de
+pago por parte de la entidad contratante con
+independencia del monto de la contratación.
+Excepciones:
+Conforme a lo dispuesto en el literal a) del artículo
+139 del Reglamento, en los contratos de servicios
+cuyos montos sean menores o iguales a 50 UIT, no
+corresponde presentar garantía de fiel
+cumplimiento de contrato ni garantía de fiel
+cumplimiento por prestaciones accesorias. Esta
+excepción no aplica cuando la sumatoria de los
+contratos derivados de procedimientos de
+selección por relación de ítems, adjudicados a un
+mismo postor, superen el monto señalado.
+Numerales 61.4 y 61.5
+del artículo 61 de la
+Ley.
+Literal a) del numeral
+88.1. del artículo 88, y
+los artículos 113, 114,
+115, 116, 138 y 139 del
+Reglamento.
+b) Contrato de
+consorcio, de
+ser el caso.
+El contrato de consorcio debe cumplir con los
+siguientes requisitos:
+a. Contener la información indicada en el
+numeral 2.3.3 del Capítulo II de la Sección
+General de las presentes bases.
+b. Identificar al integrante del consorcio a quien
+se efectuará el pago y emite la respectiva
+Literal b) del numeral
+88.1. del artículo 88 y
+artículo 89 del
+Reglamento.
+
+===== PÁGINA 14 (footer ~12) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+12
+factura o, en caso de llevar contabilidad
+independiente, señalar el número de Registro
+Único de Contribuyente (RUC), del consorcio.
+c. Consignar las firmas legalizadas ante notario
+público de cada uno de los integrantes del
+consorcio, de sus apoderados o de sus
+representantes legales, según corresponda.
+Lo indicado no excluye la información adicional
+que pueda consignarse en el contrato de consorcio
+con el objeto de regular su administración interna,
+como es el régimen y los sistemas de participación
+en los resultados del consorcio, al que se refiere el
+artículo 448 de la Ley N° 26887, Ley General de
+Sociedades.
+En ningún caso puede aceptarse la presentación
+de la promesa de consorcio que fue parte de la
+oferta, independientemente de que dicha promesa
+contenga firmas legalizadas de sus integrantes
+ante notario público.
+c) Código de
+cuenta
+interbancaria
+(CCI) o, en el
+caso de
+proveedores
+no
+domiciliados,
+el número de
+cuenta
+bancaria y
+nombre de la
+entidad
+bancaria en el
+exterior.
+El CCI es requisito indispensable para realizar una
+transferencia entre cuentas de bancos diferentes,
+siendo requerido para efectuar el pago a los
+proveedores domiciliados en el Perú.
+Para los proveedores no domiciliados,
+corresponde el número de cuenta bancaria y
+nombre de la entidad bancaria en el exterior.
+Artículo 67 de la Ley.
+Literal c) del numeral
+88.1. del artículo 88 del
+Reglamento.
+d) Documento
+que acredite
+que cuenta
+con
+facultades
+para
+perfeccionar
+el contrato,
+cuando
+corresponda.
+Corresponde a la vigencia del poder del
+representante legal que acredite que cuenta con
+facultades para perfeccionar el contrato, en caso el
+postor sea persona jurídica. Adicionalmente, el
+representante legal presenta copia de su
+documento de identidad (DNI o carné de
+extranjería, según corresponda).
+En el caso de personas naturales, se solicita copia
+de su documento de identidad (DNI o carné de
+extranjería, según corresponda).
+En el caso de consorcios, estos documentos
+deben ser presentados por cada uno de los
+integrantes que suscribieron la promesa de
+consorcio, según corresponda. Asimismo, debe
+presentarse copia del documento de identidad
+(DNI o carné de extranjería, según corresponda)
+del representante común del consorcio.
+Literal d) del numeral
+88.1 del artículo 88 del
+Reglamento.
+
+===== PÁGINA 15 (footer ~13) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+13
+e) Institución
+Arbitral
+elegida del
+listado de
+instituciones
+arbitrales
+propuesto por
+la entidad
+contratante o
+propuesta de
+tres
+instituciones
+arbitrales del
+postor.
+Este requisito es obligatorio para todos los
+contratos que superen las 10 UIT
+5
+.
+Desde el 1 de enero de 2026, la institución arbitral
+elegida debe encontrarse inscrita en el Registro de
+Instituciones Arbitrales y Centros de
+Administración de Juntas de Prevención y
+Resolución de Disputas (REGAJU).
+Artículos 77, 83 y 84,
+así como la Décima
+Disposición
+Complementaria
+Transitoria de la Ley.
+Literal e) del numeral
+88.1. del artículo 88 del
+Reglamento.
+4.2 PERFECCIONAMIENTO DEL CONTRATO
+4.2.1. El postor ganador de la buena pro debe presentar los requisitos para perfeccionar el
+contrato dentro del plazo de ocho o cinco días hábiles, según corresponda, plazo que se
+contabiliza desde el día siguiente del registro del consentimiento de la buena pro en el
+SEACE de la Pladicop o desde que esta haya quedado administrativamente firme, de
+conformidad con los requisitos, plazos y procedimiento dispuestos en los artículos 88,
+89, 90 y 91 del Reglamento.
+4.2.2. El contrato se suscribe mediante firma digital, siempre que el postor ganador de la buena
+pro cuente con certificado digital emitido por una entidad de certificación, de acuerdo con
+la normativa de la materia; caso contrario, se suscribe manualmente.
+4.2.3. De conformidad con el numeral 87.3 del Reglamento, excepcionalmente, la entidad
+contratante puede sustentar la imposibilidad de suscribir el contrato mediante firma
+digital, supuesto en el cual la suscripción se realiza manualmente.
+4.3 CONSIDERACIONES PARA LOS CONSORCIOS
+4.3.1 Las garantías que presenten los consorcios para el perfeccionamiento del contrato
+durante la ejecución contractual y para la interposición de los recursos impugnativos,
+además de cumplir con las condiciones establecidas en la Ley y el Reglamento, deben
+consignar expresamente el nombre completo o la denominación o razón social de los
+integrantes del consorcio, en calidad de garantizados, de lo contrario no pueden ser
+aceptadas por las entidades contratantes o el Tribunal de Contrataciones Públicas. No
+se cumple el requisito antes indicado si se consigna únicamente la denominación del
+consorcio.
+4.3.2 La retención del 10% del monto del contrato original en calidad de garantía de fiel
+cumplimiento aplica cuando la cuantía adjudicada sea igual o menor a S/ 480 000,00
+(Cuatrocientos ochenta mil y 00/100 Soles). En el caso de micro o pequeñas empresas
+que hayan declarado en su oferta tal condición, no aplica dicho umbral, según lo
+señalado en el artículo 114 del Reglamento. En caso de consorcio, aplica dicha retención
+si todos sus integrantes declaran en su oferta la condición de micro o pequeña empresa.
+4.4 CONSIDERACIONES PARA LAS GARANTÍAS FINANCIERAS
+4.4.1 En caso de garantías financieras, estas deben ser incondicionales, solidarias,
+irrevocables y de realización automática en el país, al solo requerimiento de la respectiva
+entidad contratante bajo responsabilidad de las empresas que las emiten. Las empresas
+que emitan garantías financieras deben encontrarse bajo la supervisión directa de la
+Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de
+5 
+De conformidad con el numeral 84.1 del artículo 84 de la Ley, el arbitraje puede ser ad hoc solo en los casos en los que el
+monto de la controversia no supere las diez (10) UIT.
+
+===== PÁGINA 16 (footer ~14) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+14
+Pensiones, contar con clasificación de riesgo B o superior, y deben estar autorizadas
+para emitir garantías o estar consideradas en la última lista de bancos extranjeros de
+primera categoría que periódicamente publica el Banco Central de Reserva del Perú.
+4.4.2 La clasificadora de riesgo que asigna la clasificación a la empresa que emite la garantía
+debe encontrarse listada en el portal web de la SBS (http://www.sbs.gob.pe/sistema-
+financiero/clasificadoras-de-riesgo).
+4.4.3 Se debe identificar en la página web de la clasificadora de riesgo respectiva, cuál es la
+clasificación vigente de la empresa que emite la garantía, considerando la vigencia a la
+fecha de emisión de la garantía. Para fines de lo establecido en el artículo 61 de la Ley,
+se requiere la clasificación de riesgo B o superior.
+4.4.4 Si la empresa que otorga la garantía cuenta con más de una clasificación de riesgo
+emitida por distintas empresas listadas en la sede digital de la SBS, basta que en una de
+ellas cumpla con la clasificación mínima establecida en la Ley.
+4.4.5 En caso exista alguna duda sobre la clasificación de riesgo asignada a la empresa
+emisora de la garantía, se debe consultar a la clasificadora de riesgos respectiva.
+4.4.6 Además de cumplir con el requisito referido a la clasificación de riesgo, a efectos de
+verificar si la empresa emisora se encuentra autorizada por la SBS para emitir garantías,
+debe revisarse la sede digital de dicha entidad (http://www.sbs.gob.pe/sistema-
+financiero/relacion-de-empresas-que-se-encuentran-autorizadas-a-emitir-cartas-fianza).
+4.5 CONSIDERACIONES PARA LOS DOCUMENTOS EXTENDIDOS EN EL EXTRANJERO
+En el caso que los documentos requeridos para el perfeccionamiento del contrato incluyan
+documentos públicos extendidos en el exterior, que no les sea aplicable el Convenio de la
+Apostilla, se debe tener en cuenta que, de conformidad con lo previsto en el artículo 137 del
+Reglamento Consular del Perú, aprobado mediante Decreto Supremo N° 032-2023-RE
+6
+, para
+que estos surtan efectos legales en el Perú deben estar legalizados por los funcionarios
+consulares peruanos competentes, cuyas firmas deben ser autenticadas posteriormente por el
+área competente del órgano de línea consular, además de cumplir con los requisitos adicionales
+que contemple la legislación peruana para su validez en el Perú.
+Cuando se trate de documentos privados extendidos en el exterior, el funcionario consular sólo
+legaliza las firmas cuando hayan sido suscritas en su presencia o cuando conste de modo
+indubitable su autenticidad, verificando en ambos casos la identidad de los firmantes, conforme
+lo requiere el artículo 138 del citado Reglamento.
+4.6 DISPOSICIONES FINALES
+Todos los demás aspectos del presente procedimiento de selección no contemplados en las
+bases se rigen por la Ley y su Reglamento, así como por las disposiciones legales vigentes.
+6 
+Decreto Supremo que aprueba el Reglamento Consular del Perú y que modifica el Reglamento de la Ley del Servicio
+Diplomático de la República en lo que corresponde a los cargos de los funcionarios consulares.
+
+===== PÁGINA 17 (footer ~15) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+15
+SECCIÓN ESPECÍFICA
+CONDICIONES ESPECIALES DEL PROCEDIMIENTO DE
+SELECCIÓN
+(EN ESTA SECCIÓN LA ENTIDAD CONTRATANTE DEBE COMPLETAR LA INFORMACIÓN EXIGIDA, DE ACUERDO CON
+LAS INSTRUCCIONES INDICADAS)
+
+===== PÁGINA 18 (footer ~16) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+16
+CAPÍTULO I
+GENERALIDADES
+1.1. BASE LEGAL
+- Ley N° 32069, Ley General de Contrataciones Públicas.
+- Decreto Supremo N° 009-2025-EF, Decreto Supremo que aprueba el Reglamento de la Ley
+General de Contrataciones Públicas.
+- Ley de Presupuesto del Sector Público para el año fiscal 2026.
+- Ley de Equilibrio Financiero del Presupuesto del Sector Público del año fiscal 2026.
+Todas las normas a las que se hace referencia en las presentes bases incluyen sus respectivas
+modificaciones; asimismo, dichas referencias deben entenderse a las normas que las sustituyen,
+de ser el caso.
+1.2. ENTIDAD CONTRATANTE
+Nombre : MUNICIPALIDAD DISTRITAL DE SURQUILLO
+RUC Nº : 20131372346
+Domicilio legal : Jr. Manual Irribarren Nro. 155 Lima - Lima - Surquillo
+Teléfono : (01) 241-0413
+Correo electrónico : Especialista1.oa@munisurquillo.gob.pe
+1.3. OBJETO DE LA CONVOCATORIA
+El presente procedimiento de selección tiene por objeto la “CONTRATACION DEL SERVICIO
+PARA INTERNET DEDICADO, TRANSMISION DE DATOS, TELEFONIA IP, CORREO Y
+ALMACENAMIENTO CLOUD”.
+1.4. CUANTÍA DE LA CONTRATACIÓN
+En el presente procedimiento de selección, la entidad contratante ha determinado NO DAR A
+CONOCER LA CUANTÍA DE LA CONTRATACIÓN a los proveedores, de conformidad con lo
+dispuesto en el numeral 53.4 del artículo 53 del Reglamento.
+Advertencia
+• Para que un consorcio acceda al beneficio de la Ley N° 27037, todos los integrantes que figuran en la
+promesa de consorcio deben reunir las condiciones exigidas en dicha Ley, salvo cuando participen
+proveedores en consorcio con contabilidad independiente que se encuentre inscrito en el Registro
+Único de Contribuyentes (RUC).
+1.5. EXPEDIENTE DE CONTRATACIÓN
+El expediente de contratación fue aprobado el 27 de mayo del 2026.
+1.6. FUENTE DE FINANCIAMIENTO
+Recursos Directamente Recaudados.
+
+===== PÁGINA 19 (footer ~17) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+17
+CAPÍTULO II
+DEL PROCEDIMIENTO DE SELECCIÓN
+2.1. CRONOGRAMA DEL PROCEDIMIENTO DE SELECCIÓN
+Según el cronograma de la ficha de selección de la convocatoria publicada en el SEACE de la
+Pladicop.
+2.2. CONTENIDO DE LAS OFERTAS
+7
+Cada oferta contiene, un índice de documentos
+8 
+y la siguiente documentación:
+A. OFERTA TÉCNICA
+2.2.1. Documentación de presentación obligatoria
+2.2.1.1. Documentos para la admisión de la oferta
+Los evaluadores verifican la presentación de los documentos señalados en el presente
+acápite. De no cumplir con lo requerido, la oferta se considera no admitida. Los
+evaluadores no pueden incorporar documentos adicionales para la admisión de la
+oferta a los establecidos en este acápite.
+a) Declaración jurada de datos del postor. (Anexo Nº 1)
+b) Pacto de integridad. (Anexo N° 2)
+c) Documento que acredite la representación de quien suscribe la oferta.
+En caso de persona jurídica, copia del certificado de vigencia de poder del
+representante legal, apoderado o mandatario designado para tal efecto.
+En caso de persona natural, copia de su documento de identidad (DNI o carné de
+extranjería, según corresponda). Cuando la persona natural cuente con apoderado,
+copia del poder otorgado y copia de su documento de identidad (DNI o carné de
+extranjería, según corresponda).
+En el caso de consorcios, estos documentos deben ser presentados por cada uno
+de los integrantes del consorcio que suscriban la promesa de consorcio, según
+corresponda.
+Advertencia
+De acuerdo con el artículo 4 del Decreto Legislativo N° 1246, Decreto Legislativo que
+aprueba diversas medidas de simplificación administrativa, las entidades están prohibidas
+de exigir a los administrados o usuarios la información que puedan obtener directamente
+mediante la interoperabilidad a que se refieren los artículos 2 y 3 de dicho Decreto
+Legislativo. En esa medida, si la entidad contratante es usuaria de la Plataforma de
+Interoperabilidad del Estado – PIDE
+9 
+y siempre que el servicio web se encuentre activo en
+el Catálogo de Servicios de dicha plataforma, no corresponde exigir el certificado de vigencia
+de poder y/o documento nacional de identidad.
+7 
+De acuerdo con el “Manual de Usuario para Proveedores del Estado”, emitido por el OECE, actualmente los postores pueden
+presentar hasta 10 archivos en los formatos .doc, .docx, .xls, .xlsx, .pdf, .zip, .7z, .rar. (para documentos de texto, hojas de
+cálculo y carpetas comprimidas); ya sean archivos con firmas digitales y otros con firmas manuales, sin que se perjudique la
+validez de las firmas digitales. Para consultar el referido manual se puede ingresar a:
+https://www.gob.pe/institucion/oece/colecciones/66426-manuales-de-usuario-de-la-ley-n-32069-en-el-seace
+8 
+La omisión del índice no determina la no admisión de la oferta.
+9 
+Para mayor información de las Entidades usuarias y del Catálogo de Servicios de la Plataforma Nacional de Interoperabilidad
+– PIDE ingresar al siguiente enlace https://www.gob.pe/741-plataforma-nacional-de-interoperabilidad
+
+===== PÁGINA 20 (footer ~18) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+18
+d) Declaración jurada manifestando, entre otros aspectos, que el postor: (i) es
+responsable de la veracidad de los documentos e información de la oferta; y (ii) no se
+encuentra impedido para contratar con el Estado, de acuerdo con el artículo 33 de la
+Ley. (Anexo Nº 3)
+e) Promesa de consorcio con firmas digitales, o en su defecto, firmas legalizadas, de ser
+el caso, en la que se consigne los integrantes, el representante común, el domicilio
+común, el correo electrónico común y las obligaciones a las que se compromete cada
+uno de los integrantes del consorcio, así como el porcentaje equivalente a dichas
+obligaciones. (Anexo Nº 4)
+f) Documentación que acredite la desafectación del impedimento, en caso el proveedor
+al registrarse como participante hubiera presentado la Declaración Jurada de
+Desafectación del Impedimento (Anexo N° 5), de conformidad con el numeral 39.4
+del artículo 39 del Reglamento.
+Advertencia
+El requisito indicado en el literal f) únicamente se solicita al proveedor que al registrarse
+hubiera presentado la Declaración Jurada de Desafectación del Impedimento (Anexo N° 5).
+2.2.1.2. Documentos para acreditar los requisitos de calificación
+Incorporar en la oferta los documentos que acreditan los “Requisitos de Calificación”
+que se detallan en el numeral 3.5 del Capítulo III de la presente sección de las bases.
+Importante para la entidad contratante
+Se recuerda que la implementación de la Ficha Única del Proveedor (FUP) es progresiva.
+Asimismo, el Reglamento señala que el OECE informa mediante comunicado la implementación
+de los rubros de información que componen la FUP, así como la fecha a partir de la cual las
+entidades contratantes no pueden exigir la presentación a los proveedores de dicha
+documentación en los procedimientos de selección, debiendo verificarla directamente en la FUP.
+Esta nota debe ser eliminada una vez culminada la elaboración de las bases.
+2.2.2. Documentación de presentación facultativa
+2.2.2.1. Incorporar en la oferta los documentos que acreditan los “Factores de Evaluación”
+establecidos en el Capítulo IV de la presente sección de las bases, a efectos de obtener
+el puntaje previsto en dicho Capítulo para cada factor.
+2.2.2.2. En el caso de los proveedores con domicilio en la provincia donde se presta el servicio
+o en las provincias colindantes, sean o no pertenecientes al mismo departamento o
+región, estos presentan adicionalmente la “Solicitud de Bonificación del 10% sobre el
+puntaje total” (Anexo N° 16). El domicilio es el consignado en la constancia de
+inscripción ante el RNP.
+2.2.2.3. Solicitud de bonificación del cinco por ciento (5%) por tener la condición de micro y
+pequeña empresa (Anexo Nº 17).
+Advertencia
+Los evaluadores no pueden exigir al postor la presentación de documentos que no hayan sido
+indicados en los acápites “Documentos para la admisión de la oferta”, “Requisitos de
+calificación” y “Factores de evaluación”.
+Los evaluadores analizan si corresponde la aplicación de bonificaciones adicionales a las
+contempladas en las presentes bases, de acuerdo con lo establecido en la normativa
+aplicable, caso en el cual deben incorporar un formato para que los postores soliciten y
+acrediten, según corresponda, la aplicación de la bonificación de la que se trate.
+
+===== PÁGINA 21 (footer ~19) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+19
+B. OFERTA ECONÓMICA
+10
+a) La oferta económica se presenta empleando el Anexo N° 6. En caso el requerimiento
+contenga prestaciones accesorias, la oferta económica individualiza los montos
+correspondientes a las prestaciones principales y las prestaciones accesorias.
+En el caso de compras corporativas, los postores deben formular su oferta económica de
+manera individual por cada entidad contratante.
+Advertencia
+En caso la convocatoria se refiera a un contrato de contingencia de conformidad con el artículo
+284 del Reglamento, la entidad contratante debe definir y diseñar el anexo correspondiente al
+precio en función a la modalidad de pago elegida (por disponibilidad, por activación o mixta) para
+el contrato de contingencia.
+b) En el caso de los proveedores que gocen del beneficio de la exoneración del IGV previsto
+en la Ley Nº 27037, Ley de Promoción de la Inversión en la Amazonía, presentan
+adicionalmente una Declaración Jurada de cumplimiento de condiciones para la aplicación
+de la exoneración del IGV. (Anexo N° 13).
+2.3. REQUISITOS PARA PERFECCIONAR EL CONTRATO
+El postor ganador de la buena pro debe presentar los siguientes documentos para perfeccionar
+el contrato:
+a) Contrato de consorcio con firmas legalizadas ante notario público de cada uno de los
+integrantes, de ser el caso.
+b) Código de cuenta interbancaria (CCI) o, en el caso de proveedores no domiciliados, el
+número de su cuenta bancaria y nombre de la entidad bancaria en el exterior.
+c) Copia de la vigencia del poder del representante legal del postor que acredite que cuenta
+con facultades para perfeccionar el contrato, cuando corresponda.
+d) Copia de del documento de identidad (DNI o carné de extranjería, según corresponda) del postor,
+en caso de persona natural; o de su representante legal, en caso de persona jurídica; o de
+su representante común, en caso de consorcio.
+e) Autorización de notificaciones durante la ejecución contractual mediante correo electrónico.
+(Anexo Nº 9).
+f) Desglose del precio ofertado.
+g) Institución Arbitral elegida del listado de instituciones arbitrales propuesto por la entidad
+contratante o propuesta de tres instituciones arbitrales del postor (Anexo N° 10).
+Advertencia
+• La Institución Arbitral es elegida por el postor ganador de la buena pro del listado de
+instituciones arbitrales propuesta por la entidad contratante en las bases del procedimiento de
+selección o, en su defecto, es elegida por la entidad contratante del listado de Instituciones
+Arbitrales adicionales propuesto por el mismo postor. En este último supuesto, si la entidad
+contratante tampoco elige alguna de las Instituciones Arbitrales propuestas por el postor
+ganador de la buena pro, se consolida una lista de seis Instituciones Arbitrales y se realiza un
+sorteo, a través de la Pladicop, para definir dicha institución
+11
+.
+• Las partes pueden establecer estipulaciones adicionales o modificatorias al convenio arbitral,
+en la medida que no contravengan las disposiciones de la normativa de contrataciones públicas
+y/o las disposiciones especiales contenidas en la normativa general de arbitraje.
+10 
+La evaluación económica es posterior de conformidad con el artículo 94 del Reglamento.
+11 
+De acuerdo con el numeral 8 de la Decimotercera Disposición Complementaria Transitoria del Reglamento en tanto se
+implemente el sorteo en la Pladicop, la entidad contratante elige la Institución Arbitral de la lista consolidada de seis instituciones
+arbitrales, siendo esta la institución arbitral definitiva.
+
+===== PÁGINA 22 (footer ~20) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+20
+h) Declaración Jurada actualizada de Desafectación de Impedimento (Anexo N° 15) y la
+documentación que acredite dicha desafectación, de corresponder.
+Advertencia
+• El requisito indicado en el literal l) únicamente se solicita si el postor adjudicado hubiera
+presentado la Declaración Jurada de Desafectación del Impedimento en el procedimiento de
+selección.
+• De acuerdo con el artículo 4 del Decreto Legislativo N° 1246, las entidades contratantes están
+prohibidas de exigir a los administrados o usuarios la información que puedan obtener
+directamente mediante la interoperabilidad a que se refieren los artículos 2 y 3 de dicho Decreto
+Legislativo. En esa medida, si la entidad contratante es usuaria de la Plataforma de
+Interoperabilidad del Estado – PIDE
+12 
+y siempre que el servicio web se encuentre activo en el
+Catálogo de Servicios de dicha plataforma, no corresponde exigir copia de la vigencia del poder
+del representante legal del postor que acredite que cuenta con facultades para perfeccionar el
+contrato, cuando corresponda, ni la copia de DNI del postor en caso de persona natural o de
+su representante legal en caso de persona jurídica o de su representante común en caso de
+consorcio.
+• En caso el postor declare la inaplicabilidad del impedimento Tipo 4.D del inciso 4 del numeral
+30.1 del artículo 30 de la Ley, referido a las personas inscritas en el Registro de Deudores
+Alimentarios Morosos del Poder Judicial (REDAM) presenta la Declaración Jurada respectiva
+(Anexo N° 18)
+2.4. PERFECCIONAMIENTO DEL CONTRATO
+2.4.1 El contrato se perfecciona con la suscripción del documento que lo contiene. Para dicho efecto
+el postor ganador de la buena pro, dentro del plazo previsto en el artículo 90 del Reglamento,
+debe presentar la documentación requerida en la mesa de partes digital o física de la entidad
+contratante, en https://virtual.munisurquillo.gob.pe/nuevo o sito en Av. Manuel Irribarren 155,
+Surquillo 15047, Lima – Lima.
+2.4.2 El contrato firmado digitalmente se remite a la siguiente dirección electrónica:
+especialista2.oa@munisurquillo.gob.pe, en caso de no contar con firma digital, la suscripción del
+contrato se realiza en la Oficina de Abastecimiento, sito en Av. Manuel Irribarren 155, Surquillo
+15047, Lima – Lima.
+Advertencia
+En caso se verifique en la Pladicop que el proveedor tiene multas impagas impuestas en el marco de lo
+previsto en el artículo 89 de la Ley que no se encuentran en procedimiento coactivo, se incorpora al contrato
+una cláusula de compromiso de pago de la multa, estableciéndose que durante su ejecución la entidad
+contratante retiene de forma prorrateada hasta el 10% del monto del contrato para el pago o amortización de
+dichas multas.
+2.5 FORMA DE PAGO
+El pago se realiza de conformidad con lo establecido en el artículo 67 de la Ley.
+La entidad contratante paga las contraprestaciones pactadas a favor del contratista dentro de los
+diez días hábiles siguientes de otorgada la conformidad por parte del área usuaria y es
+prorrogable, previa justificación de la demora, por cinco días hábiles.
+En el caso que se haya suscrito contrato con un consorcio, el pago se realiza, a quien
+corresponda, de acuerdo con lo que se indique en el contrato de consorcio.
+La entidad contratante realiza el pago de la contraprestación pactada a favor del contratista en
+PAGOS A CUENTA, según la facturación mensual.
+Para efectos del pago de las contraprestaciones ejecutadas por el contratista, la entidad
+12 
+Para mayor información de las entidades usuarias y del Catálogo de Servicios de la Plataforma de Interoperabilidad del Estado
+– PIDE ingresar al siguiente enlace https://www.gob.pe/741-plataforma-nacional-de-interoperabilidad
+
+===== PÁGINA 23 (footer ~21) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+21
+contratante debe contar con la siguiente documentación:
+• Documento en el que conste la conformidad de la prestación efectuada suscrita por el
+servidor responsable de la Oficina General de Gobierno Electrónico y Digital de la
+Municipalidad Distrital de Surquillo.
+• Comprobante de pago.
+• Presentación de Informe técnico digital mensual.
+• Para los meses correspondientes al cierre de trimestre, se deberá adjuntar adicionalmente
+el Informe Trimestral de Postura de Seguridad debidamente aprobado por el área usuaria.
+Salvo los documentos de conformidad, el contratista debe presentar la documentación restante
+en la mesa de parte de la entidad, sito en Av. Manuel Irribarren 155, Surquillo 15047, Lima –
+Lima.
+
+===== PÁGINA 24 (footer ~22) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+22
+CAPÍTULO III
+REQUERIMIENTO
+
+===== PÁGINA 25 (footer ~23) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+23
+
+===== PÁGINA 26 (footer ~24) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+24
+
+===== PÁGINA 27 (footer ~25) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+25
+
+===== PÁGINA 28 (footer ~26) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+26
+
+===== PÁGINA 29 (footer ~27) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+27
+
+===== PÁGINA 30 (footer ~28) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+28
+
+===== PÁGINA 31 (footer ~29) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+29
+
+===== PÁGINA 32 (footer ~30) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+30
+
+===== PÁGINA 33 (footer ~31) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+31
+
+===== PÁGINA 34 (footer ~32) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+32
+
+===== PÁGINA 35 (footer ~33) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+33
+
+===== PÁGINA 36 (footer ~34) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+34
+
+===== PÁGINA 37 (footer ~35) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+35
+
+===== PÁGINA 38 (footer ~36) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+36
+
+===== PÁGINA 39 (footer ~37) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+37
+
+===== PÁGINA 40 (footer ~38) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+38
+
+===== PÁGINA 41 (footer ~39) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+39
+
+===== PÁGINA 42 (footer ~40) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+40
+
+===== PÁGINA 43 (footer ~41) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+41
+
+===== PÁGINA 44 (footer ~42) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+42
+
+===== PÁGINA 45 (footer ~43) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+43
+
+===== PÁGINA 46 (footer ~44) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+44
+3.5 REQUISITOS DE CALIFICACIÓN
+3.5.1. REQUISITOS DE CALIFICACIÓN OBLIGATORIOS
+A. CAPACIDAD LEGAL
+Requisitos:
+• Contar con la Concesión Única vigente para la prestación de Servicios Públicos de
+Telecomunicaciones, otorgada por el Ministerio de Transportes y Comunicaciones
+(MTC), adjuntando copia del contrato de concesión respectivo y su inscripción en
+el registro de servicios.
+• Certificado de Inscripción en el Registro de Empresas Prestadoras de Servicio de
+Valor Añadido.
+• Constancia NAP Perú a nombre del postor.
+Acreditación:
+Copia simple de la siguiente documentación:
+• Contar con la Concesión Única vigente para la prestación de Servicios Públicos de
+Telecomunicaciones, otorgada por el Ministerio de Transportes y Comunicaciones
+(MTC), adjuntando copia del contrato de concesión respectivo y su inscripción en
+el registro de servicios.
+• Certificado de Inscripción en el Registro de Empresas Prestadoras de Servicio de
+Valor Añadido.
+• Constancia NAP Perú a nombre del postor.
+Advertencia
+En el caso de consorcios, cada integrante del consorcio que se hubiera comprometido a ejecutar
+las obligaciones vinculadas directamente al objeto de la convocatoria debe acreditar este
+requisito.
+B. EXPERIENCIA DEL POSTOR EN LA ESPECIALIDAD
+Requisitos:
+El postor debe acreditar un monto facturado acumulado equivalente a S/ 150,000.00
+(Ciento cincuenta mil con 00/100 Soles), por la contratación de servicios iguales o similares
+al objeto de la convocatoria, durante los quince años anteriores a la fecha de la
+presentación de ofertas que se computa desde la fecha de la conformidad o emisión del
+comprobante de pago, según corresponda.
+En el caso de postores que declaren en el Anexo N° 1 tener la condición de micro y pequeña
+empresa, se acredita una experiencia de S/ 33,000.00 (Treinta y tres mil con 00/100 Soles),
+por la contratación de servicios iguales o similares al objeto de la convocatoria, durante los
+quince años anteriores a la fecha de la presentación de ofertas que se computa desde la
+fecha de la conformidad o emisión del comprobante de pago, según corresponda. En el
+caso de consorcios, todos los integrantes deben contar con la condición de micro y
+pequeña empresa.
+Se consideran servicios similares a los siguientes: SERVICIOS DE INTERNET E
+INTERCONECCION DE DATOS Y/O SERVICIOS DE INTERNET Y/O SERVICIOS DE
+DATOS DE ENLACE DE FIBRA OPTICA Y/O SERVICIOS DE INTERNET DEDICADO Y
+TRANSMISION DE DATOS Y/O SERVICIOS DE SEGURIDAD PERIMETRAL
+GESTIONADA.
+
+===== PÁGINA 47 (footer ~45) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+45
+Acreditación:
+La experiencia del postor en la especialidad se acredita con un máximo de veinte (20)
+contrataciones, mediante copia simple de: (i) contratos u órdenes de servicios, y su
+respectiva conformidad o constancia de prestación; o (ii) comprobantes de pago cuya
+cancelación se acredite documental y fehacientemente, con constancia de depósito, nota
+de abono, reporte de estado de cuenta, cualquier otro documento emitido por entidad del
+sistema financiero que acredite el abono o mediante cancelación en el mismo comprobante
+de pago
+13
+, o comprobantes de retención electrónico emitido por SUNAT por la retención del
+IGV 
+14 
+. En caso el postor sustente su experiencia en la especialidad mediante
+contrataciones realizadas con privados 
+15 
+, para acreditarla debe presentar de forma
+obligatoria lo indicado en el numeral (ii) del presente párrafo; no es posible que acredite su
+experiencia únicamente con la presentación de contratos u órdenes de servicio con
+conformidad o constancia de prestación.
+En caso los postores presenten varios comprobantes de pago para acreditar una sola
+contratación, se debe acreditar que corresponden a dicha contratación; de lo contrario, se
+asumirá que los comprobantes acreditan contrataciones independientes, en cuyo caso solo
+se considerará, para la evaluación, las veinte (20) primeras contrataciones indicadas en el
+Anexo Nº 11 referido a la Experiencia del Postor en la Especialidad.
+En el caso de servicios de ejecución periódica o continuada, solo se considera como
+experiencia la parte del contrato que haya sido ejecutada durante los quince años
+anteriores a la fecha de presentación de ofertas, debiendo adjuntarse copia de las
+conformidades correspondientes a tal parte o los respectivos comprobantes de pago
+cancelados.
+Si el titular de la experiencia no es el postor, consignar si dicha experiencia corresponde a
+la matriz en caso de que el postor sea sucursal, o fue transmitida por reorganización
+societaria, debiendo acompañar la documentación sustentatoria correspondiente.
+Si el postor acredita experiencia de otra persona jurídica como consecuencia de una
+reorganización societaria, debe presentar adicionalmente el Anexo N° 14.
+Las personas jurídicas resultantes de un proceso de reorganización societaria no pueden
+acreditar como experiencia del postor en la especialidad aquella que le hubieran
+transmitido como parte de dicha reorganización las personas jurídicas sancionadas con
+inhabilitación vigente o definitiva.
+Cuando en los contratos, órdenes de servicios o comprobantes de pago el monto facturado
+se encuentre expresado en moneda extranjera, debe indicarse el tipo de cambio venta
+publicado por la Superintendencia de Banca, Seguros y AFP correspondiente a la fecha de
+suscripción del contrato, de emisión de la orden de servicio o de cancelación del
+comprobante de pago, según corresponda.
+Sin perjuicio de lo anterior, los postores deben llenar y presentar el Anexo Nº 11 referido a
+la Experiencia del Postor en la Especialidad.
+Advertencia
+En el caso de consorcios, solo se considera la experiencia de aquellos integrantes que ejecutan
+conjuntamente el objeto del contrato.
+13 
+El solo sello de cancelado en el comprobante de pago, cuando ha sido colocado por el propio postor, no puede ser considerado
+como una acreditación fehaciente de la cancelación. Es válido el sello colocado por el cliente del postor (sea utilizando el
+término “cancelado” o “pagado”).
+14 
+De acuerdo con el Régimen de Retenciones del Impuesto General a las Ventas (IGV).
+15 
+Se entiende “privados” como aquellos que no son entidades contratantes.
+
+===== PÁGINA 48 (footer ~46) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+46
+3.5.2. REQUISITOS DE CALIFICACIÓN ADICIONALES
+C. CAPACIDAD TÉCNICA Y PROFESIONAL
+C.2. CALIFICACIONES DEL PERSONAL CLAVE
+C.2.1 FORMACIÓN ACADÉMICA
+Advertencia
+Como requisito de calificación solo puede consignarse “grado de bachiller” o “título profesional”,
+según el perfil del personal clave definido por el área usuaria considerando, entre otros aspectos,
+la normativa que resulte aplicable.
+Requisitos:
+JEFE DE PROYECTO: Ingeniero de Sistemas o Ingeniero Informático o Ingeniero
+Electrónico o Ingeniero de Telecomunicaciones
+Acreditación:
+El postor debe señalar los nombres y apellidos, documento de identidad, el nombre de la
+universidad o institución educativa que expidió el grado de título profesional, y el grado o
+título profesional obtenido en el Anexo N° 19, adjuntando en su oferta copia del grado de
+bachiller o título profesional. En caso se acredite estudios en el extranjero del personal
+clave, debe presentarse, adicionalmente, copia simple de la revalidación o reconocimiento
+del grado o título ante la SUNEDU.
+Los evaluadores o la DEC, según corresponda, verifican los grados o títulos profesionales
+en el Registro Nacional de Grados Académicos y Títulos Profesionales de la
+Superintendencia Nacional de Educación Superior Universitaria – SUNEDU, a través del
+siguiente link: https://enlinea.sunedu.gob.pe/ o en el Registro Nacional de Certificados,
+Grados y Títulos del Ministerio de Educación, a través del siguiente link:
+https://titulosinstitutos.minedu.gob.pe/ según corresponda.
+C.4. INFRAESTRUCTURA ESTRATÉGICA
+Requisitos:
+El proveedor deberá contar con un Centro de Operaciones de Red (NOC) y un Centro de
+Operaciones de Seguridad (SOC) propios de la empresa (no tercerizados ni rentados), los
+cuales deberán contar con soporte local en el Perú (24x7x365).
+Acreditación:
+Copia simple de los documentos que sustenten la propiedad, la posesión, el compromiso
+de compraventa o alquiler, u otro documento que acredite la disponibilidad de la
+infraestructura estratégica requerida para la ejecución del contrato.
+Advertencia
+En el caso que el postor sea un consorcio los documentos de acreditación de este requisito pueden
+estar a nombre del consorcio o de uno de sus integrantes.
+
+===== PÁGINA 49 (footer ~47) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+47
+D. PARTICIPACIÓN EN CONSORCIO
+
+===== PÁGINA 50 (footer ~48) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+48
+CAPÍTULO IV
+EVALUACIÓN DE OFERTAS
+Los factores de evaluación son determinados por los evaluadores. En la contratación de
+servicios en general, la evaluación de la oferta consiste en i) Evaluación Técnica y ii) Evaluación
+Económica.
+La evaluación económica de la oferta es posterior a la evaluación técnica de acuerdo con el artículo
+94 del Reglamento. El puntaje máximo de cada una de estas evaluaciones es equivalente a cien
+puntos.
+Para determinar la oferta con el mejor puntaje y el orden de prelación de las ofertas, se considera
+lo siguiente:
+4.1. EVALUACIÓN TÉCNICA
+La evaluación técnica se realiza sobre cien puntos. Para acceder a la etapa de evaluación
+económica, el postor debe obtener un puntaje técnico mínimo de setenta puntos.
+4.1.2. FACTORES DE EVALUACIÓN FACULTATIVOS
+B. SOSTENIBILIDAD AMBIENTAL PUNTAJE / METODOLOGÍA PARA SU
+ASIGNACIÓN
+Evaluación:
+Se evaluará que el postor cuente con una
+o más prácticas de sostenibilidad
+ambiental.
+En caso de consorcios, los integrantes que
+realizan actividades relacionadas al objeto
+del contrato acreditan alguna(s) de las
+prácticas relacionadas a la sostenibilidad
+ambiental.
+Certificación que acredite que se ha
+implementado un sistema de gestión ambiental
+acorde con el estándar ISO 14001 o su
+equivalente. El referido certificado debe
+corresponder a la sede, filial u oficina a cargo
+de la prestación
+16
+, y estar vigente
+17 
+a la fecha
+de presentación de ofertas.
+Acreditación:
+Certificación que acredite que se ha
+implementado un sistema de gestión ambiental
+acorde con el estándar ISO 14001 o su
+equivalente. El referido certificado debe
+corresponder a la sede, filial u oficina a cargo
+de la prestación
+18
+, y estar vigente
+19 
+a la fecha
+de presentación de ofertas.
+20 puntos
+Acredita una (1) de las prácticas de
+sostenibilidad ambiental.
+20 puntos
+No acredita ninguna práctica en sostenibilidad
+ambiental.
+0 puntos
+16 
+En el certificado debe estar consignada la dirección exacta de la sede, filial u oficina a cargo de la prestación.
+17 
+Se refiere al periodo de vigencia que señala el certificado presentado.
+18 
+En el certificado debe estar consignada la dirección exacta de la sede, filial u oficina a cargo de la prestación.
+19 
+Se refiere al periodo de vigencia que señala el certificado presentado.
+
+===== PÁGINA 51 (footer ~49) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+49
+C. INTEGRIDAD EN LA CONTRATACIÓN
+PÚBLICA
+PUNTAJE / METODOLOGÍA PARA SU
+ASIGNACIÓN
+Evaluación:
+Se evaluará que el postor cuente con
+certificación del sistema de gestión
+antisoborno.
+Acreditación:
+Copia simple del certificado que acredita que se
+ha implementado un sistema de gestión
+antisoborno acorde con la norma ISO
+37001:2025 o con la Norma Técnica Peruana
+equivalente (NTP-ISO 37001).
+El certificado debe haber sido emitido por un
+Organismo de Certificación acreditado para
+dicho sistema de gestión, ya sea ante el
+INACAL u otro organismo acreditador que
+cuente con reconocimiento internacional.
+20
+El referido certificado debe corresponder a la
+sede, filial u oficina a cargo de la prestación
+21
+, y
+estar vigente
+22 
+a la fecha de presentación de
+ofertas.
+En caso de que el postor se presente en
+consorcio, cada uno de sus integrantes, debe
+acreditar que cuenta con la certificación para
+obtener el puntaje.
+40 puntos
+Presenta Certificado ISO 37001
+40 puntos
+No presenta Certificado ISO 37001
+0 puntos
+D. SISTEMA DE GESTIÓN DE LA CALIDAD PUNTAJE / METODOLOGÍA
+PARA SU ASIGNACIÓN
+Evaluación:
+Se evalúa que el postor cuente con un sistema de gestión de
+la calidad certificado
+23 
+acorde con ISO 9001:2015
+24 
+o Norma
+Técnica Peruana equivalente (NTP-ISO 9001:2015), cuyo
+alcance o campo de aplicación del certificado considere el
+SERVICIO DE INTERNET.
+25
+40 puntos
+Presenta Certificado ISO 9001:2015:
+40 puntos
+No presenta Certificado ISO
+9001:2015:
+20 
+Sea firmante/signatario del Acuerdo de Reconocimiento Mutuo (MLA) del International Accreditation Forum-IAF
+(http://www.iaf.nu) o del InterAmerican Accreditation Cooperation-IAAC (http://www.iaac.org.mx) o Acuerdo de
+Reconocimiento Mutuo (MRA) del International Laboratory Accreditation Cooperation - ILAC (https://ilac.org/) o del European
+co-operation for Accreditation-EA (http://www.european-accreditation.org/) o del Asia Pacific Accreditation Cooperation-
+APAC (https://www.apac-accreditation.org/).
+21 
+En el certificado debe estar consignada la dirección exacta de la sede, filial u oficina a cargo de la prestación.
+22 
+Se refiere al periodo de vigencia que señala el certificado presentado.
+23 
+La Certificación implica que un organismo de certificación independiente garantiza la conformidad de los productos/
+servicios/procesos o sistemas de una organización, frente a los requisitos de una norma establecida.
+24 
+Entre las certificaciones más difundidas mundialmente, y que es aplicable a todas las organizaciones independientemente
+de su actividad o sector, referidas a la implementación de un sistema de gestión de la calidad, se encuentra la correspondiente
+a la norma internacional ISO 9001, propuesto por la Organización Internacional para la Estandarización (ISO). La certificación
+de la norma ISO 9001 confirma que una organización ha demostrado mediante una evaluación (Auditoría de Tercera Parte)
+la implementación de un Sistema de Gestión de la Calidad, y con ello su capacidad para proporcionar regularmente productos
+o servicios que satisfagan los requisitos de esa Norma Internacional, del cliente y los legales y reglamentarios aplicables, así
+como su compromiso por aumentar la satisfacción del cliente a través de la aplicación eficaz y mejora continua del sistema.
+25 
+Respecto de la definición del alcance o campo de aplicación del certificado, en función al objeto de contratación, se describe
+a manera de ejemplo, el caso de la contratación del servicios de limpieza (donde además, por la particularidad del servicio,
+
+===== PÁGINA 52 (footer ~50) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+50
+Acreditación:
+Mediante la presentación de copia simple de certificado oficial
+emitido por un Organismo de Certificación acreditado para
+dicho Sistema de Gestión, ya sea ante el INACAL (antes
+INDECOPI) u otro organismo acreditador que cuente con
+reconocimiento internacional
+26
+. El referido certificado debe
+estar a nombre del postor
+27 
+y corresponder a la sede, filial u
+oficina a cargo de la prestación
+28
+, y estar vigente
+29 
+a la fecha
+de presentación de ofertas.
+En caso de que el postor se presente en consorcio, cada uno
+de sus integrantes que vaya a ejecutar las actividades
+relacionadas al alcance del certificado, debe acreditar que
+cuenta con la certificación para obtener el puntaje.
+0 puntos
+CUADRO RESUMEN FACTORES DE EVALUACIÓN
+FACTORES DE EVALUACIÓN FACULTATIVOS PUNTAJE
+E. SOSTENIBILIDAD AMBIENTAL 20 puntos
+F. INTEGRIDAD EN LA CONTRATACIÓN PÚBLICA 40 puntos
+J. SISTEMA DE GESTIÓN DE LA CALIDAD 40 puntos
+PUNTAJE TOTAL 100 puntos
+30
+4.2. EVALUACIÓN ECONÓMICA (Puntaje Máximo: 100 Puntos)
+OFERTA ECONÓMICA PUNTAJE / METODOLOGÍA PARA SU ASIGNACIÓN
+Evaluación:
+Se evalúa considerando el precio
+ofertado por el postor.
+Acreditación:
+Se acredita mediante el
+La evaluación consiste en otorgar el mayor puntaje a la oferta
+del menor monto ofertado y otorgar a las demás ofertas
+puntajes inversamente proporcionales a sus respectivos
+montos ofertados, según la siguiente fórmula:
+Po = Mb x Pmax
+Mo
+es importante tomar en cuenta el ámbito geográfico), donde se pueden considerar términos como: “limpieza de instalaciones
+en la ciudad de…”, “limpieza de centros educativos en las ciudades de…”, “limpieza de edificaciones en la provincia de…”,
+“limpieza de ambientes hospitalarios en el departamento de…”, “limpieza de centros educativos en la Región de…”, “limpieza
+de instalaciones a nivel nacional”, entre otros.
+26 
+Sea firmante del Acuerdo de Reconocimiento Mutuo de ILAC (International Accreditation Cooperation) o del IAAC (Inter
+American Accreditation Cooperation).
+27 
+En caso de que el postor se presente en consorcio, para obtener el puntaje respectivo, todos sus integrantes deben acreditar
+que cuentan con las certificaciones vigentes con el alcance requerido, siempre que, de acuerdo con la promesa de consorcio,
+se hubieran comprometido a ejecutar obligaciones vinculadas directamente al objeto de la convocatoria.
+28 
+En el certificado debe estar consignada la dirección exacta de la sede, filial u oficina a cargo de la prestación.
+29 
+Se refiere al periodo de vigencia que señala el certificado presentado.
+30 
+Es la suma de los puntajes de todos los factores de evaluación.
+
+===== PÁGINA 53 (footer ~51) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+51
+documento que contiene el precio
+de la oferta (Anexo N° 6). Po = Puntaje de la oferta económica a evaluar
+Mo = Monto de la oferta económica
+Mb = Monto de la oferta económica más baja
+Pmax = Puntaje máximo
+[PUNTAJE MÁXIMO EQUIVALENTE A 100
+PUNTOS]
+31 
+puntos
+4.3. PUNTAJE TOTAL
+El puntaje total de las ofertas es el promedio ponderado de la evaluación técnica y la evaluación
+económica, aplicándose la siguiente fórmula:
+PTP =
+C1
+PT+
+C2
+Pe
+Donde:
+PTP = Puntaje total del postor a evaluar
+Pt = Puntaje de la evaluación técnica del postor a
+evaluar
+Pe = Puntaje de la evaluación económica del postor a
+evaluar
+C1 
+= Coeficiente de ponderación para la evaluación
+técnica: 0.70
+C2 
+= Coeficiente de ponderación para la evaluación
+económica: 0.30
+Donde: c1 + c2 = 1.00
+31 
+De acuerdo con lo señalado en el numeral 75.2 del artículo 75 del Reglamento.
+
+===== PÁGINA 54 (footer ~52) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+52
+CAPÍTULO V
+PROFORMA DEL CONTRATO
+Advertencia
+• De resultar indispensable, puede incluirse cláusulas adicionales o adecuarse las propuestas en el
+presente documento, pero en ningún caso pueden contemplarse disposiciones contrarias a la normativa
+vigente ni a lo señalado en este capítulo.
+• En caso el objeto de la convocatoria corresponda al ASISTE, la entidad contratante puede modificar y/o
+adicionar las cláusulas correspondientes conforme a las disposiciones del Subcapítulo 6 del Capítulo III
+del Reglamento.
+Conste por el presente documento, la contratación de [CONSIGNAR LA DENOMINACIÓN DE LA
+CONVOCATORIA] que celebra de una parte [CONSIGNAR EL NOMBRE DE LA ENTIDAD
+CONTRATANTE], en adelante LA ENTIDAD CONTRATANTE, con RUC Nº [………], con domicilio
+legal en [………], representada por [………..…], identificado con DNI Nº [………], y de otra parte
+[……………….....................], con RUC Nº [................], con domicilio legal en
+[……………….....................], inscrita en la Partida Registral N° [……………….........] Asiento N°
+[……….......] del Registro de Personas Jurídicas de la ciudad de [………………], debidamente
+representado por su Representante Legal, [……………….....................], con [CONSIGNAR DNI O
+CARNÉ DE EXTRANJERÍA, SEGÚN CORRESPONDA] N° [………………..], según poder inscrito
+en la Partida Registral N° […………..], Asiento N° […………] del Registro de Personas Jurídicas de
+la ciudad de […………], a quien en adelante se le denominará EL CONTRATISTA en los términos y
+condiciones siguientes:
+CLÁUSULA PRIMERA: ANTECEDENTES
+Con fecha [………………..], los evaluadores adjudicaron la buena pro del CONCURSO PÚBLICO
+ABREVIADO DE SERVICIOS Nº [CONSIGNAR NOMENCLATURA DEL PROCEDIMIENTO DE
+SELECCIÓN] para la contratación de [CONSIGNAR LA DENOMINACIÓN DE LA
+CONVOCATORIA], a [INDICAR NOMBRE DEL GANADOR DE LA BUENA PRO], cuyos detalles
+e importe constan en los documentos integrantes del presente contrato.
+CLÁUSULA SEGUNDA: OBJETO
+El presente contrato tiene por objeto [CONSIGNAR EL OBJETO DE LA CONTRATACIÓN].
+CLÁUSULA TERCERA: MONTO CONTRACTUAL
+El monto total del presente contrato asciende a la suma de [CONSIGNAR MONEDA Y MONTO],
+que incluye todos los impuestos de Ley.
+Este monto comprende el costo total del servicio, incluyendo, de ser aplicable, todos los impuestos,
+seguros, transporte, inspecciones, pruebas y, de ser el caso, los costos laborales conforme a la
+legislación vigente, así como cualquier otro concepto que pueda tener incidencia sobre la ejecución
+del servicio materia del presente contrato.
+CLÁUSULA CUARTA: DEL PAGO
+32
+LA ENTIDAD CONTRATANTE se obliga a pagar la contraprestación a EL CONTRATISTA en
+[INDICAR MONEDA], en [INDICAR EL DETALLE DEL PAGO ÚNICO O PAGOS A CUENTA,
+SEGÚN CORRESPONDA], luego de la recepción formal y completa de la documentación
+correspondiente, según lo establecido en el artículo 144 del Reglamento de la Ley N° 32069, Ley
+General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+Para tal efecto, el responsable de otorgar la conformidad de la prestación debe hacerlo en un plazo
+que no excederá de los siete días contabilizados desde el día siguiente de recibido el entregable,
+32 
+En cada caso concreto, dependiendo de la naturaleza del contrato, puede adicionarse la información que resulte pertinente a
+efectos de generar el pago.
+
+===== PÁGINA 55 (footer ~53) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+53
+salvo que se requiera efectuar pruebas que permitan verificar el cumplimiento de la obligación, en
+cuyo caso la conformidad se emite en un plazo máximo de veinte días, bajo responsabilidad de
+dicho servidor.
+LA ENTIDAD CONTRATANTE debe efectuar el pago dentro de los diez días hábiles siguientes de
+otorgada la conformidad de los servicios, siempre que se verifiquen las condiciones establecidas
+en el contrato para ello, bajo responsabilidad del servidor competente.
+En caso de retraso en el pago por parte de LA ENTIDAD CONTRATANTE, salvo que se deba a
+caso fortuito o fuerza mayor, EL CONTRATISTA tiene derecho al pago de intereses legales
+conforme a lo establecido en el artículo 67 de la Ley N° 32069, Ley General de Contrataciones
+Públicas.
+Importante para la entidad contratante
+• En caso de que la ENTIDAD CONTRATANTE verifique en la Pladicop que el CONTRATISTA tiene multas
+impagas que no se encuentren en procedimiento coactivo, se debe incluir la siguiente cláusula:
+CLÁUSULA [...]: COMPROMISO DE PAGO DE MULTA
+Durante la ejecución del contrato la ENTIDAD CONTRATANTE retiene al CONTRATISTA de forma
+prorrateada desde el primer o único pago que se realice, según corresponda, hasta el 10% del monto del
+contrato, para el pago o amortización de multas impagas impuestas en el marco de lo previsto en el artículo
+89 de la Ley N° 32069, que no se encuentran en procedimiento coactivo.
+• En el caso que, adicionalmente, el proveedor presente la DECLARACIÓN JURADA SOBRE
+INAPLICACIÓN DEL IMPEDIMENTO TIPO 4.D DEL INCISO 4 DEL NUMERAL 30.1 DEL ARTÍCULO 30
+DE LA LEY N° 32069 REFERIDO A LA INSCRIPCIÓN EN EL REGISTRO DE DEUDORES
+ALIMENTARIOS MOROSOS – REDAM que autoriza descuento para el pago de deuda alimentaria, se
+debe indicar la siguiente cláusula:
+CLÁUSULA [...]: AUTORIZACIÓN DE DESCUENTO DE PENSIÓN ALIMENTARIA
+EL CONTRATISTA autoriza que se le descuente del pago de su contraprestación el monto de la pensión
+mensual fijada en el proceso de alimentos ascendiente a [CONSIGNAR MONTO] seguido por
+[CONSIGNAR LOS DATOS DE LA PARTE DEMANDANTE DEL PROCESO DE ALIMENTOS] ante el
+[CONSIGNAR LOS DATOS DE IDENTIFICACIÓN DEL JUZGADO CORRESPONDIENTE] en el trámite
+del expediente [CONSIGNAR EL NÚMERO DE EXPEDIENTE JUDICIAL].
+Esta nota debe ser eliminada una vez culminada la elaboración de las bases.
+CLÁUSULA QUINTA: DEL PLAZO DE LA EJECUCIÓN DE LA PRESTACIÓN
+El plazo de ejecución del presente contrato es de […], el mismo que se computa desde
+[CONSIGNAR SI CORRESPONDE DESDE EL DÍA SIGUIENTE DEL PERFECCIONAMIENTO
+DEL CONTRATO, O DESDE LA NOTIFICACIÓN DE LA ORDEN DE SERVICIO O DESDE LA
+FECHA QUE SE ESTABLEZCA EN EL CONTRATO O DESDE LA FECHA EN QUE SE
+CUMPLAN LAS CONDICIONES PREVISTAS EN EL CONTRATO PARA EL INICIO DE LA
+EJECUCIÓN, DEBIENDO INDICAR LAS MISMAS EN ESTE ULTIMO CASO].
+Importante para la entidad contratante
+• De preverse en los Términos de Referencia la ejecución de actividades de instalación, implementación u
+otros que deban realizarse de manera previa al inicio del plazo de ejecución, se debe consignar lo siguiente:
+“El plazo para la [CONSIGNAR LAS ACTIVIDADES PREVIAS PREVISTAS EN LOS TÉRMINOS DE
+REFERENCIA] es de [……...…], el mismo que se computa desde [INDICAR CONDICIÓN CON LA QUE
+DICHAS ACTIVIDADES SE INICIAN].”
+• En el caso de contratación de prestaciones accesorias, se puede incluir la siguiente cláusula:
+
+===== PÁGINA 56 (footer ~54) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+54
+CLÁUSULA […]: PRESTACIONES ACCESORIAS
+33
+“Las prestaciones accesorias tienen por objeto [CONSIGNAR EL OBJETO DE LAS PRESTACIONES
+ACCESORIAS].
+El monto de las prestaciones accesorias asciende a [CONSIGNAR MONEDA Y MONTO EN NÚMEROS Y
+LETRAS], que incluye todos los impuestos de ley.
+El plazo de ejecución de las prestaciones accesorias es de [……..], el mismo que se computa desde
+[CONSIGNAR SI ES DEL DÍA SIGUIENTE DEL CUMPLIMIENTO DE LAS PRESTACIONES
+PRINCIPALES, DESDE LA FECHA QUE SE ESTABLEZCA EN EL CONTRATO O DESDE LA FECHA
+EN QUE SE CUMPLAN LAS CONDICIONES PREVISTAS EN EL CONTRATO PARA EL INICIO DE LA
+EJECUCIÓN DE LAS PRESTACIONES ACCESORIAS, DEBIENDO INDICAR LAS MISMAS EN ESTE
+ULTIMO CASO].
+[DE SER EL CASO, INCLUIR OTROS ASPECTOS RELACIONADOS A LA EJECUCIÓN DE LAS
+PRESTACIONES ACCESORIAS].”
+• En caso de contratos de contingencia utilizados de acuerdo con el artículo 285 del Reglamento se
+incluyen obligatoriamente las siguientes clausulas:
+CLÁUSULA […]: CONDICIÓN O EVENTO FUTURO QUE ACTIVA LA EJECUCIÓN DEL CONTRATO
+La activación de la ejecución del contrato se produce cuando [CONSIGNAR EL EVENTO FUTURO E
+INCIERTO QUE CONDICIONA LA EJECUCIÓN DEL CONTRATO, DE ACUERDO CON EL ARTÍCULO
+284 DEL REGLAMENTO]
+CLÁUSULA […]: MECANISMOS DE ACTIVACIÓN DE PROTOCOLO, CONTROL, SEGUIMIENTO Y
+EVALUACIÓN
+Los mecanismos de activación (protocolo), control, seguimiento y evaluación de la ejecución contractual
+son [CONSIGNAR LOS REFERIDOS MECANISMOS CONFORME LO SEÑALADO EN EL
+REQUERIMIENTO Y LA OFERTA GANADORA]
+En caso de contratos de contingencia en las que se aplique la modalidad de pago “pago por disponibilidad”
+de acuerdo con el artículo 285 del Reglamento, se incluye obligatoriamente la siguiente cláusula:
+CLÁUSULA […]: CONDICIONES DE AMPLIACIÓN DE PLAZO DEL CONTRATO
+Al culminar el plazo del contrato sin que se haya activado la ejecución del contrato, las partes acuerdan las
+siguientes condiciones para ampliar el plazo contractual por un periodo adicional: [CONSIGNAR LAS
+CONDICIONES ACORDADAS]
+Esta nota debe ser eliminada una vez culminada la elaboración de las bases.
+CLÁUSULA SEXTA: PARTES INTEGRANTES DEL CONTRATO
+El presente contrato está conformado por las bases integradas, la oferta ganadora, así como los
+documentos derivados del procedimiento de selección que establezcan obligaciones para las
+partes, incluyendo las modificaciones contractuales y adendas aprobadas por la entidad
+contratante, de ser el caso.
+CLÁUSULA SÉTIMA: GARANTÍAS
+EL CONTRATISTA entregó al perfeccionamiento del contrato la respectiva garantía incondicional,
+solidaria, irrevocable, y de realización automática en el país al solo requerimiento, a favor de LA
+ENTIDAD CONTRATANTE, por los conceptos, montos y vigencias siguientes:
+• Garantía de fiel cumplimiento del contrato: Por la suma de [CONSIGNAR EL MONTO], a
+través de la [INDICAR EL MECANISMO DE GARANTÍA PRESENTADO: CONTRATO DE
+SEGURO/CARTA FIANZA FINANCIERA/RETENCIÓN DE PAGO/DECLARACIÓN JURADA
+DE CONSTITUCIÓN DE FIDEICOMISO]] N° [INDICAR NÚMERO DEL DOCUMENTO]
+33 
+Los contratos relativos al cumplimiento de la(s) prestación(es) principal(es) y de la(s) prestación(es) accesoria(s), pueden estar
+contenidos en uno o dos documentos. En el supuesto que ambas prestaciones estén contenidas en un mismo documento,
+estas deben estar claramente diferenciadas, debiendo indicarse, entre otros aspectos, el precio y plazo de cada prestación.
+
+===== PÁGINA 57 (footer ~55) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+55
+emitida por [SEÑALAR EMPRESA QUE LA EMITE], la misma que debe mantenerse vigente
+hasta la conformidad de la prestación. El monto señalado es equivalente al diez por ciento
+(10%) del monto del contrato original.
+Importante para la entidad contratante
+Sólo en el caso que el requerimiento incluya prestaciones accesorias, se debe incluir la siguiente
+cláusula:
+• “Garantía fiel cumplimiento por prestaciones accesorias: Por la suma de [CONSIGNAR EL
+MONTO], a través de la [INDICAR EL MECANISMO DE GARANTÍA PRESENTADA: CONTRATO
+DE SEGURO/CARTA FIANZA FINANCIERA/RETENCIÓN DE PAGO]. N° [INDICAR NÚMERO
+DEL DOCUMENTO] emitida por [SEÑALAR EMPRESA QUE LA EMITE]. El monto que es
+equivalente al 10% del monto contractual de la prestación accesoria, y que debe mantenerse vigente
+hasta el cumplimiento total de las obligaciones garantizadas.”
+Esta nota debe ser eliminada una vez culminada la elaboración de las bases.
+CLÁUSULA OCTAVA: EJECUCIÓN DE GARANTÍAS POR FALTA DE RENOVACIÓN
+LA ENTIDAD CONTRATANTE puede solicitar la ejecución de las garantías cuando EL
+CONTRATISTA no las hubiere renovado antes de la fecha de su vencimiento, conforme a lo
+dispuesto en el literal a) del numeral 118.2 del artículo 118 del Reglamento de la Ley N° 32069, Ley
+General de Contrataciones Públicas, aprobado mediante Decreto Supremo N° 009-2025-EF.
+Importante para la entidad contratante
+Sólo en el caso que la entidad contratante hubiese previsto en el requerimiento otorgar adelanto directo en
+el caso de servicios que lo requieran por condiciones de mercado conforme lo sustentado en la estrategia
+de contratación, se debe incluir la siguiente cláusula:
+CLÁUSULA […]: ADELANTO DIRECTO
+“LA ENTIDAD CONTRATANTE otorga [CONSIGNAR NÚMERO DE ADELANTOS A OTORGARSE]
+adelantos directos por el [CONSIGNAR PORCENTAJE QUE NO DEBE EXCEDER DEL 30% DEL MONTO
+DEL CONTRATO ORIGINAL] del monto del contrato original.
+EL CONTRATISTA debe solicitar los adelantos dentro de [CONSIGNAR EL PLAZO Y OPORTUNIDAD
+PARA LA SOLICITUD SEGÚN LAS BASES], adjuntando a su solicitud la garantía por adelantos
+acompañada del comprobante de pago correspondiente. Vencido dicho plazo no procede la solicitud.
+LA ENTIDAD CONTRATANTE debe entregar el monto solicitado dentro de [CONSIGNAR EL PLAZO
+SEGÚN LAS BASES] siguientes a la presentación de la solicitud del contratista.”
+Esta nota debe ser eliminada una vez culminada la elaboración de las bases.
+CLÁUSULA NOVENA: CONFORMIDAD DE LA PRESTACIÓN
+La conformidad de la prestación se regula por lo dispuesto en el artículo 144 del Reglamento de la
+Ley N° 32069, Ley General de Contrataciones Públicas, aprobado mediante Decreto Supremo N°
+009-2025-EF. La conformidad es otorgada por [CONSIGNAR EL ÁREA O UNIDAD ORGÁNICA
+QUE OTORGA LA CONFORMIDAD] en el plazo máximo de [CONSIGNAR SIETE (07) DÍAS O
+MÁXIMO VEINTE (20) DÍAS, EN CASO SE REQUIERA EFECTUAR PRUEBAS QUE PERMITAN
+VERIFICAR EL CUMPLIMIENTO DE LA OBLIGACIÓN] días computados desde el día siguiente
+de producida la recepción.
+De existir observaciones, LA ENTIDAD CONTRATANTE las comunica al CONTRATISTA,
+indicando claramente el sentido de estas, otorgándole un plazo para subsanar [CONSIGNAR EL
+PLAZO EL CUAL NO DEBE SER MAYOR AL 30% DEL PLAZO DEL ENTREGABLE 
+34
+CORRESPONDIENTE, DEPENDIENDO DE LA COMPLEJIDAD O SOFISTICACIÓN DE LAS
+34 
+En caso de que el plazo obtenido como resultado de la aplicación del porcentaje sea una cifra decimal, corresponde que la
+entidad contratante efectúe el redondeo a favor del contratista, computándose como un día completo adicional en dicho
+supuesto.
+
+===== PÁGINA 58 (footer ~56) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+56
+SUBSANACIONES A REALIZAR]. Si pese al plazo otorgado, EL CONTRATISTA no cumpliese a
+cabalidad con la subsanación, LA ENTIDAD CONTRATANTE puede otorgar al CONTRATISTA
+periodos adicionales para las correcciones pertinentes. En este supuesto corresponde aplicar la
+penalidad por mora desde el vencimiento del plazo para subsanar sin considerar los días en los
+que pudiera incurrir la entidad contratante para efectuar las revisiones y notificar las observaciones
+correspondientes.
+Este procedimiento no resulta aplicable cuando los servicios manifiestamente no cumplan con las
+características y condiciones ofrecidas, en cuyo caso LA ENTIDAD CONTRATANTE no efectúa la
+recepción o no otorga la conformidad, según corresponda, debiendo considerarse como no
+ejecutada la prestación, aplicándose la penalidad que corresponda por cada día de atraso.
+CLÁUSULA DÉCIMA: GESTIÓN DE RIESGOS
+LAS PARTES realizan la gestión de riesgos de acuerdo con lo establecido en el presente contrato
+y los documentos que lo conforman, a fin de tomar decisiones informadas, aprovechando el impacto
+de las oportunidades y disminuyendo la probabilidad de las amenazas durante la ejecución
+contractual, considerando la finalidad pública de la contratación.
+CLÁUSULA DECIMOPRIMERA: RESPONSABILIDAD POR VICIOS OCULTOS
+La recepción conforme de la prestación por parte de LA ENTIDAD CONTRATANTE no enerva su
+derecho a reclamar posteriormente por defectos o vicios ocultos, conforme a lo dispuesto por los
+artículos 69 de la Ley N° 32069, Ley General de Contrataciones Públicas, y el artículo 144 de su
+Reglamento, aprobado por Decreto Supremo N° 009-2025-EF.
+El plazo máximo de responsabilidad del CONTRATISTA es de [CONSIGNAR TIEMPO EN AÑOS,
+NO MENOR DE UN (1) AÑO] año(s) contado a partir de la conformidad otorgada por LA ENTIDAD
+CONTRATANTE.
+CLÁUSULA DECIMOSEGUNDA: PENALIDADES
+Si EL CONTRATISTA incurre en retraso injustificado en la ejecución de las prestaciones objeto del
+contrato, LA ENTIDAD CONTRATANTE le aplica automáticamente una penalidad por mora por
+cada día de atraso, de acuerdo con la siguiente fórmula:
+Penalidad Diaria = 
+0.10 x monto
+F x plazo
+Donde:
+F = 0.40
+El retraso se justifica a través de la solicitud de ampliación de plazo debidamente aprobado.
+Adicionalmente, se considera justificado el retraso y en consecuencia no se aplica penalidad,
+cuando EL CONTRATISTA acredite, de modo objetivamente sustentado, que el mayor tiempo
+transcurrido no le resulta imputable. En este último caso la calificación del retraso como justificado
+por parte de LA ENTIDAD CONTRATANTE no da lugar al pago de gastos generales ni costos
+directos de ningún tipo, conforme el numeral 120.4 del artículo 120 del Reglamento de la Ley N°
+32069, Ley General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+Importante para la entidad contratante
+En caso se haya incluido otras penalidades, se agrega el siguiente párrafo:
+“Adicionalmente a la penalidad por mora se aplicarán las siguientes penalidades:
+Otras penalidades
+
+===== PÁGINA 59 (footer ~57) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+57
+N° Supuesto de aplicación de
+penalidad
+Forma de cálculo Procedimiento de
+verificación
+1 [RELLENAR ESTE CUADRO SEGÚN
+EL NUMERAL 3.3 DEL CAPÍTULO III
+REQUERIMIENTO DE LA SECCIÓN
+ESPECÍFICA DE LAS BASES]
+2
+La suma de la aplicación de estos dos tipos de penalidades no debe exceder el 10% del monto vigente del
+contrato, o de ser el caso, del ítem correspondiente.
+La entidad contratante considera las particularidades de las otras penalidades y señala el plazo y forma en
+que se notifica al contratista el supuesto incurrido para que remita sus descargos, de corresponder. En
+dicho caso, también se debe precisar el plazo en que la entidad contratante evalúa dicho descargo y emite
+una decisión.
+Esta nota debe ser eliminada una vez culminada la elaboración de las bases.
+Las penalidades se deducen de los pagos a cuenta, pagos parciales o del pago final, según
+corresponda; o si fuera necesario, se cobra del monto resultante de la ejecución de la garantía de
+fiel cumplimiento.
+Cuando se llegue a cubrir el monto máximo de la aplicación de la penalidad por mora o el monto
+máximo para otras penalidades, de ser el caso, LA ENTIDAD CONTRATANTE puede resolver el
+contrato por incumplimiento.
+CLÁUSULA DECIMOTERCERA: RESOLUCIÓN DEL CONTRATO
+Cualquiera de las partes puede resolver el contrato, de conformidad con el numeral 68.1 del artículo
+68 de la Ley N° 32069, Ley General de Contrataciones Públicas.
+De encontrarse en alguno de los supuestos de resolución del contrato, LAS PARTES proceden de
+acuerdo con lo establecido en el artículo 122 del Reglamento de la Ley N° 32069, Ley General de
+Contrataciones Públicas, aprobado mediante Decreto Supremo N° 009-2025-EF.
+Importante para la entidad contratante
+Sólo en el caso que la entidad contratante hubiese previsto durante la estrategia de contratación, la aplicación
+de la figura de resolución por terminación anticipada se debe incluir la siguiente cláusula:
+“CLÁUSULA […]: RESOLUCIÓN POR TERMINACIÓN ANTICIPADA
+Las partes acuerdan la resolución por terminación anticipada del contrato cuando el resultado de algún hito
+impida o haga innecesaria la continuidad del siguiente, sin que resulte atribuible a alguna de las partes, de
+acuerdo con lo previsto en el artículo 121 del Reglamento de la Ley N° 32069, Ley General de Contrataciones
+Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+Los hitos del contrato son [INCLUIR EL DETALLE DE LOS HITOS DEL CONTRATO]
+Para el caso de contratos de contingencia con modalidad de pago por disponibilidad se incluye la siguiente
+cláusula:
+“CLÁUSULA [...]: RESOLUCIÓN POR TERMINACIÓN ANTICIPADA
+Las partes acuerdan la resolución por terminación anticipada del contrato en caso la entidad verifique que el
+contratista incumple con mantener [INDICAR EL INCUMPLIMIENTO DETERMINADO EN LOS TERMINOS
+DE REFERENCIA, YA SEA LA ROTACIÓN, STOCK O CAPACIDAD DE RESPUESTA, SEGÚN
+CORRESPONDA AL OBJETO CONTRACTUAL]”, de acuerdo con lo previsto en el literal d) del artículo 285
+del Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas, aprobado por Decreto Supremo
+N° 009-2025-EF.
+Esta nota debe ser eliminada una vez culminada la elaboración de las bases.
+CLÁUSULA DECIMOCUARTA: RESPONSABILIDAD DE LAS PARTES
+Cuando se resuelva el contrato por causas imputables a algunas de las partes, se debe resarcir los
+
+===== PÁGINA 60 (footer ~58) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+58
+daños y perjuicios ocasionados, a través de la indemnización correspondiente. Ello no obsta la
+aplicación de las sanciones administrativas, penales y pecuniarias a que dicho incumplimiento diere
+lugar, en el caso que éstas correspondan.
+Lo señalado precedentemente no exime a ninguna de las partes del cumplimiento de las demás
+obligaciones previstas en el presente contrato.
+CLÁUSULA DECIMOQUINTA: ANTICORRUPCIÓN Y ANTISOBORNO
+A la suscripción de este contrato, EL CONTRATISTA declara y garantiza no haber ofrecido,
+negociado, prometido o efectuado ningún pago o entrega de cualquier beneficio o incentivo ilegal,
+de manera directa o indirecta, a los evaluadores del proceso de contratación o cualquier servidor
+de la entidad contratante.
+Asimismo, EL CONTRATISTA se obliga a mantener una conducta proba e íntegra durante la
+vigencia del contrato, y después de culminado el mismo en caso existan controversias pendientes
+de resolver, lo que supone actuar con probidad, sin cometer actos ilícitos, directa o indirectamente.
+Aunado a ello, EL CONTRATISTA se obliga a abstenerse de ofrecer, negociar, prometer o dar
+regalos, cortesías, invitaciones, donativos o cualquier beneficio o incentivo ilegal, directa o
+indirectamente, a funcionarios públicos, servidores públicos, locadores de servicios o proveedores
+de servicios del área usuaria, de la dependencia encargada de la contratación, actores del proceso
+de contratación
+35 
+y/o cualquier servidor de la entidad contratante, con la finalidad de obtener alguna
+ventaja indebida o beneficio ilícito. En esa línea, se obliga a adoptar las medidas técnicas,
+organizativas y/o de personal necesarias para asegurar que no se practiquen los actos previamente
+señalados.
+Adicionalmente, EL CONTRATISTA se compromete a denunciar oportunamente ante las
+autoridades competentes los actos de corrupción o de inconducta funcional de los cuales tuviera
+conocimiento durante la ejecución del contrato con LA ENTIDAD CONTRATANTE.
+Tratándose de una persona jurídica, lo anterior se extiende a sus accionistas, participacionistas,
+integrantes de los órganos de administración, apoderados, representantes legales, funcionarios,
+asesores o cualquier persona vinculada a la persona jurídica que representa; comprometiéndose a
+informarles sobre los alcances de las obligaciones asumidas en virtud del presente contrato.
+Finalmente, el incumplimiento de las obligaciones establecidas en esta cláusula, durante la
+ejecución contractual, otorga a LA ENTIDAD CONTRATANTE el derecho de resolver total o
+parcialmente el contrato
+36
+. Cuando lo anterior se produzca por parte de un proveedor adjudicatario
+de los catálogos electrónicos de acuerdo marco, el incumplimiento de la presente cláusula
+conllevará que sea excluido de los Catálogos Electrónicos de Acuerdo Marco
+37
+. En ningún caso,
+dichas medidas impiden el inicio de las acciones civiles, penales y administrativas a que hubiera
+lugar
+38
+.
+CLÁUSULA DECIMOSEXTA: MARCO LEGAL DEL CONTRATO
+El marco legal comprende la Ley N° 32069, Ley General de Contrataciones Públicas y su
+Reglamento, aprobado por Decreto Supremo N° 009-2025-EF, las directivas que emita la Dirección
+General de Abastecimiento del Ministerio de Economía y Finanzas, así como el OECE, PERÚ
+COMPRAS y demás normativa especial que resulte aplicable.
+35 
+De acuerdo con el Artículo 9 de la Ley N°32069, Ley General de Contrataciones Públicas.
+36 
+De acuerdo con el Literal d) del Numeral 68.1 del Artículo 68 de la Ley N°32069, Ley General de Contrataciones Públicas.
+37 
+De acuerdo con el Literal d) del artículo 274 del Reglamento de la Ley N°32069, Ley General de Contrataciones Públicas
+38 
+De acuerdo con el Numeral 122.6 del artículo 122 del Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas,
+aprobado por Decreto Supremo N° 009-2025-EF.
+
+===== PÁGINA 61 (footer ~59) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+59
+CLÁUSULA DECIMOSÉPTIMA: SOLUCIÓN DE CONTROVERSIAS
+39
+Las controversias que surjan entre las partes durante la ejecución del contrato se resuelven
+mediante [CONSIGNAR EL MECANISMO DE SOLUCIÓN DE CONTROVERSIAS], según el
+acuerdo de las partes.
+Cualquiera de las partes tiene derecho a iniciar el arbitraje a fin de resolver dichas controversias
+dentro del plazo de caducidad previsto en la Ley N° 32069, Ley General de Contrataciones Públicas
+y su Reglamento, aprobado por Decreto Supremo N° 009-2025-EF.
+Importante para la entidad contratante
+En caso de haberse pactado la conciliación como medio de solución de controversias, previo al inicio del
+arbitraje, debe incorporarse el siguiente texto:
+“Cualquiera de las partes tiene el derecho a solicitar una conciliación dentro del plazo de caducidad
+correspondiente, según lo señalado en el artículo 82 de la Ley N° 32069, Ley General de Contrataciones
+Públicas, sin perjuicio de recurrir al arbitraje, en caso no se llegue a un acuerdo entre ambas partes o se llegue
+a un acuerdo parcial. Las controversias sobre nulidad del contrato solo pueden ser sometidas a arbitraje”.
+Esta nota debe ser eliminada una vez culminada la elaboración de las bases.
+El Laudo arbitral emitido es inapelable, definitivo y obligatorio para las partes desde el momento de
+su notificación, según lo previsto en el numeral 84.9 del artículo 84 de la Ley N° 32069, Ley General
+de Contrataciones Públicas.
+CLÁUSULA DECIMOCTAVA: CONVENIO ARBITRAL
+Las partes acuerdan que todo litigio y controversia resultante de este contrato o relativo a éste, se
+resuelve mediante arbitraje de acuerdo con los artículos 332 y 333 del Reglamento de la Ley N°
+32069, Ley General de Contrataciones Públicas, aprobado mediante Decreto Supremo N° 009-
+2025-EF. El arbitraje es organizado y administrado por [CONSIGNAR LA INSTITUCIÓN
+ARBITRAL, CORTE ARBITRAL CONSTITUÍDA EN OTRO PAÍS O UN FORO DE REPUTACIÓN
+RECONOCIDA INTERNACIONALMENTE, SEGÚN CORRESPONDA] de conformidad con sus
+reglamentos y estatutos vigentes, a los cuales las partes se someten libremente y considerando
+[INDICAR LAS ESTIPULACIONES ADICIONALES QUE LAS PARTES HAYAN ACORDADO
+SEGÚN EL NUMERAL 332.3 DEL ARTÍCULO 332 DEL REGLAMENTO DE LA LEY N° 32069,
+LEY GENERAL DE CONTRATACIONES PÚBLICAS, APROBADO POR DECRETO SUPREMO
+N° 009-2025-EF].
+Advertencia
+De conformidad con el numeral 332.2 del artículo 332 del Reglamento de la Ley N° 32069, Ley General de
+Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF, la Institución Arbitral es elegida
+por el postor ganador de la buena pro del listado de instituciones arbitrales propuesta por la entidad
+contratante en las bases del procedimiento de selección o, en su defecto, es elegida por la entidad
+contratante del listado de Instituciones Arbitrales adicionales propuesto por el mismo postor. En este último
+supuesto, si la entidad contratante tampoco elige alguna de las Instituciones Arbitrales propuestas por el
+postor ganador de la buena pro, se consolida una lista de seis Instituciones Arbitrales y se realiza un sorteo,
+a través de la Pladicop, para definir dicha institución
+40
+.
+Las partes pueden establecer estipulaciones adicionales o modificatorias del convenio arbitral, en la medida
+que no contravengan las disposiciones de la normativa de contrataciones públicas y/o las disposiciones
+especiales contenidas en la normativa general de arbitraje.
+El arbitraje es resuelto por árbitro único o por un tribunal arbitral conformado por tres árbitros, según el
+acuerdo de las partes, conforme a lo dispuesto en numeral 84.2 del artículo 84 de la Ley N°32069, Ley
+39 
+De acuerdo con el numeral 84.1 del artículo 84 de la Ley N° 32069 Ley General de Contrataciones Públicas, las partes pueden
+recurrir al arbitraje ad hoc solo cuando el monto de la controversia no supere las (10) diez UIT.
+40 
+De acuerdo con el numeral 8 de la Decimotercera Disposición Complementaria Transitoria del Reglamento de la Ley N° 32069,
+Ley General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF, en tanto se implemente el sorteo
+en la Pladicop, la entidad contratante elige la Institución Arbitral de la lista consolidada de seis instituciones arbitrales, siendo
+esta la institución arbitral definitiva.
+
+===== PÁGINA 62 (footer ~60) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+60
+General de Contrataciones Públicas. En caso de duda o falta de acuerdo, el arbitraje es resuelto por árbitro
+único, a no ser que la complejidad o cuantía de las controversias justifique la conformación de un tribunal
+arbitral, lo cual es determinado por las partes o conforme al Reglamento de la institución arbitral competente.
+En el caso de los arbitrajes ad hoc, la controversia es resuelta por arbitro único.
+CLÁUSULA DECIMONOVENA: FACULTAD DE ELEVAR A ESCRITURA PÚBLICA
+Cualquiera de las partes puede elevar el presente contrato a Escritura Pública corriendo con todos
+los gastos que demande esta formalidad.
+CLÁUSULA VIGÉSIMA: NOTIFICACIONES DURANTE LA EJECUCIÓN CONTRACTUAL
+Las partes declaran el siguiente domicilio para efecto de las notificaciones que se realicen vía
+notarial conforme a la Decimotercera Disposición Complementaria Transitoria del Reglamento de la
+Ley N° 32069, Ley General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+DOMICILIO DE LA ENTIDAD CONTRATANTE: [...........................]
+DOMICILIO DEL CONTRATISTA: [CONSIGNAR EL DOMICILIO SEÑALADO POR EL POSTOR
+GANADOR DE LA BUENA PRO AL PRESENTAR LOS REQUISITOS PARA EL
+PERFECCIONAMIENTO DEL CONTRATO]
+La variación del domicilio aquí declarado de alguna de las partes debe ser comunicada a la otra
+parte, formalmente y por escrito, con una anticipación no menor de quince días calendario.
+El CONTRATISTA señala el siguiente correo electrónico para efectos de las notificaciones que se
+realicen durante la ejecución del presente contrato, que no se realicen a través del SEACE de la
+Pladicop:
+CORREO ELECTRÓNICO CONTRATISTA: [CONSIGNAR EL CORREO ELECTRÓNICO
+SEÑALADO POR EL POSTOR GANADOR DE LA BUENA PRO AL PRESENTAR LOS
+REQUISITOS PARA EL PERFECCIONAMIENTO DEL CONTRATO]
+La variación del correo electrónico aquí declarado debe ser comunicada a la entidad contratante,
+formalmente y por escrito, con una anticipación no menor de cinco días calendario.
+De acuerdo con las bases integradas, la oferta y las disposiciones del presente contrato, las partes
+lo firman por duplicado en señal de conformidad en la ciudad de [................] al [CONSIGNAR
+FECHA].
+“LA ENTIDAD CONTRATANTE” “EL CONTRATISTA”
+Advertencia
+• El contrato se suscribe mediante firma digital, siempre que el postor ganador de la buena pro cuente
+con certificado digital emitido por una entidad de certificación, de acuerdo con la normativa de la materia;
+caso contrario, se suscribe manualmente.
+• De conformidad con el numeral 87.3 del artículo 87 del Reglamento de la Ley N° 32069, Ley General
+de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF, excepcionalmente, la
+entidad contratante puede sustentar la imposibilidad de suscribir el contrato mediante firma digital,
+supuesto en el cual la suscripción se realiza manualmente.
+
+===== PÁGINA 63 (footer ~61) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+61
+ANEXOS
+
+===== PÁGINA 64 (footer ~62) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+62
+ANEXO Nº 1
+DECLARACIÓN JURADA DE DATOS DEL POSTOR
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que suscribe, [……………..], postor o representante Legal de [CONSIGNAR SEGÚN
+CORRESPONDA], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE IDENTIDAD] N°
+[CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], con poder inscrito en la Sede Registral
+de [CONSIGNAR EN CASO DE SER PERSONA JURÍDICA] en la Partida Registral Nº [CONSIGNAR
+EN CASO DE SER PERSONA JURÍDICA] Asiento Nº [CONSIGNAR EN CASO DE SER PERSONA
+JURÍDICA], DECLARO BAJO JURAMENTO que la siguiente información se sujeta a la verdad:
+Nombre, Denominación o
+Razón Social:
+Domicilio Legal:
+RUC: Teléfono(s):
+MYPE
+41 
+SI ( ) NO ( )
+Correo electrónico:
+Autorización de notificación por correo electrónico:
+Autorizo que se notifiquen al correo electrónico indicado las siguientes actuaciones:
+1. Solicitud de la descripción detallada de todos los elementos que componen la oferta.
+2. Solicitud de negociación regulado en el artículo 132 del Reglamento de la Ley N° 32069, Ley
+General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+3. Solicitud de subsanación de los requisitos para perfeccionar el contrato.
+4. Solicitud para presentar los documentos para perfeccionar el contrato, según orden de prelación,
+de conformidad con lo previsto en el numeral 91.3 del artículo 91 del Reglamento de la Ley N°
+32069, Ley General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+5. Respuesta a la solicitud de acceso al expediente de contratación.
+6. Notificación de la orden de servicio, de ser el caso.
+[CONSIGNAR CIUDAD Y FECHA]
+……...........................................................
+Firma, nombres y apellidos del postor o
+representante legal, según corresponda
+Advertencia
+La notificación dirigida a la dirección de correo electrónico consignada en esta declaración jurada se entiende
+válidamente efectuada al día hábil siguiente de su realización, de conformidad con la Decimotercera
+Disposición Complementaria Transitoria del Reglamento.
+41 
+Esta información es verificada por la entidad contratante en la página web del Ministerio de Trabajo y Promoción del Empleo,
+en la sección consulta de empresas acreditadas en el REMYPE del siguiente link: http://www2.trabajo.gob.pe/servicios-en-
+linea-2-2/
+
+===== PÁGINA 65 (footer ~63) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+63
+Advertencia
+Cuando se trate de consorcios, la declaración jurada es la siguiente:
+ANEXO Nº 1
+DECLARACIÓN JURADA DE DATOS DEL POSTOR EN CONSORCIO
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que suscribe, [……………..], representante común del consorcio [CONSIGNAR EL NOMBRE DEL
+CONSORCIO], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE IDENTIDAD] N°
+[CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], DECLARO BAJO JURAMENTO que la
+siguiente información se sujeta a la verdad:
+Datos del consorciado 1
+Nombre, Denominación o
+Razón Social:
+Domicilio Legal:
+RUC: Teléfono(s):
+MYPE
+42 
+Sí No
+Correo electrónico:
+Datos del consorciado 2
+Nombre, Denominación o
+Razón Social:
+Domicilio Legal:
+RUC: Teléfono(s):
+MYPE
+43 
+Sí No
+Correo electrónico:
+Datos del consorciado 3
+Nombre, Denominación o
+Razón Social :
+Domicilio Legal:
+RUC: Teléfono(s):
+MYPE
+44 
+Sí No
+Correo electrónico:
+Autorización de notificación por correo electrónico:
+Correo electrónico común del consorcio:
+Autorizo que se notifiquen al correo electrónico indicado las siguientes actuaciones:
+42 
+Esta información será verificada por la entidad contratante en la página web del Ministerio de Trabajo y Promoción del Empleo
+en la sección consulta de empresas acreditadas en el REMYPE en el link: http://www2.trabajo.gob.pe/servicios-en-linea-2-2/
+y se tendrá en consideración, en caso el consorcio ganador de la buena pro solicite la retención del diez por ciento (10%) del
+monto del contrato, en calidad de garantía de fiel cumplimiento, según lo señalado en el artículo 114, del Reglamento. Para
+dicho efecto, todos los integrantes del consorcio deben acreditar la condición de micro o pequeña empresa.
+43 
+Ibídem.
+44 
+Ibídem.
+
+===== PÁGINA 66 (footer ~64) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+64
+1. Solicitud de la descripción detallada de todos los elementos que componen la oferta.
+2. Solicitud de negociación regulado en el artículo 132 del Reglamento de la Ley N° 32069, Ley
+General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+3. Solicitud de subsanación de los requisitos para perfeccionar el contrato.
+4. Solicitud para presentar los documentos para perfeccionar el contrato, según orden de prelación,
+de conformidad con lo previsto en el numeral 91.3 del artículo 91 del Reglamento de la Ley N°
+32069, Ley General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+5. Respuesta a la solicitud de acceso al expediente de contratación.
+6. Notificación de la orden de servicio, de ser el caso.
+[CONSIGNAR CIUDAD Y FECHA]
+……….……...........................................................
+Firma, nombres y apellidos del representante
+común del consorcio
+Advertencia
+La notificación dirigida a la dirección de correo electrónico consignada en esta declaración jurada se entiende
+válidamente efectuada al día hábil siguiente de su realización, de conformidad con la Decimotercera
+Disposición Complementaria Transitoria del Reglamento.
+
+===== PÁGINA 67 (footer ~65) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+65
+ANEXO N° 2
+PACTO DE INTEGRIDAD
+45
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que suscribe, [……………..], postor o representante legal de [CONSIGNAR SEGÚN
+CORRESPONDA], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE IDENTIDAD] N°
+[CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], con poder inscrito en la Sede Registral
+de [CONSIGNAR EN CASO DE SER PERSONA JURÍDICA] en la Partida Registral Nº [CONSIGNAR
+EN CASO DE SER PERSONA JURÍDICA] Asiento Nº [CONSIGNAR EN CASO DE SER PERSONA
+JURÍDICA], en su calidad de proveedor en el ámbito de aplicación de la normativa de contratación
+pública, suscribo el presente Pacto de Integridad bajo los siguientes términos y condiciones:
+PRIMERO: Declaro, bajo juramento:
+1. Que conozco los impedimentos para ser participante, postor, contratista o subcontratista,
+establecidos en el artículo 30 de la Ley N° 32069, Ley General de Contrataciones Públicas.
+2. Que los recursos que componen mi patrimonio o el patrimonio de la persona jurídica a la que
+represento no provienen de lavado de activos, narcotráfico, minería ilegal, financiamiento del
+terrorismo, y/o de cualquier actividad ilícita.
+3. Que conozco la obligación de denunciar cualquier acto de corrupción cometido por los actores
+del proceso de contratación, así como las medidas de protección que le asisten a los
+denunciantes 
+46 
+; además de las consecuencias administrativas y legales que de estos se
+derivan.
+4. Que conozco el alcance de la Ley N° 28024, Ley que regula la gestión de intereses en la
+administración pública y su reglamento, aprobado por Decreto Supremo N° 120-2019-PCM, así
+como el marco de aplicación de la Ley N° 31564, Ley de prevención y mitigación del conflicto
+de intereses en el acceso y salida de personal del servicio público, y su reglamento aprobado
+por Decreto Supremo N° 082-2023-PCM
+47
+.
+5. Que conozco el alcance de la cláusula anticorrupción y antisoborno de los contratos suscritos
+en el marco del proceso de contratación y las consecuencias derivadas de su incumplimiento
+48
+.
+SEGUNDO: Dentro de ese marco, asumo los siguientes compromisos:
+45 
+De conformidad con el literal b del numeral 69.1 del artículo 69 y el numeral 57 del Anexo I Definiciones del Reglamento de
+la Ley N° 32069, Ley General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+46 
+Decreto Legislativo N° 1327, Decreto Legislativo que establece medidas de protección para el denunciante de actos de
+corrupción y sanciona las denuncias realizadas de mala fe, y su Reglamento aprobado por Decreto Supremo N.° 010-2017-
+JUS, modificado por Decreto Supremo N° 002-2020-JUS, en concordancia con la Directiva N° 002-2023-PCM-SIP Directiva
+para la gestión de denuncias y solicitudes de medidas de protección al denunciante de actos de corrupción recibidas a través
+de la plataforma digital única de denuncias del ciudadano, aprobada por aprobada por Resolución de Secretaría de Integridad
+Pública N° 005-2023-PCM-SIP.
+47 
+Reglamento del Ley N° 31564:
+Artículo 24.- Inhabilitación de ex funcionarios, ex servidores públicos, empresas e instituciones privadas
+El incumplimiento de los impedimentos señalados en el numeral 4.2 del artículo 4 de la Ley por parte de las personas, las
+empresas e instituciones privadas involucradas en dicho incumplimiento, es sancionado con la inhabilitación por cinco años
+para contratar o prestar servicios al Estado, bajo cualquier modalidad, sin perjuicio de las acciones civiles y penales a que
+hubiera lugar conforme al numeral 7.7 del artículo 7 de la Ley. En caso de ex funcionarios y ex servidores públicos se aplica
+el procedimiento administrativo disciplinario sujeto a la Ley N° 30057, Ley del Servicio Civil o normas específicas. (…)
+48 
+Conforme a lo establecido en el literal d) del numeral 68.1 del artículo 68 de la Ley General de Contrataciones Públicas, así
+como en el literal d) del artículo 274 de su Reglamento:
+Artículo 68. Resolución del contrato
+68.1. Cualquiera de las partes puede resolver, total o parcialmente, el contrato en los siguientes supuestos:
+d) Por incumplimiento de la cláusula anticorrupción.
+Artículo 274. Causales de exclusión de proveedores adjudicatarios de los catálogos electrónicos de acuerdo marco
+Un proveedor adjudicatario es excluido de los Catálogos Electrónicos de Acuerdo Marco, en los siguientes casos:
+d) Por incumplimiento de la cláusula anticorrupción y antisoborno.
+
+===== PÁGINA 68 (footer ~66) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+66
+1. Mantener una conducta proba e íntegra en todas las actividades del proceso de contratación,
+lo que supone actuar con honestidad y veracidad, sin cometer actos ilícitos, directa o
+indirectamente, así como respetar la libertad de concurrencia y las condiciones de competencia
+efectiva en el proceso de contratación y abstenerme de realizar prácticas que la restrinjan o
+afecten.
+[Solo para personas jurídicas] Lo anterior se hace extensivo, para conocimiento, a los socios,
+accionistas, participacionistas, integrantes de los órganos de administración, apoderados,
+representantes legales, funcionarios, asesores y personas vinculadas a la persona jurídica que
+represento.
+2. Abstenerme de ofrecer, dar o prometer regalos, cortesías, invitaciones, donativos u otros
+beneficios similares, a funcionarios o servidores públicos de la dependencia encargada de las
+contrataciones, actores del proceso de contratación y personal de la entidad contratante
+49
+.
+3. Denunciar ante las autoridades competentes, de manera oportuna, los actos de corrupción,
+inconducta funcional, conflicto de intereses u otro de naturaleza similar, respecto de lo cual
+tuviera conocimiento en el marco del proceso de contratación
+(https://denuncias.servicios.gob.pe/).
+4. Facilitar las acciones o mecanismos implementados por la entidad pública responsable del
+proceso de contratación para fortalecer la transparencia, promover la lucha contra la corrupción
+y fomentar la rendición de cuentas.
+TERCERO: Este pacto de integridad tiene vigencia desde el momento de su suscripción hasta la
+culminación de la fase de selección
+50
+; y, en caso de resultar adjudicado con la buena pro, este mantiene
+su vigencia hasta la culminación del contrato.
+CUARTO: Para efectos de salvaguardar el contenido del Pacto de Integridad frente a eventuales
+incumplimientos de los compromisos asumidos, me someto a las acciones de debida diligencia,
+supervisión, fiscalización posterior, iniciativas de veeduría autorizadas por la entidad contratante u otros
+que correspondan; así como a las responsabilidades administrativas, civiles y/o penales que se deriven
+de estos, conforme al marco legal vigente.
+En señal de conformidad, suscribo el presente pacto de integridad, a los ( ) días del mes ( ) de
+20( ), manifestando que la información declarada se sujeta al principio de presunción de veracidad,
+conforme a lo dispuesto en el artículo IV del Título Preliminar de la Ley N° 27444, Ley del Procedimiento
+Administrativo General
+51
+.
+[CONSIGNAR CIUDAD Y FECHA]
+49 
+El alcance de este numeral no limita o restringe la promoción de productos y/o servicios como parte de las actividades
+económicas de los particulares, siempre que se encuentren permitidas de manera expresa en una norma legal, como la Ley
+N° 29459, Ley de los productos farmacéuticos, dispositivos médicos y productos sanitarios.
+50 
+Reglamento de la Ley N° 32069, aprobado por Decreto Supremo N°009-2025-EF:
+“Artículo 92. Culminación de la fase de selección,
+La fase de selección culmina cuando:
+a) Se perfecciona el contrato,
+b) Se cancela el procedimiento de selección,
+c) No se perfeccione el contrato por los supuestos establecidos en el numeral 86.2 del artículo 86 y numeral 91.2 del artículo
+91.”
+51 
+Ley N° 27444:
+1.7 Principio de Presunción de Veracidad.- En la tramitación del procedimiento administrativo, se presume que los
+documentos y declaraciones formulados por los administrados en la forma prescrita por esta Ley, responden a la verdad de
+los hechos que ellos afirman. Esta presunción admite prueba en contrario.
+
+===== PÁGINA 69 (footer ~67) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+67
+………………………….………………………..
+Firma, nombres y apellidos del postor y/o
+representante legal, según corresponda
+Advertencia
+En el caso de consorcios, cada integrante debe presentar esta declaración jurada individualmente.
+
+===== PÁGINA 70 (footer ~68) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+68
+ANEXO Nº 3
+52
+DECLARACIÓN JURADA
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+Mediante el presente el suscrito, postor o representante legal o representante común de [CONSIGNAR
+SEGÚN CORRESPONDA], declaro bajo juramento:
+i. No tener impedimento para postular en el procedimiento de selección ni para contratar con el
+Estado, conforme al artículo 30 de la Ley N° 32069, Ley General de Contrataciones Públicas.
+ii. Conocer las sanciones contenidas en la Ley N° 32069, Ley General de Contrataciones Públicas
+y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF, así como las
+disposiciones aplicables de la Ley N° 27444, Ley del Procedimiento Administrativo General.
+iii. Participar en el presente proceso de contratación en forma independiente sin mediar consulta,
+comunicación, acuerdo, arreglo o convenio con ningún proveedor; y, conocer las disposiciones
+del Decreto Legislativo Nº 1034, Decreto Legislativo que aprueba la Ley de Represión de
+Conductas Anticompetitivas.
+iv. Conocer, aceptar y someterme a las bases, condiciones y reglas del procedimiento de
+selección. Asimismo, declaro cumplir con todas las condiciones establecidas en el
+requerimiento y exigidas por la entidad contratante para el objeto de la contratación.
+v. Ser responsable de la veracidad de los documentos e información que presento en el presente
+procedimiento de selección.
+vi. Comprometerme a mantener la oferta presentada durante el procedimiento de selección y a
+perfeccionar el contrato, en caso de resultar favorecido con la buena pro.
+[CONSIGNAR CIUDAD Y FECHA]
+………………………….………………………..
+Firma, nombres y apellidos del postor o
+representante legal o representante común, según corresponda
+Advertencia
+En el caso de consorcios, cada integrante debe presentar esta declaración jurada, salvo que sea presentada
+por el representante común del consorcio.
+52 
+Literal c) del numeral 69.1 del artículo 69 del Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas,
+aprobado por Decreto Supremo N° 009-2025-EF.
+
+===== PÁGINA 71 (footer ~69) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+69
+ANEXO Nº 4
+PROMESA DE CONSORCIO
+(SÓLO PARA EL CASO EN QUE UN CONSORCIO SE PRESENTE COMO POSTOR)
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+Los suscritos declaramos expresamente que hemos convenido en forma irrevocable, durante el lapso
+que dure el procedimiento de selección, para presentar una oferta conjunta al CONCURSO PÚBLICO
+ABREVIADO DE SERVICIOS Nº [CONSIGNAR NOMENCLATURA DEL PROCEDIMIENTO DE
+SELECCIÓN].
+Asimismo, en caso de obtener la buena pro, nos comprometemos a formalizar el contrato de consorcio,
+de conformidad con lo establecido por los artículos 88 y 89 del Reglamento de la Ley N° 32069, Ley
+General de Contrataciones Públicas, aprobado mediante Decreto Supremo N° 009-2025-EF, bajo las
+siguientes condiciones:
+a) Integrantes del consorcio
+1. [NOMBRE, DENOMINACIÓN O RAZÓN SOCIAL DEL CONSORCIADO 1].
+2. [NOMBRE, DENOMINACIÓN O RAZÓN SOCIAL DEL CONSORCIADO 2].
+b) Designamos a [CONSIGNAR NOMBRES Y APELLIDOS DEL REPRESENTANTE COMÚN],
+identificado con [CONSIGNAR TIPO DE DOCUMENTO DE IDENTIDAD] N° [CONSIGNAR
+NÚMERO DE DOCUMENTO DE IDENTIDAD], como representante común del consorcio para
+efectos de participar en todos los actos referidos al procedimiento de selección, suscripción y
+ejecución del contrato correspondiente con [CONSIGNAR NOMBRE DE LA ENTIDAD
+CONTRATANTE].
+Asimismo, declaramos que el representante común del consorcio no se encuentra impedido,
+inhabilitado ni suspendido para contratar con el Estado.
+c) Fijamos nuestro domicilio legal común en: [CONSIGNAR]; y nuestro correo electrónico común:
+[CONSIGNAR].
+d) Las obligaciones que corresponden a cada uno de los integrantes del consorcio son las siguientes:
+1. 
+OBLIGACIONES DE [NOMBRE, DENOMINACIÓN O RAZÓN SOCIAL DEL
+CONSORCIADO 1] 
+[ % ] 
+53
+[DESCRIBIR LAS OBLIGACIONES DEL CONSORCIADO 1]
+2. 
+OBLIGACIONES DE [NOMBRE, DENOMINACIÓN O RAZÓN SOCIAL DEL
+CONSORCIADO 2] 
+[ % ] 
+54
+[DESCRIBIR LAS OBLIGACIONES DEL CONSORCIADO 2]
+53 
+Consignar únicamente el porcentaje total de las obligaciones, el cual debe ser expresado en número entero, sin decimales.
+54 
+Consignar únicamente el porcentaje total de las obligaciones, el cual debe ser expresado en número entero, sin decimales.
+
+===== PÁGINA 72 (footer ~70) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+70
+3. 
+OBLIGACIONES DE [NOMBRE, DENOMINACIÓN O RAZÓN SOCIAL DEL
+CONSORCIADO 3] 
+[ % ] 
+55
+[DESCRIBIR LAS OBLIGACIONES DEL CONSORCIADO 3]
+TOTAL OBLIGACIONES 
+100%
+56
+[CONSIGNAR CIUDAD Y FECHA]
+..………………………………………….
+Consorciado 1
+Nombres, apellidos y firma del consorciado 1
+o de su representante Legal
+tipo y N° de documento de Identidad
+..…………………………………………..
+Consorciado 2
+Nombres, apellidos y firma del consorciado 2
+o de su representante Legal
+tipo y N° de documento de identidad
+55 
+Consignar únicamente el porcentaje total de las obligaciones, el cual debe ser expresado en número entero, sin decimales.
+56 
+Este porcentaje corresponde a la sumatoria de los porcentajes de las obligaciones de cada uno de los integrantes del consorcio.
+
+===== PÁGINA 73 (footer ~71) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+71
+ANEXO Nº 5
+57
+DECLARACIÓN JURADA DE DESAFECTACIÓN DE IMPEDIMENTO – PERSONA NATURAL
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que suscribe, [CONSIGNAR NOMBRE(S) Y APELLIDOS COMPLETOS], postor identificado con
+[CONSIGNAR TIPO DE DOCUMENTO DE IDENTIDAD] N° [CONSIGNAR NÚMERO DE
+DOCUMENTO DE IDENTIDAD], declaro que tengo los siguientes parientes
+58
+, respecto de los
+cuales se configura el impedimento de carácter personal
+59 
+del inciso 1 del numeral 30.1 del
+artículo 30 de la Ley N° 32069, Ley General de Contrataciones Públicas, de acuerdo a lo siguiente:
+• [NOMBRE DEL PARIENTE 1], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], quien ostenta
+el cargo de [CONSIGNAR LA DENOMINACIÓN DEL CARGO] en la [CONSIGNAR LA
+ENTIDAD PÚBLICA], que a la fecha de esta declaración cuenta con impedimento de carácter
+personal de Tipo [CONSIGNAR 1A, 1B, 1C, 1D, 1E, 1F, y 1G, SEGÚN CORRESPONDA], de
+conformidad con el inciso 1 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General
+de Contrataciones Públicas.
+• [NOMBRE DEL PARIENTE 2], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], quien ostenta
+el cargo de [CONSIGNAR LA DENOMINACIÓN DEL CARGO] en la [CONSIGNAR LA
+ENTIDAD PÚBLICA], que a la fecha de esta declaración cuenta con impedimento de carácter
+personal de Tipo [CONSIGNAR 1A, 1B, 1C, 1D, 1E, 1F, y 1G, SEGÚN CORRESPONDA], de
+conformidad con el inciso 1 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General
+de Contrataciones Públicas.
+• [….].
+Sin perjuicio de ello, DECLARO BAJO JURAMENTO que:
+Me encuentro exceptuado del impedimento por razón de parentesco, en razón de [INDICAR
+SUPUESTO: HABER SUSCRITO UN CONTRATO DERIVADO DE UN PROCEDIMIENTO DE
+SELECCIÓN COMPETITIVO O NO COMPETITIVO EN EL MISMO TIPO DE OBJETO AL QUE
+POSTULA / HABER EJECUTADO CUATRO CONTRATOS MENORES EN EL MISMO TIPO DE
+OBJETO AL QUE POSTULA] dentro de los dos años previos a la convocatoria del procedimiento de
+selección, contratación directa o a la adjudicación de un contrato menor, conforme al inciso 2 del
+57 
+Numeral 39.4 del artículo 39 del Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas, aprobado por
+Decreto Supremo N° 009-2025-EF.
+58 
+Aquellos hasta el segundo grado de consanguinidad y segundo de afinidad, lo que incluye al cónyuge, al conviviente, y al
+progenitor del hijo del impedido.
+59 
+Aplicables a autoridades, funcionarios o servidores públicos de acuerdo con lo que señala la Ley N° 32069, Ley General de
+Contrataciones Públicas.
+Advertencia
+Este anexo únicamente es presentado por los postores que, si bien son parientes de los impedidos referidos
+en el inciso 1 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General de Contrataciones Públicas, no
+le son aplicables los impedimentos en razón de parentesco del inciso 2 del citado numeral, debido a que
+cumplen alguna de las siguientes condiciones: i) Han suscrito un contrato derivado de un procedimiento de
+selección competitivo o no competitivo o, ii) han ejecutado cuatro contratos menores en el mismo tipo de objeto
+al que postula. Para el caso de obras, el pariente debe haber ejecutado los contratos dentro de los dos años
+previos a la convocatoria del procedimiento de selección, contratación directa o a la adjudicación de un contrato
+menor.
+
+===== PÁGINA 74 (footer ~72) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+72
+numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General de Contrataciones Públicas, lo cual
+acredito documentalmente para la presentación de ofertas, de conformidad con el numeral 39.4 del
+artículo 39 del Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas, aprobado por
+Decreto Supremo N° 009-2025-EF.
+[DETALLAR LOS DOCUMENTOS CORRESPONDIENTES]
+[CONSIGNAR CIUDAD Y FECHA]
+……...............................................................
+Firma, nombres y apellidos del postor
+
+===== PÁGINA 75 (footer ~73) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+73
+ANEXO Nº 5
+60
+DECLARACIÓN JURADA DE DESAFECTACIÓN DE IMPEDIMENTO – PERSONA JURÍDICA
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que suscribe, [CONSIGNAR NOMBRE(S) Y APELLIDOS COMPLETOS], representante legal de
+[CONSIGNAR PERSONA JURÍDICA], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], con poder inscrito en
+la Sede Registral [CONSIGNAR] en la Partida Registral Nº [CONSIGNAR] Asiento Nº [CONSIGNAR],
+declaro que [CONSIGNAR EL/LOS MIEMBRO(S) DEL CONSEJO DIRECTIVO, EN CASO DE
+PERSONA JURÍDICA SIN FINES DE LUCRO; O EL/LOS ACCIONISTAS/PARTICIPACIONISTAS
+61
+O MIEMBROS DE LOS ÓRGANOS DE ADMINISTRACIÓN, APODERADOS 
+62 
+O
+REPRESENTANTES LEGALES
+63
+, EN CASO DE PERSONA JURÍDICA CON FINES DE LUCRO;
+SEGÚN CORRESPONDA] tienen los siguientes parientes
+64
+, respecto de los cuales se configura
+el impedimento de carácter personal
+65 
+del inciso 1 del numeral 30.1 del artículo 30 de la Ley N°
+32069, Ley General de Contrataciones Públicas, de acuerdo a lo siguiente:
+• [NOMBRE DEL PARIENTE 1], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], quien ostenta
+el cargo de [CONSIGNAR LA DENOMINACIÓN DEL CARGO] en la [CONSIGNAR LA
+ENTIDAD PÚBLICA], que a la fecha de esta declaración cuenta con impedimento de carácter
+personal de Tipo [CONSIGNAR 1A, 1B, 1C, 1D, 1E, 1F, y 1G, SEGÚN CORRESPONDA], de
+conformidad con el inciso 1 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General
+de Contrataciones Públicas.
+• [NOMBRE DEL PARIENTE 2], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], quien ostenta
+el cargo de [CONSIGNAR LA DENOMINACIÓN DEL CARGO] en la [CONSIGNAR LA
+ENTIDAD PÚBLICA], que a la fecha de esta declaración cuenta con impedimento de carácter
+personal de Tipo [CONSIGNAR 1A, 1B, 1C, 1D, 1E, 1F, y 1G, SEGÚN CORRESPONDA], de
+conformidad con el inciso 1 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General
+de Contrataciones Públicas.
+• [….].
+60 
+De conformidad con el numeral 39.4 del artículo 39 del Reglamento de la Ley N° 32069, Ley General de Contrataciones
+Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+61 
+Según el tipo de persona jurídica con fines de lucro de la que se trate, correspondiendo al postor determinar si el % de
+participación y/o actividades societarias configuran el impedimento.
+62 
+Corresponde al postor verificar si el alcance de las facultades otorgadas al apoderado configura el impedimento.
+63 
+Corresponde al postor verificar si el alcance de las facultades otorgadas al representante legal configura el impedimento.
+64 
+Aquellos hasta el segundo grado de consanguinidad y segundo de afinidad, lo que incluye al cónyuge, al conviviente y al
+progenitor del hijo de los impedidos.
+65 
+Aplicables a autoridades, funcionarios o servidores públicos de acuerdo con lo que señala la Ley N° 32069, Ley General de
+Contrataciones Públicas.
+Advertencia
+Este anexo únicamente es presentado por los postores que, si bien son parientes de los impedidos referidos
+en el inciso 1 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General de Contrataciones Públicas, no
+le son aplicables los impedimentos en razón de parentesco del inciso 2 del citado numeral, debido a que
+cumplen alguna de las siguientes condiciones: i) Han suscrito un contrato derivado de un procedimiento de
+selección competitivo o no competitivo o, ii) han ejecutado cuatro contratos menores en el mismo tipo de objeto
+al que postula. Para el caso de obras, el pariente debe haber ejecutado los contratos dentro de los dos años
+previos a la convocatoria del procedimiento de selección, contratación directa o a la adjudicación de un contrato
+menor.
+
+===== PÁGINA 76 (footer ~74) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+74
+Sin perjuicio de ello, DECLARO BAJO JURAMENTO que:
+Mi representada se encuentra exceptuada del impedimento por razón de parentesco, en razón de
+[INDICAR SUPUESTO: HABER SUSCRITO UN CONTRATO DERIVADO DE UN PROCEDIMIENTO
+DE SELECCIÓN COMPETITIVO O NO COMPETITIVO EN EL MISMO TIPO DE OBJETO AL QUE
+POSTULA / HABER EJECUTADO CUATRO CONTRATOS MENORES EN EL MISMO TIPO DE
+OBJETO AL QUE POSTULA] dentro de los dos años previos a la convocatoria del procedimiento de
+selección, contratación directa o a la adjudicación de un contrato menor, conforme al inciso 2 del
+numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General de Contrataciones Públicas, lo cual
+acredito documentalmente para la presentación de ofertas, de conformidad con el numeral 39.4 del
+artículo 39 del Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas, aprobado por
+Decreto Supremo N° 009-2025-EF.
+[DETALLAR LOS DOCUMENTOS CORRESPONDIENTES]
+[CONSIGNAR CIUDAD Y FECHA]
+……...........................................................
+Firma, nombres y apellidos del
+representante legal del postor
+Advertencia
+En el caso de consorcios, cada integrante debe presentar esta declaración jurada individualmente.
+
+===== PÁGINA 77 (footer ~75) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+75
+Esta nota debe ser eliminada una vez culminada la elaboración de las bases.
+ANEXO Nº 6
+PRECIO DE LA OFERTA
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+Es grato dirigirme a usted, para hacer de su conocimiento que, de acuerdo con las bases, mi oferta es
+la siguiente:
+CONCEPTO PRECIO TOTAL
+TOTAL
+El precio de la oferta corresponde a [CONSIGNAR EL MONTO DE LA OFERTA ECONÓMICA EN
+LETRAS] en [CONSIGNAR LA MONEDA DE LA CONVOCATORIA] e incluye todos los impuestos,
+seguros, transporte, inspecciones, pruebas y, de ser el caso, los costos laborales conforme a la
+legislación vigente, así como cualquier otro concepto que pueda tener incidencia sobre el costo del
+servicio a contratar.
+[CONSIGNAR CIUDAD Y FECHA]
+……...........................................................
+Firma, nombres y apellidos del postor o
+representante legal o representante común, según corresponda
+Advertencia
+• En caso de que el postor reduzca su oferta, según lo previsto en el artículo 132 del Reglamento, debe
+presentar nuevamente este Anexo.
+• El postor que goce de alguna exoneración legal debe indicar que su oferta no incluye el impuesto
+materia de la exoneración, debiendo incluir el siguiente texto:
+“Mi oferta no incluye [CONSIGNAR EL IMPUESTO MATERIA DE LA EXONERACIÓN]”.
+• En caso de procedimientos de selección según relación de ítems, el postor puede presentar el precio
+de su oferta en un solo documento o documentos independientes, en los ítems que se presente.
+• En caso de contrataciones que conllevan la ejecución de prestaciones accesorias consignar lo
+siguiente: “el postor debe detallar en el precio de su oferta, el monto correspondiente a la prestación
+principal y las prestaciones accesorias”.
+• En caso de divergencia entre el precio de la oferta en dígitos y en letras, prevalece este último.
+Importante para la entidad contratante
+En caso de la contratación de servicios bajo la modalidad de pago a suma alzada incluir el siguiente anexo:
+
+===== PÁGINA 78 (footer ~76) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+76
+ANEXO N° 7
+AUTORIZACIÓN DE RETENCIÓN COMO GARANTÍA DE FIEL CUMPLIMIENTO DEL
+CONTRATO Y/O FIEL CUMPLIMIENTO DE PRESTACIONES ACCESORIAS – PROVEEDORES
+NO MYPES
+(DOCUMENTO A PRESENTAR PARA EL PERFECCIONAMIENTO DEL CONTRATO)
+Señores
+DEPENDENCIA ENCARGADA DE LAS CONTRATACIONES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que suscribe, [……………..], postor adjudicado o representante legal o representante común de
+[CONSIGNAR SEGÚN CORRESPONDA], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], autorizo que se me
+aplique la retención de pago como mecanismo de garantía de fiel cumplimiento de [PRECISAR SI ES
+FIEL CUMPLIMIENTO DEL CONTRATO Y/O FIEL CUMPLIMIENTO DE PRESTACIONES
+ACCESORIAS], con cargo a ser devuelto al finalizar el contrato; de conformidad con lo dispuesto en el
+numeral 61.8 del artículo 61 de la Ley N° 32069, Ley General de Contrataciones Públicas, concordado
+con el numeral 114.2 del artículo 114 de su Reglamento, aprobado por Decreto Supremo N° 009-2025.
+[CONSIGNAR CIUDAD Y FECHA]
+……………………………….…………………..
+Firma, nombres y apellidos del postor o
+representante legal o representante común,
+según corresponda
+Advertencia
+La retención como mecanismo de garantía de fiel cumplimiento es aplicable, de acuerdo con los numerales
+61.8 y 61.9 del artículo 61 de la Ley N° 32069, Ley General de Contrataciones Públicas y el artículo 114 de su
+Reglamento, aprobado por Decreto Supremo Nº 009-2025-EF siempre que:
+• El plazo de la prestación sea igual o mayor de sesenta días calendario.
+• Se consideren, según corresponda, al menos dos pagos a favor del contratista.
+• La cuantía adjudicada sea igual o menor a S/ 480 000,00 (cuatrocientos ochenta mil y 00/100 Soles).
+
+===== PÁGINA 79 (footer ~77) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+77
+ANEXO N° 7
+AUTORIZACIÓN DE RETENCIÓN COMO GARANTÍA DE FIEL CUMPLIMIENTO DEL
+CONTRATO Y/O FIEL CUMPLIMIENTO DE PRESTACIONES ACCESORIAS – PROVEEDORES
+MYPES
+(DOCUMENTO A PRESENTAR PARA EL PERFECCIONAMIENTO DEL CONTRATO)
+Señores
+DEPENDENCIA ENCARGADA DE LAS CONTRATACIONES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que suscribe, [……………..],representante legal o común de [CONSIGNAR PERSONA JURÍDICA
+O CONSORCIO], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE IDENTIDAD] N°
+[CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], autorizo que se me aplique la retención
+de pago como mecanismo de garantía de fiel cumplimiento de [PRECISAR SI ES FIEL
+CUMPLIMIENTO DEL CONTRATO Y/O FIEL CUMPLIMIENTO DE PRESTACIONES ACCESORIAS],
+con cargo a ser devuelto al finalizar el contrato; de conformidad con lo dispuesto en el numeral 61.8 del
+artículo 61 de la Ley N° 32069, Ley General de Contrataciones Públicas, concordado con el numeral
+114.2 del artículo 114 de su Reglamento, aprobado por Decreto Supremo N° 009-2025; así como el
+[ARTÍCULO 3 DE LA LEY Nº 32077, LEY QUE ESTABLECE UN MEDIO ALTERNATIVO DE
+GARANTÍAS DE CUMPLIMIENTO EN LOS PROCESOS DE CONTRATACIÓN PÚBLICA DE LAS
+MYPE, O EL ARTICULO 21 DE LA LEY N°32353, LEY PARA LA FORMALIZACIÓN, DESARROLLO
+Y COMPETITIVIDAD DE LA MICRO Y PEQUEÑA EMPRESA – MYPE, SEGÚN CORRESPONDA].
+[CONSIGNAR CIUDAD Y FECHA]
+……………………………….…………………..
+Firma, nombres y apellidos del representante
+legal o común, según corresponda
+Advertencia
+La retención como mecanismo de garantía de fiel cumplimiento es aplicable, de acuerdo con los numerales
+61.8 y 61.9 del artículo 61 de la Ley N° 32069, Ley General de Contrataciones Públicas y el artículo 114 del
+Reglamento, aprobado por Decreto Supremo Nº 009-2025-EF, así como el artículo 3 de la Ley Nº 32077, Ley
+que establece un medio alternativo de garantías de cumplimiento en los procesos de contratación pública de
+las MYPE, siempre que:
+• El plazo de la prestación sea igual o mayor de sesenta días calendario.
+• Se consideren, según corresponda, al menos dos pagos a favor del contratista.
+• Cuando se adjudique la buena pro a un proveedor que califique como micro o pequeña empresa, procede
+la retención con independencia de la cuantía de la contratación.
+
+===== PÁGINA 80 (footer ~78) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+78
+ANEXO N° 8
+DECLARACIÓN JURADA DE PRESENTACIÓN DE FIDEICOMISO COMO GARANTÍA DE
+FIEL CUMPLIMIENTO DEL CONTRATO
+(DOCUMENTO A PRESENTAR PARA EL PERFECCIONAMIENTO DEL CONTRATO)
+Señores
+DEPENDENCIA ENCARGADA DE LAS CONTRATACIONES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que se suscribe, [……………..], postor adjudicado o representante legal o representante común de
+[CONSIGNAR SEGÚN CORRESPONDA], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], declaro bajo juramento
+el compromiso de presentar la constitución de un fideicomiso como mecanismo de garantía de fiel
+cumplimiento del contrato, en un plazo no mayor a veinte días hábiles contabilizados desde el día
+siguiente de perfeccionado el mismo, en el marco de los artículos 116 y 138 del Reglamento de la Ley
+N° 32069, Ley General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+[CONSIGNAR CIUDAD Y FECHA]
+……………………………….…………………..
+Firma, nombres y apellidos del postor o
+representante legal o representante común,
+según corresponda
+Advertencia
+El fideicomiso es aplicable, de acuerdo con los artículos 116 y 138 del Reglamento de la Ley N° 32069, siempre
+que el plazo de la ejecución contractual sea mayor a noventa días calendario.
+
+===== PÁGINA 81 (footer ~79) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+79
+ANEXO Nº 9
+AUTORIZACIÓN DE NOTIFICACIONES DURANTE LA EJECUCIÓN CONTRACTUAL
+MEDIANTE CORREO ELECTRÓNICO
+(DOCUMENTO A PRESENTAR PARA EL PERFECCIONAMIENTO DEL CONTRATO)
+Señores
+DEPENDENCIA ENCARGADA DE LAS CONTRATACIONES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que suscribe, [……………..], postor adjudicado o representante legal o representante común de
+[CONSIGNAR SEGÚN CORRESPONDA], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], autorizo que durante la
+ejecución del contrato se me notifique al correo electrónico [INDICAR EL CORREO ELECTRÓNICO].
+[CONSIGNAR CIUDAD Y FECHA]
+……………………………….…………………..
+Firma, nombres y apellidos del postor o
+representante legal o representante común,
+según corresponda
+
+===== PÁGINA 82 (footer ~80) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+80
+ANEXO N° 10
+ELECCIÓN DE INSTITUCIÓN ARBITRAL
+66
+(DOCUMENTO A PRESENTAR PARA EL PERFECCIONAMIENTO DEL CONTRATO)
+Señores
+DEPENDENCIA ENCARGADA DE LAS CONTRATACIONES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que suscribe, [……………..], postor adjudicado o representante legal o representante común de
+[CONSIGNAR SEGÚN CORRESPONDA], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], elijo la institución
+arbitral del listado proporcionado por la entidad contratante:
+[INDICAR LA RAZON SOCIAL DE LA INSTITUCIÓN ARBITRAL ELEGIDA, DE ACUERDO AL
+LISTADO DEL NUMERAL 3.3 DEL CAPÍTULO III DE LA SECCIÓN ESPECÍFICA DE LAS BASES]
+Advertencia
+En caso el postor no esté de acuerdo con ninguna de las opciones del listado de instituciones arbitrales
+propuesto por la entidad contratante en el numeral 3.3 del Capítulo III de la sección especifica de las bases,
+debe reemplazar el texto por lo siguiente:
+“El que suscribe, [………….], postor adjudicado o representante legal o representante común de [CONSIGNAR
+SEGÚN CORRESPONDA], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE IDENTIDAD] N°
+[CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], propongo el siguiente listado de Instituciones
+Arbitrales adicionales:
+[INDICAR TRES (3) INSTITUCIONES ARBITRALES:
+N.º INSTITUCIONES ARBITRALES RUC
+1 [CONSIGNAR LA INSTITUCIÓN ARBITRAL] [CONSIGNAR N° DE RUC]
+2 [...] [...]
+3 [...] [...]
+]”
+[CONSIGNAR CIUDAD Y FECHA]
+……………………………….…………………..
+Firma, nombres y apellidos del postor o
+representante legal o representante común,
+según corresponda
+66 
+Para la elección de la institución arbitral, la entidad contratante debe tomar en cuenta, como aspectos relevantes, lo previsto
+en el literal d) del numeral 77.1 del artículo 77 y el numeral 84.1 del artículo 84 de la Ley.
+
+===== PÁGINA 83 (footer ~81) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+81
+ANEXO Nº 11
+EXPERIENCIA DEL POSTOR EN LA ESPECIALIDAD
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+Mediante el presente, se detalla la siguiente EXPERIENCIA EN LA ESPECIALIDAD:
+Nº CLIENTE
+OBJETO
+DEL
+CONTRATO
+N° CONTRATO O
+COMPROBANTE DE
+PAGO
+FECHA DEL
+CONTRATO O
+COMPROBAN
+TE DE PAGO
+67
+FECHA DE LA
+CONFORMIDAD,
+DE SER EL
+CASO
+68
+EXPERIENCIA
+PROVENIENTE
+DE:
+MONEDA IMPORTE
+69
+TIPO DE
+CAMBIO
+VENTA
+70
+MONTO
+FACTURADO
+ACUMULADO
+71
+1
+2
+3
+4
+5
+6
+7
+8
+9
+67 
+Se refiere a la fecha de perfeccionamiento del contrato (Documento que lo contiene u orden de servicio)..
+68 
+Únicamente, cuando la fecha del perfeccionamiento del contrato, sea previa a los quince años anteriores a la fecha de presentación de ofertas, caso en el cual el postor debe acreditar que la
+conformidad se emitió dentro de dicho periodo.
+69 
+Se refiere al monto del contrato ejecutado incluido adicionales y reducciones, de ser el caso.
+70 
+El tipo de cambio venta debe corresponder al publicado por la SBS a la fecha del documento con el cual se acredita la experiencia.
+71 
+Consignar en la moneda establecida en las bases.
+
+===== PÁGINA 84 (footer ~82) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+82
+Nº CLIENTE
+OBJETO
+DEL
+CONTRATO
+N° CONTRATO O
+COMPROBANTE DE
+PAGO
+FECHA DEL
+CONTRATO O
+COMPROBAN
+TE DE PAGO
+67
+FECHA DE LA
+CONFORMIDAD,
+DE SER EL
+CASO
+68
+EXPERIENCIA
+PROVENIENTE
+DE:
+MONEDA IMPORTE
+69
+TIPO DE
+CAMBIO
+VENTA
+70
+MONTO
+FACTURADO
+ACUMULADO
+71
+10
+…
+20
+TOTAL
+[CONSIGNAR CIUDAD Y FECHA]
+………..........................................................
+Firma, nombres y apellidos del postor o
+representante legal o representante común, según corresponda
+Advertencia
+Si el titular de la experiencia no es el postor, consignar si dicha experiencia corresponde a la matriz en caso de que el postor sea sucursal considerando que ambas constituyen
+la misma persona jurídica conforme a lo previsto en el artículo 396 de la Ley N° 26887, Ley General de Sociedades, o fue transmitida por reorganización societaria, debiendo
+acompañar la documentación sustentatoria correspondiente.
+Del mismo modo, en aplicación de lo previsto en la mencionada Ley, en una operación de reorganización societaria que comprende tanto una fusión como una escisión, la
+sociedad resultante podrá acreditar como suya la experiencia de la sociedad incorporada o absorbida, que se extingue producto de la fusión; asimismo, si en virtud de la
+escisión se transfiere un bloque patrimonial consistente en una línea de negocio completa, la sociedad resultante podrá acreditar como suya la experiencia de la sociedad
+escindida, correspondiente a la línea de negocio transmitida. De esta manera, la sociedad resultante podrá emplear la experiencia transmitida, como consecuencia de la
+reorganización societaria antes descrita, en los futuros procesos de selección en los que participe.
+
+===== PÁGINA 85 (footer ~83) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+83
+ANEXO Nº 12
+DECLARACIÓN JURADA DE PLAZO DE PRESTACIÓN DEL SERVICIO
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+Mediante el presente, con pleno conocimiento de las condiciones que se exigen en las bases del
+procedimiento de selección de la referencia, me comprometo a prestar el servicio objeto del presente
+procedimiento de selección en el plazo de [CONSIGNAR EL PLAZO OFERTADO] en días calendario.
+[CONSIGNAR CIUDAD Y FECHA]
+……..........................................................
+Firma, nombres y apellidos del postor o
+representante legal o representante común, según corresponda
+
+===== PÁGINA 86 (footer ~84) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+84
+ANEXO Nº 13
+DECLARACIÓN JURADA DE CUMPLIMIENTO DE CONDICIONES PARA LA APLICACIÓN
+DE LA EXONERACIÓN DEL IGV
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+Mediante el presente el suscrito, postor o Representante Legal o representante común de
+[CONSIGNAR SEGÚN CORRESPONDA], declaro bajo juramento que gozo del beneficio de la
+exoneración del IGV previsto en la Ley Nº 27037, Ley de Promoción de la Inversión en la Amazonía,
+dado que cumplo con las condiciones siguientes:
+1.- Que el domicilio fiscal de la empresa
+72 
+se encuentra ubicada en la Amazonía y coincide con el lugar
+establecido como sede central (donde tiene su administración y lleva su contabilidad);
+2.- Que la empresa se encuentra inscrita en las Oficinas Registrales de la Amazonía (exigible en caso
+de personas jurídicas);
+3.- Que, al menos el setenta por ciento (70%) de los activos fijos de la empresa se encuentran en la
+Amazonía; y
+4.- Que la empresa no tiene producción fuera de la Amazonía.
+73
+[CONSIGNAR CIUDAD Y FECHA]
+………………………….………………………..
+Firma, nombres y apellidos del postor o
+representante legal o representante común, según corresponda
+Advertencia
+Cuando se trate de consorcios, esta declaración jurada es presentada por cada uno de los integrantes del
+consorcio, salvo que se trate de consorcios con contabilidad independiente, en cuyo caso debe ser ajustada
+y suscrita por el representante común, debiendo indicar su condición de consorcio con contabilidad
+independiente y el número de RUC del consorcio.
+72 
+En el artículo 1 del “Reglamento de las Disposiciones Tributarias contenidas en la Ley de Promoción de la Inversión en la
+Amazonía” aprobado por Decreto Supremo N° 103-99-EF, se define como “empresa” a las “Personas naturales, sociedades
+conyugales, sucesiones indivisas y personas consideradas jurídicas por la Ley del Impuesto a la Renta, generadoras de rentas
+de tercera categoría, ubicadas en la Amazonía. Las sociedades conyugales son aquéllas que ejerzan la opción prevista en el
+Artículo 16 de la Ley del Impuesto a la Renta.”
+73 
+En caso de empresas de comercialización, no consignar esta condición.
+
+===== PÁGINA 87 (footer ~85) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+85
+ANEXO Nº 14
+DECLARACIÓN JURADA
+(NUMERAL 72.3 DEL ARTÍCULO 72 DEL REGLAMENTO)
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+Mediante el presente el suscrito, representante legal o común de [CONSIGNAR PERSONA JURÍDICA
+O CONSORCIO], declaro que la experiencia que acredito de la empresa [CONSIGNAR LA
+DENOMINACIÓN DE LA PERSONA JURÍDICA] como consecuencia de una reorganización societaria,
+no se encuentra en el supuesto establecido en el literal c) del numeral 72.3 del artículo 72 del
+Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas, aprobado mediante Decreto
+Supremo N° 009-2025-EF.
+[CONSIGNAR CIUDAD Y FECHA]
+………………………….………………………..
+Firma, nombres y apellidos del
+representante legal o común, según corresponda
+Advertencia
+A efectos de cautelar la veracidad de esta declaración, el postor puede verificar la información de la Relación
+de Proveedores Sancionados por el Tribunal de Contrataciones Públicas con Sanción Vigente en:
+http://www.osce.gob.pe/consultasenlinea/inhabilitados/busqueda.asp
+También le asiste dicha facultad a la dependencia encargada de las contrataciones o al órgano de la entidad
+contratante al que se le haya asignado la función de verificación de la oferta presentada por el postor
+ganador de la buena pro.
+
+===== PÁGINA 88 (footer ~86) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+86
+ANEXO Nº 15
+74
+DECLARACIÓN JURADA DE ACTUALIZACIÓN DE DESAFECTACIÓN DE IMPEDIMENTO –
+PERSONA NATURAL
+(DOCUMENTO A PRESENTAR PARA EL PERFECCIONAMIENTO DEL CONTRATO)
+Señores
+DEPENDENCIA ENCARGADA DE LAS CONTRATACIONES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que suscribe, [CONSIGNAR NOMBRE(S) Y APELLIDOS COMPLETOS], identificado con
+[CONSIGNAR TIPO DE DOCUMENTO DE IDENTIDAD] N° [CONSIGNAR NÚMERO DE
+DOCUMENTO DE IDENTIDAD], en mi calidad de postor adjudicado de la buena pro de [CONSIGNAR
+DENOMINACIÓN DEL PROCEDIMIENTO DE SELECCIÓN], declaro que tengo los siguientes
+parientes
+75
+, respecto de los cuales se configura el impedimento de carácter personal
+76 
+del inciso
+1 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General de Contrataciones Públicas,
+de acuerdo a lo siguiente:
+• [NOMBRE DEL PARIENTE 1], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], quien ostenta
+el cargo de [CONSIGNAR LA DENOMINACIÓN DEL CARGO] en la [CONSIGNAR LA
+ENTIDAD PÚBLICA], que a la fecha de esta declaración cuenta con impedimento de carácter
+personal de Tipo [CONSIGNAR 1A, 1B, 1C, 1D, 1E, 1F, y 1G, SEGÚN CORRESPONDA], de
+conformidad con el inciso 1 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General
+de Contrataciones Públicas.
+• [NOMBRE DEL PARIENTE 2], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], quien ostenta
+el cargo de [CONSIGNAR LA DENOMINACIÓN DEL CARGO] en la [CONSIGNAR LA
+ENTIDAD PÚBLICA], que a la fecha de esta declaración cuenta con impedimento de carácter
+personal de Tipo [CONSIGNAR 1A, 1B, 1C, 1D, 1E, 1F, y 1G, SEGÚN CORRESPONDA], de
+conformidad con el inciso 1 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General
+de Contrataciones Públicas.
+• [….].
+Sin perjuicio de ello, DECLARO BAJO JURAMENTO que:
+A la fecha me encuentro exceptuado del impedimento por razón de parentesco, en razón de [INDICAR
+SUPUESTO: HABER SUSCRITO UN CONTRATO DERIVADO DE UN PROCEDIMIENTO DE
+SELECCIÓN COMPETITIVO O NO COMPETITIVO EN EL MISMO TIPO DE OBJETO AL QUE
+POSTULA / HABER EJECUTADO CUATRO CONTRATOS MENORES EN EL MISMO TIPO DE
+OBJETO AL QUE POSTULA] dentro de los dos años previos a la convocatoria del procedimiento de
+selección, contratación directa o a la adjudicación de un contrato menor] conforme al inciso 2 del
+numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General de Contrataciones Públicas, lo cual
+acredito de conformidad con el numeral 39.4 del artículo 39 del Reglamento de la Ley N° 32069, Ley
+General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+En ese sentido, mediante el presente cumplo con presentar la acreditación documental
+correspondiente:
+74 
+De conformidad con el numeral 39.4 del artículo 39 del Reglamento de la Ley N° 32069, Ley General de Contrataciones
+Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+75 
+Aquellos hasta el segundo grado de consanguinidad y segundo de afinidad, lo que incluye al cónyuge, al conviviente, y al
+progenitor del hijo del impedido.
+76 
+Aplicables a autoridades, funcionarios o servidores públicos de acuerdo con lo que señala la Ley N° 32069, Ley General de
+Contrataciones Públicas.
+
+===== PÁGINA 89 (footer ~87) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+87
+[CONSIGNAR EL DETALLE DE LOS DOCUMENTOS CORRESPONDIENTES]
+[CONSIGNAR CIUDAD Y FECHA]
+……...........................................................
+Firma, nombres y apellidos del postor
+
+===== PÁGINA 90 (footer ~88) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+88
+ANEXO Nº 15
+77
+DECLARACIÓN JURADA DE ACTUALIZACIÓN DE DESAFECTACIÓN DE IMPEDIMENTO –
+PERSONA JURÍDICA
+(DOCUMENTO A PRESENTAR PARA EL PERFECCIONAMIENTO DEL CONTRATO)
+Señores
+DEPENDENCIA ENCARGADA DE LAS CONTRATACIONES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente. –
+El que suscribe, [CONSIGNAR NOMBRE(S) Y APELLIDOS COMPLETOS], representante legal de
+[CONSIGNAR PERSONA JURÍDICA], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], con poder inscrito en la
+Sede Registral [CONSIGNAR] en la Partida Registral Nº [CONSIGNAR] Asiento Nº [CONSIGNAR]; en
+mi calidad de postor adjudicado de la buena pro de [CONSIGNAR DENOMINACIÓN DEL
+PROCEDIMIENTO DE SELECCIÓN], declaro que [CONSIGNAR EL/LOS MIEMBRO(S) DEL
+CONSEJO DIRECTIVO, EN CASO DE PERSONA JURÍDICA SIN FINES DE LUCRO; O EL/LOS
+ACCIONISTAS/PARTICIPACIONISTAS 
+78 
+O MIEMBROS DE LOS ÓRGANOS DE
+ADMINISTRACIÓN, APODERADOS
+79 
+O REPRESENTANTES LEGALES
+80
+, EN CASO DE PERSONA
+JURÍDICA CON FINES DE LUCRO; SEGÚN CORRESPONDA] tienen los siguientes parientes
+81
+,
+respecto de los cuales se configura el impedimento de carácter personal 
+82 
+del inciso 1 del
+numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General de Contrataciones Públicas, de
+acuerdo a lo siguiente:
+• [NOMBRE DEL PARIENTE 1], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], quien ostenta
+el cargo de [CONSIGNAR LA DENOMINACIÓN DEL CARGO] en la [CONSIGNAR LA
+ENTIDAD PÚBLICA], que a la fecha de esta declaración cuenta con impedimento de carácter
+personal de Tipo [CONSIGNAR 1A, 1B, 1C, 1D, 1E, 1F, y 1G, SEGÚN CORRESPONDA], de
+conformidad con el inciso 1 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General
+de Contrataciones Públicas.
+• [NOMBRE DEL PARIENTE 2], identificado con [CONSIGNAR TIPO DE DOCUMENTO DE
+IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE IDENTIDAD], quien ostenta
+el cargo de [CONSIGNAR LA DENOMINACIÓN DEL CARGO] en la [CONSIGNAR LA
+ENTIDAD PÚBLICA], que a la fecha de esta declaración cuenta con impedimento de carácter
+personal de Tipo [CONSIGNAR 1A, 1B, 1C, 1D, 1E, 1F, y 1G, SEGÚN CORRESPONDA], de
+conformidad con el inciso 1 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General
+de Contrataciones Públicas.
+• [….].
+Sin perjuicio de ello, DECLARO BAJO JURAMENTO que:
+A la fecha mi representada se encuentra exceptuada del impedimento por razón de parentesco, en
+razón de [INDICAR SUPUESTO: HABER SUSCRITO UN CONTRATO DERIVADO DE UN
+PROCEDIMIENTO DE SELECCIÓN COMPETITIVO O NO COMPETITIVO EN EL MISMO TIPO DE
+77 
+De conformidad con el numeral 39.4 del artículo 39 del Reglamento de la Ley N° 32069, Ley General de Contrataciones
+Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+78 
+Según el tipo de persona jurídica con fines de lucro de la que se trate, correspondiendo al postor determinar si el % de
+participación y/o actividades societarias configuran el impedimento.
+79 
+Corresponde al postor verificar si el alcance de las facultades otorgadas al apoderado configura el impedimento.
+80 
+Corresponde al postor verificar si el alcance de las facultades otorgadas al representante legal configura el impedimento.
+81 
+Aquellos hasta el segundo grado de consanguinidad y segundo de afinidad, lo que incluye al cónyuge, al conviviente y al
+progenitor del hijo de los impedidos.
+82 
+Aplicables a autoridades, funcionarios o servidores públicos de acuerdo con lo que señala la Ley N° 32069, Ley General de
+Contrataciones Públicas.
+
+===== PÁGINA 91 (footer ~89) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+89
+OBJETO AL QUE POSTULA / HABER EJECUTADO CUATRO CONTRATOS MENORES EN EL
+MISMO TIPO DE OBJETO AL QUE POSTULA] dentro de los dos años previos a la convocatoria del
+procedimiento de selección, contratación directa o a la adjudicación de un contrato menor] conforme al
+inciso 2 del numeral 30.1 del artículo 30 de la Ley N° 32069, Ley General de Contrataciones Públicas,
+lo cual acredito de conformidad con el numeral 39.4 del artículo 39 del Reglamento de la Ley N° 32069,
+Ley General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+En ese sentido, mediante el presente cumplo con presentar la acreditación documental
+correspondiente:
+[CONSIGNAR EL DETALLE DE LOS DOCUMENTOS CORRESPONDIENTES]
+[CONSIGNAR CIUDAD Y FECHA]
+……...........................................................
+Firma, nombres y apellidos del
+representante legal del postor
+Advertencia
+En el caso de consorcios, cada integrante debe presentar esta declaración jurada individualmente.
+
+===== PÁGINA 92 (footer ~90) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+90
+ANEXO Nº 16
+SOLICITUD DE BONIFICACIÓN DEL DIEZ POR CIENTO (10%) POR SERVICIOS PRESTADOS
+FUERA DE LA PROVINCIA DE LIMA Y CALLAO
+(DE SER EL CASO, SOLO PRESENTAR ESTA SOLICITUD EN EL ITEM [CONSIGNAR EL N° DEL
+ÍTEM O ÍTEMS CUYO VALOR O CUANTÍA NO SUPERA LOS DOSCIENTOS MIL SOLES (S/
+200,000.00])
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+Mediante el presente el suscrito, postor o representante legal de [CONSIGNAR SEGÚN
+CORRESPONDA], solicito la asignación de la bonificación del diez por ciento (10%) sobre el puntaje
+total en [CONSIGNAR EL ÍTEM O ITEMS, SEGÚN CORRESPONDA, EN LOS QUE SE SOLICITA LA
+BONIFICACIÓN] debido a que el domicilio de mi representada se encuentra ubicado en la provincia o
+provincia colindante donde se ejecuta la prestación.
+[CONSIGNAR CIUDAD Y FECHA]
+………………………….………………………..
+Firma, nombres y apellidos del postor o
+representante legal, según corresponda
+Advertencia
+• Para asignar la bonificación, los evaluadores verifican el domicilio consignado por el postor en el Registro
+Nacional de Proveedores (RNP) de la Pladicop
+• Para que el postor pueda acceder a la bonificación, debe cumplir con las condiciones establecidas en el
+numeral 75.6 del artículo 75 del Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas,
+aprobado por Decreto Supremo N° 009-2025-EF.
+
+===== PÁGINA 93 (footer ~91) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+91
+Advertencia
+Cuando se trate de consorcios, la declaración jurada es la siguiente:
+ANEXO Nº 16
+SOLICITUD DE BONIFICACIÓN DEL DIEZ POR CIENTO (10%) POR SERVICIOS PRESTADOS
+FUERA DE LA PROVINCIA DE LIMA Y CALLAO
+(DE SER EL CASO, SOLO PRESENTAR ESTA SOLICITUD EN EL ITEM [CONSIGNAR EL N° DEL
+ÍTEM O ÍTEMS CUYA CUANTÍA NO SUPERA LOS DOSCIENTOS MIL SOLES (S/ 200,000.00])
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+Mediante el presente el suscrito, [……………..], representante común del consorcio [CONSIGNAR EL
+NOMBRE DEL CONSORCIO], solicito la asignación de la bonificación del diez por ciento (10%) sobre
+el puntaje total en [CONSIGNAR EL ÍTEM O ITEMS, SEGÚN CORRESPONDA, EN LOS QUE SE
+SOLICITA LA BONIFICACIÓN] debido a que los domicilios de todos los integrantes del consorcio se
+encuentran ubicados en la provincia o provincias colindantes donde se ejecuta la prestación.
+[CONSIGNAR CIUDAD Y FECHA]
+………………………….………………………..
+Firma, nombres y apellidos del representante
+común del consorcio
+Advertencia
+• Para asignar la bonificación, los evaluadores verifican el domicilio consignado de los integrantes del
+consorcio, en el Registro Nacional de Proveedores (RNP) de la Pladicop
+• Para que un consorcio pueda acceder a la bonificación, cada uno de sus integrantes debe cumplir con
+las condiciones establecidas en el numeral 75.6 del artículo 75 del Reglamento de la Ley N° 32069, Ley
+General de Contrataciones Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
+
+===== PÁGINA 94 (footer ~92) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+92
+ANEXO Nº 17
+SOLICITUD DE BONIFICACIÓN DEL CINCO POR CIENTO (5%) POR TENER LA CONDICIÓN DE
+MICRO Y PEQUEÑA EMPRESA
+Señores
+EVALUADORES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+Mediante el presente el suscrito, representante legal o común de [CONSIGNAR EN CASO DE SER
+PERSONA JURÍDICA], solicito la asignación de la bonificación del cinco por ciento (5%) sobre el
+puntaje total obtenido, debido a que mi representada cuenta con la condición de micro y pequeña
+empresa.
+[CONSIGNAR CIUDAD Y FECHA]
+………………………….………………………..
+Firma, nombres y apellidos del
+representante legal o común, según corresponda
+Advertencia
+• Para asignar la presente bonificación, la Dependencia Encargada de las Contrataciones o los
+evaluadores, según corresponda, verifica la página web del Ministerio de Trabajo y Promoción del
+Empleo en la sección consulta de empresas acreditadas en el REMYPE en el link
+http://www2.trabajo.gob.pe/servicios-en-linea-2-2/
+• Para que un consorcio pueda acceder a la bonificación, cada uno de sus integrantes debe cumplir con
+la condición de micro y pequeña empresa.
+
+===== PÁGINA 95 (footer ~93) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+93
+ANEXO Nº 18
+83
+DECLARACIÓN JURADA SOBRE INAPLICACIÓN DEL IMPEDIMENTO TIPO 4.D DEL INCISO 4
+DEL NUMERAL 30.1 DEL ARTÍCULO 30 DE LA LEY N° 32069 REFERIDO A LA INSCRIPCIÓN EN
+EL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS – REDAM
+(DOCUMENTO A PRESENTAR PARA EL PERFECCIONAMIENTO DEL CONTRATO EN CASO DE
+PROVEEDORES CON PROCESOS DE ALIMENTOS EN EJECUCIÓN DE SENTENCIA)
+Señores
+DEPENDENCIA ENCARGADA DE LAS CONTRATACIONES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+El que suscribe, [……………..], postor adjudicado o apoderado de [CONSIGNAR EL NOMBRE DE LA
+PERSONA NATURAL QUE OTORGA EL PODER, DE SER EL CASO], identificado con [CONSIGNAR
+TIPO DE DOCUMENTO DE IDENTIDAD] N° [CONSIGNAR NÚMERO DE DOCUMENTO DE
+IDENTIDAD], con poder inscrito en la Sede Registral de [CONSIGNAR EN CASO DE CONTAR CON
+APODERADO] en la Partida Registral Nº [CONSIGNAR EN CASO DE CONTAR CON APODERADO]
+Asiento Nº [CONSIGNAR EN CASO DE CONTAR CON APODERADO], DECLARO BAJO
+JURAMENTO que no me resulta aplicable el impedimento Tipo 4.D del inciso 4 del numeral 30.1 del
+artículo 30 de la Ley, referido a las personas inscritas en el Registro de Deudores Alimentarios Morosos
+del Poder Judicial (Redam), considerando lo siguiente:
+[EL PROVEEDOR DEBE CONSIGNAR LA INFORMACIÓN SÓLO UNA DE LAS OPCIONES QUE SE
+ESTABLECEN A CONTINUACIÓN, SEGÚN SEA EL CASO]:
+• Que, se ha remitido el/la [CONSIGNAR LA DENOMINACIÓN EXACTA DEL DOCUMENTO
+REMITIDO POR EL PROVEEDOR AL JUZGADO A CARGO DEL PROCESO DE
+ALIMENTOS] con fecha de recepción [CONSIGNAR FECHA DE RECEPCIÓN] dirigido/a al
+[CONSIGNAR LOS DATOS DE IDENTIFICACIÓN DEL JUZGADO A CARGO DEL
+PROCESO DE ALIMENTOS QUE CORRESPONDA], mediante el cual se informó la
+cancelación de la deuda alimentaria derivada del proceso de alimentos seguido por
+[CONSIGNAR LOS DATOS DE LA PARTE DEMANDANTE DEL PROCESO DE
+ALIMENTOS], para lo cual me sujeto al principio de presunción de veracidad. Se adjunta el
+cargo de recepción del indicado documento.
+• Que, sí me encuentro en el registro de deudores alimentario moroso, por lo que; autorizo se
+me descuente del pago que me corresponde como contraprestación del contrato derivado del
+presente procedimiento de selección, el monto de la pensión mensual fijada en el proceso de
+alimentos seguido por [CONSIGNAR LOS DATOS DE LA PARTE DEMANDANTE DEL
+PROCESO DE ALIMENTOS] ante el [CONSIGNAR LOS DATOS DE IDENTIFICACIÓN DEL
+JUZGADO CORRESPONDIENTE], para lo cual adjunto:
+a) La sentencia emitida por el [CONSIGNAR LOS DATOS DE IDENTIFICACIÓN DEL
+JUZGADO A CARGO DEL PROCESO DE ALIMENTOS QUE CORRESPONDA] en
+el trámite del proceso de alimentos seguido en el expediente [CONSIGNAR EL
+NÚMERO DE EXPEDIENTE JUDICIAL]
+b) La información complementaria solicitada por la entidad contratante para realizar el
+descuento, la que comprende lo siguiente: [LA ENTIDAD CONTRATANTE DEBE
+83 
+De conformidad con lo previsto en el numeral 39.2 del artículo 39 del Reglamento de la Ley N° 32069, Ley General de
+Contrataciones Públicas.
+
+===== PÁGINA 96 (footer ~94) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+94
+CONSIGNAR LA INFORMACIÓN QUE REQUIERA DEL PROVEEDOR PARA
+HACER EFECTIVO EL DESCUENTO]
+[CONSIGNAR CIUDAD Y FECHA]
+……...........................................................
+Firma, nombres y apellidos del postor o
+apoderado, según corresponda
+
+===== PÁGINA 97 (footer ~95) =====
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS
+MUNICIPALIDAD DISTRITAL DE SURQUILLO
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS N° 02-2026-MDS
+95
+ANEXO Nº 19
+EXPERIENCIA Y FORMACIÓN ACADÉMICA DEL PERSONAL CLAVE
+Señores
+DEPENDENCIA ENCARGADA DE LAS CONTRATACIONES
+CONCURSO PÚBLICO ABREVIADO DE SERVICIOS Nº 02-2026-MDS
+Presente.-
+Mediante el presente, declaro que el personal clave propuesto tiene la experiencia y calificaciones conforme se indica a continuación:
+DENOMINACIÓN DEL PUESTO, CARGO Y/O
+POSICIÓN
+NOMBRES Y
+APELLIDOS
+DOCUMENTO DE
+IDENTIDAD
+UNIVERSIDAD O
+INSTITUCIÓN
+EDUCATIVA
+GRADO O TÍTULO
+PROFESIONAL
+TIEMPO DE EXPERIENCIA
+ESPECIFICA (AÑOS, MESES
+Y DÍAS)
+[COMPLETAR EL PROFESIONAL NECESARIO
+SEGÚN EL PERFIL PREVISTO EN LAS BASES]
+[COMPLETAR OTROS PROFESIONALES
+NECESARIOS SEGÚN EL PERFIL PREVISTO EN
+LAS BASES]
+[…]
+[CONSIGNAR CIUDAD Y FECHA]
+………..........................................................
+Firma, nombres y apellidos del postor o
+representante legal o representante común, según corresponda
+Importante para la entidad contratante
+La entidad contratante ajusta el cuadro según los requisitos de calificación adicionales considerados en las presentes bases.
+Esta nota debe ser eliminada una vez culminada la elaboración de las bases.

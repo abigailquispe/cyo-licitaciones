@@ -1,0 +1,170 @@
+% ============================================================================
+%  CONSULTAS Y OBSERVACIONES A LAS BASES
+%  Concurso Público de Servicios N° 001-2026-DP-1 — Despacho Presidencial
+%  Objeto: Servicio de Acceso Dedicado a Internet (TDR N°002-2026-DP/OGTIC)
+%  Alcance: SOLO Capítulo III (Requerimiento/TDR + Requisitos de Calificación)
+%           y Capítulo IV (Factores de Evaluación).
+%  Compilar:  pdflatex consultas_observaciones_CPS_001-2026-DP.tex   (x2)
+% ============================================================================
+\documentclass[10pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage[landscape,a4paper,margin=1.5cm]{geometry}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+\definecolor{encab}{RGB}{31,73,125}
+\definecolor{filagris}{RGB}{238,242,248}
+
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{J}[1]{>{\justifying\arraybackslash}p{#1}}
+
+\setlength{\extrarowheight}{2pt}
+\renewcommand{\arraystretch}{1.15}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\footnotesize Consultas y Observaciones — CPS N.\textsuperscript{o} 001-2026-DP-1}
+\rhead{\footnotesize Despacho Presidencial}
+\cfoot{\footnotesize Página \thepage\ de \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\newcommand{\thd}[1]{\textcolor{white}{\bfseries #1}}
+\newcommand{\cita}[1]{\textit{«#1»}}
+
+\begin{document}
+
+% ============================ PORTADA / DATOS ===============================
+\begin{center}
+  {\Large\bfseries CONSULTAS Y OBSERVACIONES A LAS BASES}\\[2pt]
+  {\large (Capítulo III — Términos de Referencia y Requisitos de Calificación; y Capítulo IV — Factores de Evaluación)}\\[10pt]
+\end{center}
+
+\noindent\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{|>{\bfseries}p{6.0cm}|p{18.5cm}|}
+\hline
+\rowcolor{filagris}\multicolumn{2}{|l|}{\bfseries Formato para Formular Consultas y Observaciones}\\\hline
+Nomenclatura del procedimiento de selección & Concurso Público de Servicios N.\textsuperscript{o} 001-2026-DP-1 \\\hline
+Objeto de la contratación & Contratación del Servicio de Acceso Dedicado a Internet (TDR N.\textsuperscript{o} 002-2026-DP/OGTIC) \\\hline
+Entidad contratante & Despacho Presidencial \\\hline
+Participante & \textbf{[CONSIGNAR LA RAZÓN SOCIAL DEL PARTICIPANTE]} \\\hline
+Marco normativo aplicable & Ley N.\textsuperscript{o} 32069, Ley General de Contrataciones Públicas, y su Reglamento aprobado por D.S. N.\textsuperscript{o} 009-2025-EF \\\hline
+\end{tabular}
+
+\vspace{6pt}
+\noindent\footnotesize\textit{Nota: las citas entre comillas («\ldots») son textuales del Capítulo III — Requerimiento (TDR). La referencia de página corresponde a la paginación oficial de las Bases.}
+\normalsize
+
+% ============================== 1. CONSULTAS ================================
+\section*{1. CONSULTAS}
+
+\renewcommand{\arraystretch}{1.2}
+\begin{longtable}{|C{0.6cm}|C{2.0cm}|C{2.6cm}|C{1.0cm}|J{14.0cm}|J{4.0cm}|}
+\hline
+\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Consulta (debidamente motivada)} & \thd{Norma / referencia} \\
+\hline
+\endfirsthead
+\hline
+\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Consulta (debidamente motivada)} & \thd{Norma / referencia} \\
+\hline
+\endhead
+\hline
+\multicolumn{6}{r}{\footnotesize\textit{continúa en la página siguiente\ldots}}\\
+\endfoot
+\hline
+\endlastfoot
+
+1 & Capítulo III — TDR & 6.1, lit. o) & 27 &
+El TDR establece que \cita{El servicio deberá ser gestionado por el proveedor \ldots Sin embargo, la entidad podrá solicitar acceso para monitoreo siendo que el proveedor deberá evaluar dicho requerimiento y de considerarlo conveniente podrá brindar los accesos necesarios}. Condicionar el acceso de monitoreo de la propia Entidad a la mera conveniencia del proveedor genera incertidumbre y resta transparencia. Solicitamos a la Entidad precisar que dispondrá, como mínimo, de un \textbf{acceso de lectura/visor garantizado} al monitoreo del servicio durante toda la vigencia del contrato. &
+Art. 5.1 i) (transparencia) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+2 & Capítulo III — TDR & 6.2, lit. r) & 31 &
+Se exige una \cita{Herramienta WEB (http) para la visualización del tráfico de los enlaces} con diversas funcionalidades (monitoreo de ancho de banda, tiempo de respuesta del router, pérdidas, CPU/memoria, alertas, refresco $\geq$ 10 min). Solicitamos precisar: (i) el \textbf{número de usuarios concurrentes} que la Entidad requiere; (ii) si puede tratarse de una \textbf{plataforma unificada} que consolide todos los enlaces y servicios; y (iii) el periodo de retención de la información histórica de monitoreo. &
+Art. 5.1 i) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+3 & Capítulo III — TDR & 6.2, lit. q) & 31 &
+El TDR dispone que la herramienta de reportes/administrador de ancho de banda \cita{debiendo ser del mismo fabricante o dueño de la marca}. Solicitamos a la Entidad confirmar que se admiten soluciones de \textbf{fabricante distinto} que cumplan las funcionalidades requeridas, a fin de no restringir la contratación a un único fabricante. &
+Art. 5.1 h) y o) Ley N.\textsuperscript{o} 32069; Art. 44.6 del Reglamento. \\
+\hline
+
+4 & Capítulo III — TDR & 6.1, lit. c) & 26 &
+El TDR precisa que \cita{la entidad cuenta con una plataforma de comunicaciones de la marca Cisco familia Catalyst \ldots instalada en las diferentes sedes}. Solicitamos a la Entidad confirmar que dicha mención es \textbf{únicamente referencial} (infraestructura preexistente) y que los equipos a proveer por el postor \textbf{no requieren ser de una marca específica}, bastando su interoperabilidad mediante estándares abiertos. &
+Art. 5.1 h) Ley N.\textsuperscript{o} 32069; Art. 44.6 del Reglamento. \\
+\hline
+
+5 & Capítulo III — Requisitos de Calificación & C.2.2 (Capacitación del personal clave) & 54 &
+Como requisito de calificación se exige que los dos (02) especialistas cuenten con cursos \cita{de las marcas de la solución a implementar}. Solicitamos confirmar que se aceptará la capacitación correspondiente a \textbf{cualquier marca o fabricante} que el postor oferte e implemente, y no únicamente de una marca predeterminada, a fin de no restringir la participación. &
+Art. 5.1 h) y k) Ley N.\textsuperscript{o} 32069; Art. 44.6 del Reglamento. \\
+\hline
+
+6 & Capítulo III — TDR & 5.6 y Cuadro N.\textsuperscript{o} 02 / N.\textsuperscript{o} 03 & 24--25 &
+Las penalidades por nivel de servicio se aplican según la \cita{disponibilidad del servicio en el ciclo de facturación} (99.95\%) y el \cita{Tiempo de respuesta por nivel de criticidad} (Cuadro N.\textsuperscript{o} 03), verificados con la \cita{herramienta de visualización de tráfico de enlaces}. Solicitamos precisar el \textbf{instrumento técnico objetivo} y el procedimiento con que se medirán la disponibilidad y los tiempos de respuesta, así como el momento de inicio del cómputo, a fin de garantizar la objetividad en la aplicación de penalidades. &
+Art. 5.1 i) y l) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+\multicolumn{6}{|r|}{\textbf{Total de consultas: 6}}\\
+\hline
+\end{longtable}
+
+% ============================ 2. OBSERVACIONES =============================
+\section*{2. OBSERVACIONES}
+
+\renewcommand{\arraystretch}{1.2}
+\begin{longtable}{|C{0.6cm}|C{2.0cm}|C{2.6cm}|C{1.0cm}|J{14.0cm}|J{4.0cm}|}
+\hline
+\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Observación (debidamente motivada)} & \thd{Artículo y norma que se vulnera} \\
+\hline
+\endfirsthead
+\hline
+\rowcolor{encab}
+\thd{N.\textsuperscript{o}} & \thd{Sección / Capítulo} & \thd{Numeral y Literal} & \thd{Pág.} & \thd{Observación (debidamente motivada)} & \thd{Artículo y norma que se vulnera} \\
+\hline
+\endhead
+\hline
+\multicolumn{6}{r}{\footnotesize\textit{continúa en la página siguiente\ldots}}\\
+\endfoot
+\hline
+\endlastfoot
+
+1 & Capítulo III — TDR & 6.3.1, lit. c) y g); n.15 y o.15 & 32--35 &
+Las EETT de seguridad perimetral exigen que la solución \cita{esté basada en tecnología ASIC y ser capaz de brindar una solución de ``Complete Content Protection''} y que \cita{opcionalmente deberá estar presente en el cuadrante de líderes en el último reporte de Gartner de Enterprise Network Firewall}; además, el TDR indica que \cita{la Entidad cuenta con firewall Fortigate 600E} y \cita{firewall interno Fortigate 500E}. El término ``Complete Content Protection'', asociado a tecnología ASIC, corresponde a \textbf{terminología propietaria de un fabricante específico (Fortinet)}, y la exigencia del cuadrante de líderes de Gartner cierra la concurrencia a un grupo reducido de marcas. En conjunto, ello \textbf{orienta la contratación hacia un fabricante determinado}. Solicitamos eliminar los términos propietarios y la referencia al cuadrante de Gartner, y describir las funcionalidades requeridas de modo neutral, admitiendo soluciones equivalentes. &
+Art. 44.6 del Reglamento (D.S. N.\textsuperscript{o} 009-2025-EF); Art. 5.1 h) y j) Ley N.\textsuperscript{o} 32069. \\
+\hline
+
+2 & Capítulo IV — Evaluación de Ofertas & Factor H (Capacitación al personal de la entidad) & 60 &
+El factor de evaluación H asigna \textbf{20 puntos} a la \cita{capacitación oficial del fabricante de los productos ofrecidos por el postor para dos (02) personas de la entidad}, comprometiéndose el postor a entregar \cita{los certificados o constancias oficiales de la marca}. Condicionar el 20\% del puntaje técnico a una capacitación \textbf{oficial de marca} favorece a los postores vinculados a fabricantes específicos y resulta desproporcionado para la capacitación de solo dos personas, afectando la igualdad de trato y la competencia. Solicitamos reformular el factor para que la capacitación pueda acreditarse con cursos del personal calificado del postor, sin exigir certificación oficial de marca. &
+Art. 5.1 h), j) y k) Ley N.\textsuperscript{o} 32069; Art. 44.6 del Reglamento. \\
+\hline
+
+3 & Capítulo IV — Evaluación de Ofertas & Factor I (Mejoras a los TDR) y 4.1 & 59--61 &
+El factor I ``Mejoras a los TDR'' concentra \textbf{50 de los 100 puntos} de la evaluación técnica (con un puntaje técnico mínimo de 70). Varias de sus mejoras favorecen a operadores de gran tamaño y resultan desproporcionadas frente al objeto base (dos enlaces de 200 Mbps, salidas internacionales de 10 Gbps): \cita{salidas internacionales de \ldots proveedores TIER I, con una capacidad mínima de 100 Gbps cada una} (Mejora 1) y \cita{el postor cuente con su propio Centro de Operaciones de Red (NOC) y \ldots Seguridad (SOC)} (Mejora 3). Asignar la mitad del puntaje técnico a mejoras de esta naturaleza puede restringir la competencia. Solicitamos reponderar el factor y/o ajustar las mejoras para que sean proporcionales al objeto y no operen como ventaja para postores de gran escala. &
+Art. 5.1 h), j) y l) Ley N.\textsuperscript{o} 32069; Art. 44.6 del Reglamento. \\
+\hline
+
+4 & Capítulo III — TDR & 6.3.1, lit. d) & 32 &
+El TDR dispone que \cita{no se aceptan equipos de propósito genérico (PCs o servers) sobre los cuales pueda instalarse y/o ejecutar un sistema operativo regular como Microsoft Windows, FreeBSD, SUN solaris, Apple OS-X o GNU/Linux}. La exclusión \textit{a priori} de soluciones de seguridad por su arquitectura (p. ej. soluciones virtualizadas o basadas en software de desempeño equivalente) restringe la concurrencia sin sustento técnico en el resultado o nivel de servicio exigido. Solicitamos admitir cualquier solución que cumpla los parámetros de desempeño y funcionalidad requeridos, con independencia de su arquitectura. &
+Art. 5.1 h), j) y o) Ley N.\textsuperscript{o} 32069; Art. 44.6 del Reglamento. \\
+\hline
+
+\multicolumn{6}{|r|}{\textbf{Total de observaciones: 4}}\\
+\hline
+\multicolumn{6}{|r|}{\textbf{Total de consultas y/u observaciones: 10}}\\
+\hline
+\end{longtable}
+
+\end{document}
