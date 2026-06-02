@@ -27,8 +27,8 @@
 
 \title[OCR + IA para legaltech]{De PDFs escaneados a informes legales con IA}
 \subtitle{OCR open-source, GPU y agentes de IA: un caso real de \emph{legaltech}}
-\author[Expositor]{[Nombre del expositor]}
-\institute[UP]{Universidad del Pacífico}
+\author[A. Quispe \& A. Quispe]{Abigail Quispe \and Alexander Quispe}
+\institute[UP]{\footnotesize abigail.quispe@pucp.edu.pe \quad$\cdot$\quad aquisper@caltech.edu\\[4pt]\normalsize Universidad del Pacífico}
 \date{\today}
 
 \begin{document}
@@ -37,6 +37,7 @@
 
 \begin{frame}{¿Qué vamos a ver hoy?}
   \begin{itemize}
+    \item \textbf{Quiénes somos} como abogados, qué problema enfrentamos y nuestro \textbf{objetivo}.
     \item Un \textbf{problema real}: analizar bases de licitaciones que vienen como PDF escaneado.
     \item Cómo elegir entre \textbf{API de pago} y \textbf{open-source}.
     \item Por qué \textbf{conocer tu hardware} (CPU, RAM, GPU) decide qué puedes correr.
@@ -48,7 +49,64 @@
   \footnotesize\emph{Objetivo: no es memorizar comandos, sino entender cómo se toman las decisiones técnicas.}
 \end{frame}
 
-\section{El problema}
+\section{Contexto: el problema legal}
+
+\begin{frame}{¿Quiénes somos y qué hacemos?}
+  \begin{itemize}
+    \item Somos abogados del área de \textbf{licitaciones} de una empresa de telecomunicaciones.
+    \item Cuando el Estado necesita contratar un servicio (p.\,ej. \emph{internet dedicado}), convoca un \textbf{concurso público} y publica las \textbf{bases}.
+    \item Antes de ofertar, \textbf{revisamos esas bases a fondo} para defender la posición de la empresa y asegurar reglas justas.
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{¿Qué son las Consultas y Observaciones?}
+  Toda licitación tiene una \textbf{etapa formal} para que los participantes presenten:
+  \begin{itemize}
+    \item \textbf{Consultas} — pedidos de \emph{aclaración} ante dudas o ambigüedades de las bases.
+    \item \textbf{Observaciones} — \emph{cuestionamientos} cuando una regla vulnera la ley o las Bases Estándar.
+  \end{itemize}
+  \begin{block}{Clave}
+    Tienen \textbf{plazo perentorio} y la Entidad debe responderlas e integrar las bases. Es la oportunidad de corregir las reglas \emph{antes} de competir.
+  \end{block}
+\end{frame}
+
+\begin{frame}{¿Qué está en juego?}
+  \begin{itemize}
+    \item Unas bases mal diseñadas pueden \textbf{``direccionar''} la contratación hacia un proveedor (p.\,ej. exigir una \textbf{marca} específica).
+    \item Si no observamos a tiempo: competimos en una \textbf{cancha inclinada}\ldots o quedamos fuera.
+    \item Una buena observación \textbf{abre la competencia}, nivela el terreno y a veces \textbf{decide si podemos ganar}.
+  \end{itemize}
+  \vfill
+  \centering\footnotesize\emph{Es trabajo jurídico de alto valor — y muy intensivo en lectura.}
+\end{frame}
+
+\begin{frame}{Nuestro objetivo inicial}
+  \begin{block}{El encargo}
+    Reducir el \textbf{costo} y el \textbf{tiempo} de producir el informe de Consultas y Observaciones, sin perder calidad.
+  \end{block}
+  En concreto:
+  \begin{enumerate}
+    \item \textbf{Leer} las bases escaneadas de forma barata o gratuita (OCR).
+    \item \textbf{Apoyar el análisis} jurídico con IA (borrador de consultas/observaciones).
+    \item \textbf{Generar el informe} con el formato oficial, listo para presentar.
+  \end{enumerate}
+  \centering\textbf{Meta:} subir un PDF y obtener un borrador en \textbf{minutos}.
+\end{frame}
+
+\begin{frame}{El recorrido: los pasos que seguimos}
+  \begin{enumerate}
+    \item Buscar una alternativa \textbf{open-source} al OCR de pago.
+    \item Evaluar el \textbf{hardware} disponible (¿qué podemos correr?).
+    \item Probar un \textbf{LLM de visión} local\ldots\ \textcolor{mal}{(falló por memoria)}.
+    \item \textbf{Pivotar} a un OCR dedicado: \textbf{PaddleOCR}.
+    \item \textbf{Acelerar} con la \textbf{GPU} ($40\times$).
+    \item Empaquetar todo en una \textbf{app} (OCR + IA + PDF).
+  \end{enumerate}
+  \vfill
+  \centering\footnotesize\emph{Spoiler: el camino incluyó un fracaso, y de ahí salió la mejor lección.}
+\end{frame}
+
+\section{El problema técnico}
 
 \begin{frame}{El problema de partida}
   \begin{columns}
@@ -303,6 +361,17 @@ claude -p "Analiza el TDR y devuelve JSON" --output-format json
 \end{frame}
 
 \section{Cierre}
+
+\begin{frame}{Nuestro output: un ejemplo real}
+  El sistema produce items como este (Capítulo III, p.\,32):
+  \begin{exampleblock}{Observación}
+    \footnotesize
+    \textbf{Cita de las bases:} \emph{«basado en tecnología ASIC\ldots Complete Content Protection»}\\[3pt]
+    \textbf{Motivación:} es \textbf{terminología propietaria} de un fabricante; \textbf{direcciona} la contratación hacia una marca. Solicitamos describir las funcionalidades de modo \textbf{neutral}, admitiendo soluciones equivalentes.\\[3pt]
+    \textbf{Norma vulnerada:} Art.~44.6 del Reglamento; Art.~5.1 h) y j) de la Ley N.\textsuperscript{o} 32069.
+  \end{exampleblock}
+  \centering\footnotesize Todo en una \textbf{tabla editable} que el abogado revisa antes de generar el PDF.
+\end{frame}
 
 \begin{frame}{El resultado}
   \begin{block}{De principio a fin}
