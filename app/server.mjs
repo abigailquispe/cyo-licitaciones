@@ -45,10 +45,10 @@ function inferirMeta(fullText) {
 }
 
 // --- Procesar PDF (extracción + OCR + análisis) en segundo plano ---
-async function procesar(id, pdfPath, startHint = 0) {
+async function procesar(id, pdfPath, startHint = 0, analizarTodo = false) {
   try {
     const onProgress = (p) => setJob(id, { step: p.step, message: p.message });
-    const r = await procesarBases(pdfPath, { onProgress, startHint });
+    const r = await procesarBases(pdfPath, { onProgress, startHint, analizarTodo });
     const meta = inferirMeta(r.fullText);
     setJob(id, { capText: r.capText, meta, encontrado: r.encontrado, imagePages: r.imagePages });
 
@@ -71,8 +71,9 @@ app.post('/api/analyze', upload.single('pdf'), (req, res) => {
   const id = crypto.randomBytes(6).toString('hex');
   const nombre = (req.file.originalname || 'bases.pdf').replace(/\.pdf$/i, '');
   const startHint = parseInt(req.body.startHint, 10) || 0;
+  const analizarTodo = req.body.analizarTodo === 'true' || req.body.analizarTodo === 'on';
   setJob(id, { step: 'inicio', message: 'En cola…', done: false, pdfPath: req.file.path, nombre });
-  procesar(id, req.file.path, startHint); // async, no await
+  procesar(id, req.file.path, startHint, analizarTodo); // async, no await
   res.json({ jobId: id });
 });
 

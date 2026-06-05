@@ -221,7 +221,7 @@ export function findCuadroResumen(pageTexts, desde) {
   return -1;
 }
 
-export async function procesarBases(pdfPath, { onProgress = () => {}, ocrEnabled = true, startHint = 0 } = {}) {
+export async function procesarBases(pdfPath, { onProgress = () => {}, ocrEnabled = true, startHint = 0, analizarTodo = false } = {}) {
   onProgress({ step: 'extraer', message: 'Extrayendo texto del PDF…' });
   const { numPages, pages } = await extraerTexto(pdfPath);
   const pageTexts = pages.slice();
@@ -258,22 +258,31 @@ export async function procesarBases(pdfPath, { onProgress = () => {}, ocrEnabled
   else coreEnd = Math.min(baseIV + 15, pageTexts.length);
   coreEnd = Math.min(Math.max(coreEnd, desde + 1), pageTexts.length);
 
-  const incluir = new Set();
-  for (let i = desde; i < coreEnd; i++) incluir.add(i);
-
-  // Si el TDR real está FUERA del núcleo (viene como anexo), incluirlo hasta el final.
-  let tdrAnexo = false;
-  if (tdrStart >= 0 && (tdrStart < desde || tdrStart >= coreEnd)) {
-    tdrAnexo = true;
-    for (let i = tdrStart; i < pageTexts.length; i++) incluir.add(i);
-  }
-
-  const idx = [...incluir].sort((a, b) => a - b);
-  const capText = idx.map(i => `\n\n===== PÁGINA PDF ${i + 1} =====\n${pageTexts[i] || ''}`).join('');
   const fullText = pageTexts.map((t, i) => `\n\n===== PÁGINA PDF ${i + 1} =====\n${t || ''}`).join('');
 
+  // Selección del texto a analizar.
+  const sinEstructura = startIII < 0 && startIV < 0 && tdrStart < 0;
+  let capText, modoSel, tdrAnexo = false;
+  if (analizarTodo || sinEstructura) {
+    // Documento sin estructura reconocible (p. ej. SOLO el TDR, sin rótulos) ->
+    // se analiza el documento COMPLETO.
+    capText = fullText;
+    modoSel = analizarTodo ? 'documento completo (forzado)' : 'documento completo (sin estructura detectada)';
+  } else {
+    const incluir = new Set();
+    for (let i = desde; i < coreEnd; i++) incluir.add(i);
+    // Si el TDR real está FUERA del núcleo (viene como anexo), incluirlo hasta el final.
+    if (tdrStart >= 0 && (tdrStart < desde || tdrStart >= coreEnd)) {
+      tdrAnexo = true;
+      for (let i = tdrStart; i < pageTexts.length; i++) incluir.add(i);
+    }
+    const idx = [...incluir].sort((a, b) => a - b);
+    capText = idx.map(i => `\n\n===== PÁGINA PDF ${i + 1} =====\n${pageTexts[i] || ''}`).join('');
+    modoSel = tdrAnexo ? 'núcleo Cap. III/IV + TDR anexo' : 'núcleo Cap. III/IV';
+  }
+
   return {
-    numPages, imagePages, modoOCR,
+    numPages, imagePages, modoOCR, modoSel,
     encontrado: { capIII: startIII >= 0, capIV: startIV >= 0, tdr: tdrStart >= 0, tdrAnexo },
     indices: {
       startIII: startIII + 1, startIV: startIV + 1, startV: startV >= 0 ? startV + 1 : null,

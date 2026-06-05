@@ -28,6 +28,7 @@ $('#btn-analizar').onclick = async () => {
   fd.append('pdf', archivo);
   const hint = $('#start-hint').value;
   if (hint) fd.append('startHint', hint);
+  if ($('#analizar-todo').checked) fd.append('analizarTodo', 'true');
   const r = await fetch('/api/analyze', { method: 'POST', body: fd }).then(x => x.json());
   if (r.error) return fallo(r.error);
   jobId = r.jobId;
